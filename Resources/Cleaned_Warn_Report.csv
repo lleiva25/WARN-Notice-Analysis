@@ -1,0 +1,85 @@
+,County,Layoff Status,No. of Employees,Total Employees,Percentage of Employees,Notice-Processed,Processed-Effective,Notice-Completion
+0,Alameda,Closure Permanent,1549,3096,50%,33,36,55
+1,Alameda,Layoff Permanent,1409,3096,46%,33,36,55
+2,Alameda,Layoff Temporary,138,3096,4%,33,36,55
+3,Butte,Closure Permanent,227,229,99%,24,45,43
+4,Butte,Layoff Permanent,2,229,1%,24,45,43
+5,Contra Costa,Closure Permanent,885,1735,51%,21,52,74
+6,Contra Costa,Layoff Permanent,850,1735,49%,21,52,74
+7,El Dorado,Layoff Permanent,47,47,100%,32,33,65
+8,Fresno,Closure Permanent,45,128,35%,56,41,61
+9,Fresno,Layoff Permanent,83,128,65%,56,41,61
+10,Glenn,Closure Permanent,56,110,51%,30,36,66
+11,Glenn,Closure Temporary,54,110,49%,30,36,66
+12,Humboldt,Layoff Permanent,6,6,100%,90,39,51
+13,Imperial,Layoff Permanent,10,10,100%,97,46,51
+14,Kern,Closure Permanent,17,2510,1%,37,38,42
+15,Kern,Layoff Permanent,463,2510,18%,37,38,42
+16,Kern,Layoff Temporary,2030,2510,81%,37,38,42
+17,Los Angeles,Closure Permanent,5601,13350,42%,26,43,60
+18,Los Angeles,Closure Temporary,82,13350,1%,26,43,60
+19,Los Angeles,Layoff Permanent,7558,13350,57%,26,43,60
+20,Los Angeles,Layoff Temporary,102,13350,1%,26,43,60
+21,Los Angeles,Layoffs Unknown,7,13350,0%,26,43,60
+22,Marin,Closure Permanent,49,178,28%,55,56,49
+23,Marin,Layoff Permanent,129,178,72%,55,56,49
+24,Mariposa,Layoff Permanent,2,2,100%,97,46,51
+25,Merced,Closure Permanent,183,183,100%,27,33,60
+26,Monterey,Closure Permanent,25,25,100%,18,55,73
+27,Napa,Closure Permanent,147,392,38%,27,51,78
+28,Napa,Layoff Permanent,28,392,7%,27,51,78
+29,Napa,Layoff Temporary,217,392,55%,27,51,78
+30,Nevada,Closure Permanent,58,58,100%,2,63,65
+31,Orange,Closure Permanent,1834,5145,36%,28,33,53
+32,Orange,Closure Temporary,349,5145,7%,28,33,53
+33,Orange,Layoff Permanent,2263,5145,44%,28,33,53
+34,Orange,Layoff Temporary,699,5145,14%,28,33,53
+35,Placer,Closure Permanent,96,297,32%,26,49,76
+36,Placer,Layoff Permanent,201,297,68%,26,49,76
+37,Plumas,Layoff Temporary,62,62,100%,9,13,4
+38,Riverside,Closure Permanent,242,1605,15%,37,38,63
+39,Riverside,Layoff Permanent,1278,1605,80%,37,38,63
+40,Riverside,Layoffs Unknown,85,1605,5%,37,38,63
+41,Sacramento,Closure Permanent,327,1722,19%,21,49,65
+42,Sacramento,Layoff Permanent,1284,1722,75%,21,49,65
+43,Sacramento,Layoff Temporary,111,1722,6%,21,49,65
+44,San Bernardino,Closure Permanent,2014,2966,68%,28,47,73
+45,San Bernardino,Layoff Permanent,952,2966,32%,28,47,73
+46,San Diego,Closure Permanent,1711,7598,23%,32,38,61
+47,San Diego,Closure Temporary,66,7598,1%,32,38,61
+48,San Diego,Layoff Permanent,5033,7598,66%,32,38,61
+49,San Diego,Layoff Temporary,788,7598,10%,32,38,61
+50,San Francisco,Closure Permanent,594,4719,13%,28,44,56
+51,San Francisco,Layoff Permanent,4125,4719,87%,28,44,56
+52,San Joaquin,Closure Permanent,68,329,21%,24,46,56
+53,San Joaquin,Closure Temporary,104,329,32%,24,46,56
+54,San Joaquin,Layoff Permanent,27,329,8%,24,46,56
+55,San Joaquin,Layoff Temporary,130,329,40%,24,46,56
+56,San Luis Obispo,Closure Permanent,37,37,100%,27,29,53
+57,San Mateo,Closure Permanent,1008,3233,31%,25,44,59
+58,San Mateo,Layoff Permanent,2225,3233,69%,25,44,59
+59,Santa Barbara,Closure Permanent,231,368,63%,47,34,52
+60,Santa Barbara,Layoff Permanent,137,368,37%,47,34,52
+61,Santa Clara,Closure Permanent,801,9950,8%,28,36,57
+62,Santa Clara,Closure Temporary,774,9950,8%,28,36,57
+63,Santa Clara,Layoff Permanent,8375,9950,84%,28,36,57
+64,Santa Cruz,Closure Permanent,74,75,99%,15,52,68
+65,Santa Cruz,Layoff Permanent,1,75,1%,15,52,68
+66,Shasta,Layoff Permanent,4,101,4%,59,31,61
+67,Shasta,Layoff Temporary,97,101,96%,59,31,61
+68,Solano,Closure Permanent,43,351,12%,12,44,56
+69,Solano,Layoff Permanent,308,351,88%,12,44,56
+70,Sonoma,Closure Permanent,309,459,67%,23,48,63
+71,Sonoma,Layoff Permanent,150,459,33%,23,48,63
+72,Stanislaus,Closure Permanent,279,634,44%,38,32,57
+73,Stanislaus,Closure Temporary,191,634,30%,38,32,57
+74,Stanislaus,Layoff Permanent,3,634,0%,38,32,57
+75,Stanislaus,Layoff Temporary,161,634,25%,38,32,57
+76,Tulare,Closure Permanent,443,890,50%,40,26,65
+77,Tulare,Layoff Permanent,141,890,16%,40,26,65
+78,Tulare,Layoff Temporary,306,890,34%,40,26,65
+79,Ventura,Closure Permanent,227,1296,18%,28,37,58
+80,Ventura,Closure Temporary,870,1296,67%,28,37,58
+81,Ventura,Layoff Permanent,199,1296,15%,28,37,58
+82,Yolo,Closure Permanent,335,343,98%,26,34,60
+83,Yolo,Layoff Permanent,8,343,2%,26,34,60
