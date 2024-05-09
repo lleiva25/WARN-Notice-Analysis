@@ -51,4 +51,5 @@ Analysis Walkthrough
 Action Items
 ----------------------------------------------------------------
 - Find a method to merge the columns and match the correct spelling for all company. Currently 408 company names haven't found their match.
+- Create Dashboard for presenting data
 ----------------------------------------------------------------
