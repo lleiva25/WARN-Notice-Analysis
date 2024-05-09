@@ -1,0 +1,1407 @@
+,County,Notice Date,Processed Date,Effective Date,Company,Layoff Status,No. of Employees,Correct Spelling
+0,Contra Costa,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,29,David's Bridal
+1,Fresno,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,31,David's Bridal
+2,Placer,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,47,David's Bridal
+3,San Diego,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,29,David's Bridal
+4,San Diego,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,35,David's Bridal
+5,Los Angeles,2023-04-25,2023-07-03,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,35,David's Bridal
+6,Kern,2023-04-25,2023-07-05,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,27,David's Bridal
+7,Los Angeles,2023-06-07,2023-07-05,2023-08-07,Rico Corp. dba D'Addario Woodwinds,Closure Permanent,1,D' Addario Woodwinds
+8,Butte,2023-04-25,2023-07-05,2023-09-02,"David's Bridal, LLC",Layoff Permanent,18,
+9,Riverside,2023-04-25,2023-07-05,2023-09-02,"David's Bridal, LLC",Layoff Permanent,27,
+10,Riverside,2023-04-25,2023-07-05,2023-09-02,"David's Bridal, LLC",Layoff Permanent,34,
+11,Sacramento,2023-04-25,2023-07-05,2023-09-02,"David's Bridal, LLC",Layoff Permanent,46,
+12,Santa Clara,2023-04-25,2023-07-05,2023-09-02,"David&rsquo;s Bridal, LLC",Layoff Permanent,38,David's Bridal
+13,Stanislaus,2023-04-25,2023-07-05,2023-09-02,"David's Bridal, LLC",Layoff Permanent,40,
+14,Stanislaus,2023-06-07,2023-07-05,2023-08-07,Nestle USA,Layoff Temporary,75,Nestle
+15,Los Angeles,2023-06-07,2023-07-06,2023-08-04,"Sodexo, Inc. and Affiliates at Beverly Hospital",Layoff Permanent,68,"Sodexo, Inc."
+16,San Francisco,2023-06-06,2023-07-06,2023-06-06,Primary Health,Layoff Permanent,60,Primary Health
+17,Los Angeles,2023-06-07,2023-07-06,2023-08-14,Los Angeles Times Communications LLC,Layoff Permanent,57,Los Angeles Times Communications
+18,Los Angeles,2023-06-07,2023-07-06,2023-08-14,Los Angeles Times Communications LLC,Layoff Permanent,15,Los Angeles Times Communications
+19,Fresno,2023-06-09,2023-07-07,2023-08-15,HMSHost,Closure Permanent,69,
+20,Santa Clara,2023-06-05,2023-07-07,2023-08-04,Microsoft,Layoff Permanent,2,Microsoft
+21,Los Angeles,2023-07-07,2023-07-10,2023-09-08,Rico Corp. dba D'Addario Woodwinds,Layoff Permanent,4,D' Addario Woodwinds
+22,Los Angeles,2023-06-12,2023-07-10,2023-08-12,Henry Mayo Newhall Hospital,Layoff Permanent,107,Henry Mayo Newhall Hospital
+23,San Mateo,2023-06-07,2023-07-10,2023-06-08,"Sumo Logic, Inc.",Layoff Permanent,79,Sumo Logic
+24,Orange,2023-06-13,2023-07-10,2023-06-30,Monte Nido & Affiliates,Closure Permanent,6,Monte Nido & Affiliates
+25,San Diego,2023-06-12,2023-07-10,2023-07-29,La Tortilla Factory,Closure Permanent,5,
+26,Santa Clara,2023-06-05,2023-07-11,2023-05-31,Intel Corporation,Layoff Permanent,78,Intel Corporation
+27,Riverside,2023-06-15,2023-07-11,2023-09-01,"Tropitone Furniture Company, Inc.",Closure Permanent,3,Tropitone Furniture Company
+28,Riverside,2023-06-15,2023-07-11,2023-12-01,"Tropitone Furniture Company, Inc.",Closure Permanent,3,Tropitone Furniture Company
+29,Riverside,2023-06-15,2023-07-11,2023-12-31,"Tropitone Furniture Company, Inc.",Closure Permanent,2,Tropitone Furniture Company
+30,Sacramento,2023-06-15,2023-07-11,2023-08-15,SK hynix NAND Product Solutions Corp. dba Solidigm,Layoff Permanent,98,Solidigm
+31,San Bernardino,2023-06-15,2023-07-11,2023-08-16,MasterBrand Cabinets LLC,Layoff Permanent,90,MasterBrand Cabinets LLC
+32,Sonoma,2023-06-16,2023-07-11,2023-08-16,Rieke LLC,Closure Permanent,49,Rieke LLC
+33,Sonoma,2023-06-16,2023-07-11,2023-10-24,Rieke LLC,Closure Permanent,21,Rieke LLC
+34,Orange,2023-06-13,2023-07-12,2023-08-15,"T. Hasegawa U.S.A., Inc.",Closure Permanent,13,T. Hasegawa U.S.A.
+35,San Diego,2023-06-13,2023-07-12,2023-08-13,Front Porch Communities and Services,Closure Permanent,185,Front Porch Communities and Services
+36,Alameda,2023-06-21,2023-07-13,2023-07-21,"Illumina, Inc.",Layoff Permanent,1,
+37,San Mateo,2023-06-29,2023-07-13,2023-09-01,"Robinhood Markets, Inc.",Layoff Permanent,23,Robinhood Markets
+38,San Mateo,2023-06-21,2023-07-13,2023-07-21,"Illumina, Inc.",Layoff Permanent,71,
+39,San Bernardino,2023-06-19,2023-07-13,2023-08-19,FabFitFun Fulfillment Center,Layoff Permanent,63,FabFitFun Fulfillment Center
+40,San Diego,2023-06-21,2023-07-13,2023-07-21,Illumina Inc. World Headquarters,Layoff Permanent,64,
+41,San Diego,2023-06-21,2023-07-13,2023-07-21,"Illumina, Inc.",Layoff Permanent,14,
+42,San Joaquin,2023-06-16,2023-07-13,2023-08-25,Jabil Inc.,Closure Temporary,53,Jabil Inc.
+43,Alameda,2023-06-12,2023-07-17,2023-08-11,Boston Scientific Corporation,Closure Permanent,52,Boston Scientific Corporation
+44,Fresno,2023-05-31,2023-07-17,2023-05-31,"Gap, Inc.",Layoff Permanent,2,GAP
+45,Los Angeles,2023-06-08,2023-07-17,2023-08-04,Spotify USA Inc.,Layoff Permanent,68,Spotify
+46,San Mateo,2023-06-13,2023-07-17,2023-09-01,Amgen,Closure Permanent,4,Amgen
+47,San Francisco,2023-05-31,2023-07-17,2023-05-31,"Gap, Inc.",Layoff Permanent,31,GAP
+48,San Francisco,2023-05-31,2023-07-17,2023-05-31,"Gap, Inc.",Layoff Permanent,1,GAP
+49,Placer,2023-06-20,2023-07-19,2023-08-21,"Xcite Steps, a wholly owned subsidiary of Invo Healthcare, LLC",Closure Permanent,96,Xcite Steps
+50,San Diego,2023-06-20,2023-07-19,2023-08-21,"Xcite Steps, a wholly owned subsidiary of Invo Healthcare, LLC",Closure Permanent,99,Xcite Steps
+51,San Francisco,2023-07-12,2023-07-19,2023-08-01,"Anchor Brewing Company, LLC",Closure Permanent,55,Anchor Brewing Company
+52,Los Angeles,2023-06-20,2023-07-20,2023-06-30,Winkontent Limited dba Monocle,Closure Permanent,3,Monocle
+53,San Bernardino,2023-06-08,2023-07-20,2023-08-31,Prolific Logistics LLC,Closure Permanent,136,Prolific Logistics LLC
+54,San Francisco,2023-06-21,2023-07-20,2023-06-28,"Anaplan, Inc.",Layoff Permanent,14,Anaplan
+55,San Francisco,2023-06-21,2023-07-20,2023-07-21,"Anaplan, Inc.",Layoff Permanent,1,Anaplan
+56,San Francisco,2023-06-21,2023-07-20,2023-08-21,"Anaplan, Inc.",Layoff Permanent,100,Anaplan
+57,San Francisco,2023-06-21,2023-07-20,2023-09-21,"Anaplan, Inc.",Layoff Permanent,2,Anaplan
+58,San Francisco,2023-06-21,2023-07-20,2023-10-10,"Anaplan, Inc.",Layoff Permanent,2,Anaplan
+59,Santa Clara,2023-06-21,2023-07-24,2023-06-09,LinkedIn Corporation,Layoff Permanent,102,LinkedIn
+60,Santa Clara,2023-06-21,2023-07-24,2023-06-09,LinkedIn Corporation,Layoff Permanent,13,LinkedIn
+61,San Francisco,2023-06-21,2023-07-24,2023-06-09,LinkedIn Corporation,Layoff Permanent,72,LinkedIn
+62,San Francisco,2023-07-11,2023-07-24,2023-07-11,Wells Fargo,Layoff Permanent,32,Wells Fargo
+63,San Francisco,2023-07-11,2023-07-24,2023-07-11,Wells Fargo,Layoff Permanent,10,Wells Fargo
+64,San Francisco,2023-07-11,2023-07-24,2023-07-11,Wells Fargo,Layoff Permanent,1,Wells Fargo
+65,San Francisco,2023-07-11,2023-07-24,2023-07-11,Wells Fargo,Layoff Permanent,8,Wells Fargo
+66,Alameda,2023-06-07,2023-07-25,2023-08-06,AMP Printing,Closure Permanent,54,
+67,Alameda,2023-06-07,2023-07-25,2023-08-06,AMP Printing - Mailing Address,Closure Permanent,35,AMP Printing
+68,Kings,2023-05-19,2023-07-25,2023-07-30,Amentum at NAS Lemoore,Layoff Permanent,32,
+69,Los Angeles,2023-04-28,2023-07-25,2023-06-30,Cotton On La Mirada Distribution Center,Closure Permanent,88,Cotton On La Mirada Distribution Center
+70,San Diego,2023-05-22,2023-07-25,2023-07-30,Amentum at NAS North Island,Layoff Permanent,73,Amentum at NAS
+71,Alameda,2023-06-22,2023-07-26,2023-08-22,Jabil Inc.,Layoff Permanent,85,Jabil Inc.
+72,Alameda,2023-06-22,2023-07-26,2023-08-22,Jabil Inc.,Layoff Permanent,28,Jabil Inc.
+73,Alameda,2023-06-21,2023-07-26,2023-08-16,Individualized ABA Services for Families dba IABAS For Families,Closure Permanent,65,Individualized ABA Services for Families
+74,Alameda,2023-06-26,2023-07-26,2023-08-25,"Amyris, Inc.",Layoff Permanent,65,Amyris
+75,Los Angeles,2023-06-21,2023-07-26,2023-08-14,Company 3 Method Inc.,Layoff Permanent,79,
+76,Orange,2023-06-23,2023-07-26,2023-08-23,Lazy Dog Restaurant and Bar,Closure Permanent,109,Lazy Dog Restaurant and Bar
+77,Orange,2023-06-28,2023-07-27,2023-09-01,"TTM Technologies, Inc., subsidiary of TTM Technologies North America, LLC",Closure Permanent,102,TTM Technologies
+78,Los Angeles,2023-06-29,2023-07-27,2023-07-03,"Headspace, Inc.",Layoff Permanent,158,Headspace
+79,Los Angeles,2023-06-28,2023-07-27,2023-08-31,"Scenario-Cockram USA, Inc.",Layoff Permanent,43,Scenario-Cockram USA
+80,Los Angeles,2023-06-28,2023-07-27,2023-10-27,"Scenario-Cockram USA, Inc.",Layoff Permanent,10,Scenario-Cockram USA
+81,San Mateo,2023-06-27,2023-07-27,2023-07-28,"Proterra Operating Company, Inc.",Layoff Permanent,48,Proterra Operating Company
+82,San Diego,2023-06-28,2023-07-27,2023-07-29,"RSN Co., LLC dba Bally Sports San Diego",Closure Permanent,5,RSN Co.
+83,San Francisco,2023-06-29,2023-07-27,2023-07-03,"Ginger.io,. Inc.",Layoff Permanent,19,Ginger.io
+84,Alameda,2023-06-29,2023-07-28,2023-08-31,Active Wellness LLC,Layoff Permanent,80,Active Wellness
+85,San Diego,2023-06-29,2023-07-28,2023-09-30,Comprehensive Autism Center,Closure Permanent,9,Comprehensive Autism Center
+86,Alameda,2023-06-22,2023-07-31,2023-08-22,Thermo Fisher Scientific,Layoff Permanent,38,Thermo Fisher Scientific
+87,San Mateo,2023-06-22,2023-07-31,2023-08-22,Thermo Fisher Scientific,Layoff Permanent,64,Thermo Fisher Scientific
+88,Tulare,2023-06-23,2023-08-01,2023-09-01,"Gillette Citrus, Inc.",Layoff Permanent,93,Gillette Citrus
+89,San Diego,2023-06-29,2023-08-02,2023-08-27,Thermo Fisher Scientific,Layoff Permanent,66,Thermo Fisher Scientific
+90,San Diego,2023-06-29,2023-08-02,2023-08-27,Thermo Fisher Scientific,Layoff Permanent,5,Thermo Fisher Scientific
+91,San Diego,2023-06-29,2023-08-02,2023-08-27,Thermo Fisher Scientific,Layoff Permanent,27,Thermo Fisher Scientific
+92,San Diego,2023-06-22,2023-08-02,2023-08-22,Thermo Fisher Scientific,Layoff Permanent,6,Thermo Fisher Scientific
+93,San Diego,2023-06-22,2023-08-02,2023-08-22,Thermo Fisher Scientific,Layoff Permanent,2,Thermo Fisher Scientific
+94,San Diego,2023-06-22,2023-08-02,2023-08-21,"Surgalign Spine Technologies, Inc.",Closure Permanent,99,Surgalign Spine Technologies
+95,San Joaquin,2023-06-15,2023-08-02,2023-06-30,"Circle C Ranch, Inc.",Layoff Permanent,14,Circle C Ranch
+96,Los Angeles,2023-06-29,2023-08-03,2023-08-28,"Tattooed Chef, Inc., wholly owned subsidiary Ittella International, LLC",Closure Permanent,20,Tattooed Chef
+97,Santa Clara,2023-06-30,2023-08-03,2023-06-30,G&C Staffing (The Parent Company - TPCO),Layoff Permanent,54,G&C Staffing
+98,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6304,Closure Permanent,1,
+99,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6305,Closure Permanent,97,
+100,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6309,Closure Permanent,1,
+101,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6325,Closure Permanent,46,
+102,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6403,Closure Permanent,36,
+103,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6409,Closure Permanent,17,
+104,Los Angeles,2023-06-29,2023-08-03,2023-08-28,Tattooed Chef - 6411,Closure Permanent,16,
+105,Los Angeles,2023-06-28,2023-08-04,2023-07-01,"Niantic, Inc.",Closure Permanent,107,"Niantic, Inc."
+106,San Francisco,2023-06-28,2023-08-04,2023-07-01,"Niantic, Inc.",Layoff Permanent,57,"Niantic, Inc."
+107,Sacramento,2023-07-03,2023-08-07,2023-09-04,Hyatt Centric,Layoff Temporary,111,Hyatt Centric
+108,San Bernardino,2023-07-03,2023-08-07,2023-09-03,"GXO Logistics Supply Chain, Inc.",Closure Permanent,61,"GXO Logistics Supply Chain, Inc."
+109,Solano,2023-06-27,2023-08-07,2023-08-31,Valiant Integrated Services,Layoff Permanent,137,Valiant Integrated Services
+110,San Francisco,2023-07-06,2023-08-08,2023-09-04,Crunchbase,Layoff Permanent,63,Crunchbase
+111,Alameda,2023-07-06,2023-08-09,2023-09-04,"Perfect Day, Inc.",Layoff Permanent,75,"Perfect Day, Inc."
+112,Los Angeles,2023-07-06,2023-08-09,2023-06-30,"Hyperloop Technologies, Inc. dba Hyperloop One",Layoff Permanent,3,Hyperloop
+113,Los Angeles,2023-07-09,2023-08-09,2023-08-25,Accesso,Layoff Permanent,111,Accesso
+114,San Bernardino,2023-06-29,2023-08-09,2023-09-30,"NRI USA, LLC",Closure Permanent,164,NRI USA
+115,Contra Costa,2023-07-10,2023-08-10,2023-09-15,Bank of the West,Layoff Permanent,203,Bank of the West
+116,Los Angeles,2023-07-12,2023-08-10,2023-09-18,Macy's Eagle Rock Plaza Store,Closure Permanent,74,
+117,Santa Clara,2023-07-10,2023-08-10,2023-09-08,Microsoft,Layoff Permanent,40,Microsoft
+118,San Francisco,2023-07-10,2023-08-10,2023-09-15,Bank of the West,Layoff Permanent,45,Bank of the West
+119,Sacramento,2023-06-29,2023-08-14,2023-08-31,Intel Corporation,Layoff Permanent,89,Intel Corporation
+120,Santa Clara,2023-06-29,2023-08-14,2023-08-31,Intel Corporation,Layoff Permanent,51,Intel Corporation
+121,Alameda,2023-07-13,2023-08-15,2023-08-14,"Illumina, Inc.",Layoff Permanent,3,
+122,Shasta,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,48,
+123,Glenn,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,2,
+124,San Mateo,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,30,
+125,San Mateo,2023-07-13,2023-08-15,2023-08-14,"Illumina, Inc.",Layoff Permanent,14,
+126,San Mateo,2023-07-14,2023-08-15,2023-09-15,"Alto Operations California, LLC",Closure Permanent,34,Alto Operations California
+127,Santa Clara,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,39,
+128,Orange,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation-Batavia St.,Closure Permanent,83,
+129,Orange,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation-Eckhoff,Closure Permanent,94,Yellow Corporation
+130,Sacramento,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,60,
+131,San Bernardino,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,15,
+132,San Bernardino,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,709,
+133,San Bernardino,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,240,
+134,San Diego,2023-07-13,2023-08-15,2023-08-14,"Illumina, Inc. Worldwide Headquarters",Layoff Permanent,75,Illumina Inc
+135,San Diego,2023-07-13,2023-08-15,2023-08-14,"Illumina, Inc.",Layoff Permanent,76,
+136,Santa Barbara,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,11,
+137,Los Angeles,2023-08-01,2023-08-15,2023-07-30,Yellow Corporation,Closure Permanent,145,
+138,Santa Clara,2023-06-29,2023-08-16,2023-08-31,Intel Corporation,Layoff Permanent,67,Intel Corporation
+139,Santa Clara,2023-06-29,2023-08-16,2023-08-31,Intel Corporation,Layoff Permanent,5,Intel Corporation
+140,Santa Clara,2023-06-29,2023-08-16,2023-08-31,Intel Corporation,Layoff Permanent,98,Intel Corporation
+141,Santa Clara,2023-06-29,2023-08-16,2023-08-31,Intel Corporation,Layoff Permanent,5,Intel Corporation
+142,San Diego,2023-08-01,2023-08-16,2023-07-30,Yellow Corporation,Closure Permanent,58,
+143,San Diego,2023-08-01,2023-08-16,2023-07-30,Yellow Corporation,Closure Permanent,43,
+144,San Diego,2023-08-01,2023-08-16,2023-07-30,Yellow Corporation,Closure Permanent,2,
+145,San Joaquin,2023-08-01,2023-08-17,2023-07-30,Yellow Corporation,Closure Permanent,257,
+146,Santa Clara,2023-08-01,2023-08-17,2023-07-30,Yellow Corporation,Closure Permanent,1,
+147,Los Angeles,2023-08-01,2023-08-17,2023-07-30,Yellow Corporation,Closure Permanent,120,
+148,Solano,2023-08-01,2023-08-17,2023-07-30,Yellow Corporation,Closure Permanent,1,
+149,Alameda,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,99,
+150,Fresno,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,66,
+151,Humboldt,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,4,
+152,Imperial,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,15,
+153,Kern,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,27,
+154,Los Angeles,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,102,
+155,Los Angeles,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,2,
+156,Los Angeles,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,169,
+157,Los Angeles,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,70,
+158,Los Angeles,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,22,
+159,Monterey,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,4,
+160,Sonoma,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,29,
+161,Tulare,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,23,
+162,Ventura,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,23,
+163,Yolo,2023-08-01,2023-08-18,2023-07-30,Yellow Corporation,Closure Permanent,58,
+164,Los Angeles,2023-07-10,2023-08-21,2023-09-10,"Cardinal Glass Industries, Inc.",Closure Permanent,29,Cardinal Glass Industries
+165,Riverside,2023-07-12,2023-08-21,2023-09-15,Peloton Interactive Inc.,Closure Permanent,21,Peloton Interactive Inc.
+166,San Francisco,2023-07-14,2023-08-21,2023-07-14,"Tempo Automation Holdings, Inc.",Closure Permanent,58,Tempo Automation Holdings
+167,Santa Clara,2023-08-01,2023-08-21,2023-11-20,"SPT Microtechnologies USA, Inc.",Closure Temporary,67,SPT Microtechnologies USA
+168,Contra Costa,2023-07-17,2023-08-23,2023-10-27,Corteva Agriscience LLC,Layoff Permanent,31,Corteva Agriscience
+169,Santa Clara,2023-07-14,2023-08-23,2023-09-14,"Fish Market Restaurants, Inc.",Closure Permanent,49,"Fish Market Restaurants, Inc."
+170,Santa Clara,2023-07-14,2023-08-23,2023-09-14,"Fish Market Restaurants, Inc.",Closure Permanent,85,"Fish Market Restaurants, Inc."
+171,Santa Clara,2023-07-14,2023-08-23,2023-09-14,"Fish Market Restaurants, Inc.",Closure Permanent,6,"Fish Market Restaurants, Inc."
+172,San Francisco,2023-07-17,2023-08-23,2023-09-15,"FibroGen, Inc.",Layoff Permanent,104,"FibroGen, Inc."
+173,Marin,2023-07-19,2023-08-23,2023-09-17,Vionic Consumer Care Operations,Closure Permanent,6,Vionic Consumer Care Operations
+174,Alameda,2023-07-21,2023-08-28,2023-11-10,Accenture,Closure Permanent,100,Accenture
+175,Alameda,2023-07-21,2023-08-28,2023-11-10,Accenture,Closure Permanent,140,Accenture
+176,Orange,2023-07-24,2023-08-28,2023-09-29,"Intense Lighting, LLC",Closure Permanent,90,Intense Lighting
+177,Los Angeles,2023-07-18,2023-08-28,2023-09-15,Blowfish,Closure Permanent,20,Blowfish
+178,San Mateo,2023-07-19,2023-08-28,2023-09-19,"Charles River Laboratories, Inc.",Closure Permanent,55,Charles River Laboratories
+179,San Diego,2023-07-24,2023-08-29,2023-09-22,"Gemological Institute of America, Inc. (GIA)",Layoff Permanent,151,Gemological Institute of America
+180,San Diego,2023-07-24,2023-08-29,2023-07-28,Petco Animal Supplies Stores,Layoff Permanent,47,Petco
+181,San Diego,2023-07-24,2023-08-29,2023-10-27,Petco Animal Supplies Stores,Layoff Permanent,9,Petco
+182,San Mateo,2023-07-20,2023-08-30,2023-09-30,"Codexis, Inc.",Layoff Permanent,28,Codexis
+183,San Mateo,2023-07-20,2023-08-30,2023-09-30,"Codexis, Inc.",Layoff Permanent,31,Codexis
+184,San Mateo,2023-08-21,2023-08-30,2023-10-25,CSL Vifor,Layoff Permanent,85,CSL Vifor
+185,Santa Clara,2023-07-20,2023-08-30,2023-09-22,Headway Technologies Inc.,Layoff Permanent,2,Headway Technologies
+186,Santa Clara,2023-07-20,2023-08-30,2023-09-22,Headway Technologies Inc.,Layoff Permanent,59,Headway Technologies
+187,Santa Clara,2023-07-20,2023-08-30,2023-09-22,Headway Technologies Inc.,Layoff Permanent,2,Headway Technologies
+188,Santa Clara,2023-07-20,2023-08-30,2023-09-22,Headway Technologies Inc.,Layoff Permanent,24,Headway Technologies
+189,Santa Clara,2023-07-20,2023-08-30,2023-09-22,Headway Technologies Inc.,Layoff Permanent,3,Headway Technologies
+190,San Diego,2023-07-26,2023-08-30,2023-09-30,"Langmuir Systems, LLC",Closure Permanent,16,Langmuir Systems
+191,Marin,2023-07-26,2023-08-30,2023-09-22,Pizza Antica Mill Valley,Closure Permanent,43,Pizza Antica Mill Valley
+192,Contra Costa,2023-07-27,2023-08-31,2023-09-28,Alstom Mass Transit Corp.,Closure Permanent,41,Alstom Mass Transit Corp.
+193,Santa Clara,2023-07-27,2023-08-31,2023-07-28,"Point Digital Finance, Inc.",Layoff Permanent,61,
+194,Los Angeles,2023-07-27,2023-08-31,2023-09-30,SP+ Corporation at Hollywood Burbank Airport,Closure Permanent,84,SP+ Corporation
+195,San Diego,2023-07-31,2023-09-01,2023-09-30,Tri-City Medical Center,Layoff Permanent,96,Tri-City Medical Center
+196,Los Angeles,2023-07-28,2023-09-06,2023-09-29,"Herbalife International of America, Inc.",Layoff Permanent,12,Herbalife International of America
+197,Los Angeles,2023-07-27,2023-09-06,2023-09-29,"Alchemee, LLC",Closure Permanent,12,Alchemee
+198,Los Angeles,2023-07-28,2023-09-06,2023-09-29,"Herbalife International of America, Inc.",Layoff Permanent,26,Herbalife International of America
+199,Los Angeles,2023-07-28,2023-09-06,2023-09-29,"Herbalife International of America, Inc.",Layoff Permanent,59,Herbalife International of America
+200,Fresno,2023-07-27,2023-09-07,2023-09-30,"Visalia Citrus Packing Group, Inc.",Closure Permanent,34,Visalia Citrus Packing Group
+201,Orange,2023-06-30,2023-09-07,2023-09-01,"Dabico Airport Solutions, Inc.",Closure Permanent,25,Dabico Airport Solutions
+202,Tulare,2023-07-27,2023-09-07,2023-09-30,"Visalia Citrus Packing Group, Inc.",Closure Permanent,31,Visalia Citrus Packing Group
+203,San Diego,2023-08-01,2023-09-08,2023-09-30,"Mercy Medical Transportation, Inc.",Layoff Permanent,58,Mercy Medical Transportation
+204,San Francisco,2023-08-01,2023-09-08,2023-10-02,Planet Labs PBC,Layoff Permanent,85,Planet Labs PBC
+205,Glenn,2023-07-21,2023-09-11,2023-09-25,Johns Manville,Closure Temporary,54,Johns Manville
+206,San Francisco,2023-08-01,2023-09-11,2023-09-30,ContextLogic Inc.,Layoff Permanent,152,ContextLogic Inc.
+207,Los Angeles,2023-08-02,2023-09-12,2023-10-02,Sunrun Inc.,Layoff Permanent,53,
+208,Santa Clara,2023-07-17,2023-09-12,2023-10-16,"Cisco Systems, Inc.",Layoff Permanent,123,Cisco Systems
+209,Santa Clara,2023-07-17,2023-09-12,2023-10-16,"Cisco Systems, Inc.",Layoff Permanent,227,Cisco Systems
+210,Los Angeles,2023-08-04,2023-09-13,2023-10-01,Company 3/Method Inc,Layoff Temporary,19,Company 3 Method
+211,San Luis Obispo,2023-08-04,2023-09-13,2023-09-08,"Beyond Hello CA, LLC",Closure Permanent,2,Beyond Hello CA
+212,Sonoma,2023-08-03,2023-09-13,2023-10-06,"ATI Restoration, LLC",Closure Permanent,18,ATI Restoration
+213,Contra Costa,2023-08-15,2023-09-14,2023-10-14,"Rodan & Fields, LLC",Layoff Permanent,76,Rodan & Fields
+214,San Mateo,2023-08-07,2023-09-14,2023-09-06,"Illumina, Inc.",Layoff Permanent,1,
+215,Sacramento,2023-08-02,2023-09-14,2023-10-02,Sunrun Inc.,Layoff Permanent,50,
+216,San Diego,2023-08-09,2023-09-14,2023-11-17,"L3 Technologies, Inc., a wholly owned subsidiary of L3Harris Technologies",Closure Permanent,134,L3 Technologies
+217,Los Angeles,2023-08-11,2023-09-14,2023-10-10,dnata US Inflight Caterin,Layoff Permanent,73,
+218,Los Angeles,2023-08-11,2023-09-14,2023-11-10,dnata US Inflight Catering,Layoff Permanent,1,dnata US Inflight Catering
+219,Los Angeles,2023-08-11,2023-09-14,2023-11-17,dnata US Inflight Caterin,Layoff Permanent,2,
+220,Alameda,2023-08-04,2023-09-15,2023-10-03,"J.B. Hunt Transport, Inc.",Closure Permanent,127,J.B. Hunt Transport
+221,Orange,2023-07-28,2023-09-15,2023-09-29,Ericsson Inc.,Layoff Permanent,76,Ericsson Inc.
+222,Sacramento,2023-07-28,2023-09-15,2023-09-29,Ericsson Inc.,Layoff Permanent,94,Ericsson Inc.
+223,Alameda,2023-08-07,2023-09-18,2023-08-08,"Amyris, Inc.",Layoff Permanent,62,Amyris
+224,Kern,2023-08-09,2023-09-18,2023-10-13,"URS Midwest, Inc dba United Road Services",Closure Permanent,4,United Road Services
+225,Butte,2023-09-11,2023-09-18,2023-08-11,Joy Signal Technology,Closure Permanent,127,Joy Signal Technology
+226,Los Angeles,2023-08-18,2023-09-19,2023-10-17,"ImmunityBio, Inc.",Layoff Permanent,48,ImmunityBio
+227,Kern,2023-08-25,2023-09-21,2023-10-28,Morrison Healthcare at Adventist Health Bakersfield,Layoff Permanent,74,Morrison Healthcare
+228,Alameda,2023-07-05,2023-09-21,2023-06-30,U.S. Bank,Layoff Permanent,30,
+229,Alameda,2023-07-05,2023-09-21,2023-07-28,U.S. Bank,Layoff Permanent,4,
+230,Alameda,2023-07-05,2023-09-21,2023-09-08,U.S. Bank,Layoff Permanent,23,
+231,San Diego,2023-07-05,2023-09-21,2023-09-08,U.S. Bank (1289),Layoff Permanent,18,
+232,San Diego,2023-07-05,2023-09-21,2023-09-08,U. S. Bank (1296),Layoff Permanent,5,
+233,San Diego,2023-07-05,2023-09-21,2023-07-28,U.S. Bank (1289),Layoff Permanent,5,
+234,San Diego,2023-07-05,2023-09-21,2023-06-30,U.S. Bank (1289),Layoff Permanent,14,
+235,San Diego,2023-07-05,2023-09-21,2023-07-28,U.S. Bank (1296),Layoff Permanent,24,
+236,San Diego,2023-07-05,2023-09-21,2023-06-30,U.S. Bank (1296),Layoff Permanent,3,
+237,San Joaquin,2023-08-22,2023-09-21,2023-10-21,"Certified Freight Logistics, Inc.",Closure Permanent,4,Certified Freight Logistics
+238,Santa Clara,2023-08-22,2023-09-21,2023-10-20,"Wolfspeed, Inc.",Layoff Permanent,50,"Wolfspeed, Inc."
+239,Santa Barbara,2023-08-22,2023-09-21,2023-10-21,"Certified Freight Logistics, Inc.",Closure Permanent,150,Certified Freight Logistics
+240,San Mateo,2023-07-27,2023-09-22,2023-09-01,"Universal Protection Service, LP dba Allied Universal Security Services",Layoff Permanent,9,Universal Protection Service
+241,San Mateo,2023-07-27,2023-09-22,2023-09-01,"Universal Protection Service, LP dba Allied Universal Security Services",Layoff Permanent,13,Universal Protection Service
+242,San Mateo,2023-07-27,2023-09-22,2023-09-01,"Universal Protection Service, LP dba Allied Universal Security Services",Layoff Permanent,3,Universal Protection Service
+243,San Mateo,2023-07-27,2023-09-22,2023-09-01,"Universal Protection Service, LP dba Allied Universal Security Services",Layoff Permanent,12,Universal Protection Service
+244,Los Angeles,2023-08-03,2023-09-22,2023-09-30,"MV Transportation, Inc.",Layoff Permanent,20,"MV Transportation, Inc."
+245,Contra Costa,2023-07-29,2023-09-25,2023-09-30,REACH Medical Holdings,Closure Permanent,10,REACH Medical Holdings
+246,Santa Clara,2023-08-11,2023-09-25,2023-10-16,"TTM Technologies, Inc., subsidiary of TTM Technologies North America, LLC",Closure Permanent,240,TTM Technologies
+247,Santa Clara,2023-08-14,2023-09-25,2023-10-15,Clari Inc.,Layoff Permanent,139,Clari
+248,Riverside,2023-07-29,2023-09-25,2023-09-30,REACH Medical Holdings,Closure Permanent,13,REACH Medical Holdings
+249,San Diego,2023-08-22,2023-09-26,2023-09-08,U.S. Bank,Layoff Permanent,34,
+250,San Diego,2023-08-22,2023-09-26,2023-09-29,U.S. Bank,Layoff Permanent,11,
+251,San Diego,2023-08-22,2023-09-26,2023-09-22,U.S. Bank,Layoff Permanent,1,
+252,San Diego,2023-08-22,2023-09-26,2023-10-06,U.S. Bank,Layoff Permanent,8,
+253,Alameda,2023-08-23,2023-09-27,2023-10-22,"BlackLine Systems, Inc.",Layoff Permanent,21,BlackLine Systems
+254,Los Angeles,2023-08-15,2023-09-27,2023-09-16,The Vons Companies Inc.,Closure Permanent,53,The Vons Companies
+255,Los Angeles,2023-08-23,2023-09-27,2023-10-22,"BlackLine Systems, Inc.",Layoff Permanent,95,BlackLine Systems
+256,San Mateo,2023-08-17,2023-09-27,2023-10-16,"Robinhood Markets, Inc.",Layoff Permanent,2,Robinhood Markets
+257,San Mateo,2023-09-20,2023-09-27,2023-11-20,"Robinhood Markets, Inc.",Layoff Permanent,1,Robinhood Markets
+258,Orange,2023-08-18,2023-09-27,2023-08-12,Burke Williams,Closure Temporary,110,Burke Williams
+259,San Bernardino,2023-08-23,2023-09-27,2023-11-03,"KeHE Distributors, Inc.",Layoff Permanent,80,KeHE Distributors
+260,San Diego,2023-08-16,2023-09-27,2023-10-01,Natural Alternatives International,Closure Temporary,44,Natural Alternatives International
+261,San Diego,2023-08-16,2023-09-27,2023-10-01,Natural Alternatives International,Closure Temporary,22,Natural Alternatives International
+262,Los Angeles,2023-08-28,2023-09-28,2023-10-30,Farmers Insurance Exchange,Layoff Permanent,124,
+263,Los Angeles,2023-08-28,2023-09-28,2023-10-30,Farmers Insurance Exchange - 6303,Layoff Permanent,2,Farmers Insurance Exchange
+264,Los Angeles,2023-08-28,2023-09-28,2023-10-30,"Farmers Group, Inc. - 6301",Layoff Permanent,64,"Farmers Group, Inc."
+265,Los Angeles,2023-08-28,2023-09-28,2023-10-30,"Farmers Group, Inc.",Layoff Permanent,135,
+266,Los Angeles,2023-08-28,2023-09-28,2023-11-27,"Farmers Group, Inc. - 6301",Layoff Permanent,3,"Farmers Group, Inc."
+267,Los Angeles,2023-08-28,2023-09-28,2023-11-28,"Farmers Group, Inc. - 6301",Layoff Permanent,1,"Farmers Group, Inc."
+268,Los Angeles,2023-08-28,2023-09-28,2023-12-26,"Farmers Group, Inc.",Layoff Permanent,1,
+269,Los Angeles,2023-08-28,2023-09-28,2023-11-17,"Farmers Group, Inc.",Layoff Permanent,1,
+270,Orange,2023-08-14,2023-09-28,2023-10-15,DazPak Flexible Packaging,Closure Permanent,19,DazPak Flexible Packaging
+271,Riverside,2023-08-28,2023-09-28,2023-10-29,Legacy Supply Chain Services II,Closure Permanent,39,Legacy Supply Chain Services
+272,Riverside,2023-08-28,2023-09-28,2023-10-29,Legacy Supply Chain Services II,Closure Permanent,14,Legacy Supply Chain Services
+273,Sacramento,2023-08-25,2023-09-28,2023-10-15,Intel Corporation,Layoff Permanent,58,Intel Corporation
+274,San Francisco,2023-08-24,2023-09-28,2023-09-08,"Juul Labs, Inc.",Layoff Permanent,5,
+275,San Francisco,2023-08-24,2023-09-28,2023-09-08,"Juul Labs, Inc. - 270",Layoff Permanent,26,Juul Labs
+276,San Francisco,2023-08-24,2023-09-28,2023-10-15,JUUL Labs,Layoff Permanent,1,
+277,San Francisco,2023-08-24,2023-09-28,2023-09-30,JUUL Labs - 270,Layoff Permanent,3,
+278,San Francisco,2023-08-24,2023-09-28,2023-11-30,Juul Labs - 270,Layoff Permanent,5,
+279,San Francisco,2023-08-24,2023-09-28,2023-12-31,JUUl Labs - 270,Layoff Permanent,3,JUUL Labs
+280,San Francisco,2023-08-24,2023-09-28,2023-12-15,JUUl Labs - 270,Layoff Permanent,1,JUUL Labs
+281,San Francisco,2023-08-24,2023-09-28,2023-10-31,JUUL Labs - 270,Layoff Permanent,1,
+282,San Francisco,2023-08-24,2023-09-28,2023-09-08,JUUL Labs - 271,Layoff Permanent,12,
+283,San Francisco,2023-08-24,2023-09-28,2023-10-15,JUUL Labs - 271,Layoff Permanent,2,
+284,San Francisco,2023-08-24,2023-09-28,2023-12-01,JUUL Labs - 271,Layoff Permanent,1,
+285,Los Angeles,2023-08-30,2023-09-29,2023-10-31,Del Friscos Grille,Closure Permanent,53,Del Friscos Grille
+286,Orange,2023-08-31,2023-09-29,2023-10-31,Kraft Heinz Foods Company,Closure Permanent,60,Kraft Heinz Foods Company
+287,San Luis Obispo,2023-08-29,2023-09-29,2023-10-31,"Splash Cafe, Inc. dba Splash Cafe Artisan Bakery",Closure Permanent,29,Splash Cafe
+288,Los Angeles,2023-09-01,2023-10-02,2023-11-14,"PLI Holdings, Inc.",Closure Permanent,217,"PLI Holdings, Inc."
+289,Los Angeles,2023-08-31,2023-10-02,2023-11-01,Peloton Interactive Inc.,Closure Permanent,3,Peloton Interactive Inc.
+290,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,6,FUJIFILM Irvine Scientific
+291,Riverside,2023-08-09,2023-10-02,2023-10-06,"Kings Garden, Inc.",Layoff Permanent,59,Kings Garden
+292,Riverside,2023-08-09,2023-10-02,2023-10-06,"Kings Garden, Inc.",Layoff Permanent,4,Kings Garden
+293,Riverside,2023-08-09,2023-10-02,2023-10-06,"Kings Garden, Inc.",Layoff Permanent,3,Kings Garden
+294,Riverside,2023-08-09,2023-10-02,2023-10-06,"Kings Garden, Inc.",Layoff Permanent,4,Kings Garden
+295,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,18,FUJIFILM Irvine Scientific
+296,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,1,FUJIFILM Irvine Scientific
+297,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,7,FUJIFILM Irvine Scientific
+298,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,2,FUJIFILM Irvine Scientific
+299,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,11,FUJIFILM Irvine Scientific
+300,Orange,2023-08-02,2023-10-02,2023-10-06,"FUJIFILM Irvine Scientific, Inc.",Layoff Permanent,12,FUJIFILM Irvine Scientific
+301,Tulare,2023-09-01,2023-10-02,2023-11-01,Sonoco,Closure Permanent,292,Sonoco
+302,Alameda,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,21,
+303,Los Angeles,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,8,
+304,Los Angeles,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals - Pasadena,Layoff Permanent,1,
+305,Los Angeles,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals-Walnut,Layoff Permanent,8,Kaiser Foundation Hospitals
+306,Los Angeles,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals-Los Robles,Layoff Permanent,1,
+307,Los Angeles,2023-09-01,2023-10-03,2023-09-01,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+308,Alameda,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals - Ordway Building,Layoff Permanent,2,
+309,Alameda,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,1,
+310,Alameda,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals - Harrison,Layoff Permanent,4,
+311,Orange,2023-09-01,2023-10-03,2023-09-01,"Boardriders Wholesale, LLC",Layoff Permanent,57,Boardriders Wholesale
+312,Orange,2023-09-01,2023-10-03,2023-09-14,"Boardriders Wholesale, LLC",Layoff Permanent,3,Boardriders Wholesale
+313,Orange,2023-09-01,2023-10-03,2023-10-13,"Boardriders Wholesale, LLC",Layoff Permanent,12,Boardriders Wholesale
+314,Orange,2023-09-01,2023-10-03,2023-09-01,"Boardriders Wholesale, LLC",Layoff Permanent,10,Boardriders Wholesale
+315,Riverside,2023-09-01,2023-10-03,2023-09-01,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+316,San Bernardino,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,1,
+317,San Diego,2023-09-08,2023-10-03,2023-11-07,"Coronado Brewing Company, Inc.",Closure Permanent,27,Coronado Brewing Company
+318,San Diego,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,1,
+319,Los Angeles,2023-09-12,2023-10-03,2023-11-10,Kaiser Foundation Hospitals,Layoff Permanent,1,
+320,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,26,California Resources Corporation
+321,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,1,California Resources Corporation
+322,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,4,California Resources Corporation
+323,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,1,California Resources Corporation
+324,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,25,California Resources Corporation
+325,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,2,California Resources Corporation
+326,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,1,California Resources Corporation
+327,Kern,2023-08-28,2023-10-04,2023-08-28,California Resources Corporation,Layoff Permanent,1,California Resources Corporation
+328,Sacramento,2023-09-01,2023-10-04,2023-12-31,Jensen Enterprises Inc. dba Jensen Precast,Closure Permanent,40,Jensen Enterprises Inc
+329,Sacramento,2023-09-29,2023-10-04,2023-12-29,Foundation for California Community Colleges,Layoff Permanent,298,Foundation for California Community Colleges
+330,San Diego,2023-08-17,2023-10-04,2023-10-16,"AppFolio, Inc.",Layoff Permanent,13,AppFolio
+331,Santa Barbara,2023-08-17,2023-10-04,2023-10-16,"AppFolio, Inc.",Layoff Permanent,98,AppFolio
+332,Los Angeles,2023-09-05,2023-10-05,2023-11-04,"West Coast Industries, Inc.",Closure Permanent,53,West Coast Industries
+333,Los Angeles,2023-09-05,2023-10-05,2023-11-30,"West Coast Industries, Inc.",Closure Permanent,4,West Coast Industries
+334,Alameda,2023-08-07,2023-10-11,2023-10-03,"Astra Space Operations, LLC",Layoff Permanent,58,Astra Space Operations
+335,Santa Clara,2023-09-06,2023-10-11,2023-11-15,"Newark Group, Inc.",Closure Permanent,74,Newark Group
+336,Santa Clara,2023-09-06,2023-10-11,2023-11-06,"ChargePoint, Inc.",Layoff Permanent,79,ChargePoint
+337,Alameda,2023-09-06,2023-10-13,2023-11-01,Zymergen Inc.,Layoff Permanent,7,Zymergen Inc.
+338,Alameda,2023-09-11,2023-10-13,2023-11-10,Jabil Inc.,Layoff Permanent,140,Jabil Inc.
+339,Santa Clara,2023-09-06,2023-10-13,2023-11-03,Safeway,Closure Permanent,38,Safeway
+340,San Joaquin,2023-09-19,2023-10-13,2023-12-25,Jabil Inc.,Closure Temporary,51,Jabil Inc.
+341,Alameda,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+342,Alameda,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+343,Alameda,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,5,
+344,Alameda,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+345,Alameda,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+346,Orange,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+347,Orange,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,4,
+348,Contra Costa,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+349,Contra Costa,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+350,Contra Costa,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,4,
+351,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,4,
+352,Placer,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,2,
+353,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+354,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,2,
+355,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,4,
+356,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,2,
+357,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,1,
+358,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,3,
+359,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,3,
+360,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,3,
+361,Los Angeles,2023-08-10,2023-10-16,2023-10-09,Carbon Health,Layoff Permanent,5,
+362,Fresno,2023-08-02,2023-10-17,2023-10-02,Sunrun Inc.,Layoff Permanent,31,
+363,Fresno,2023-08-02,2023-10-17,2023-10-02,Sunrun Inc. - Angus,Layoff Permanent,22,Sunrun Inc.
+364,Yolo,2023-09-12,2023-10-17,2023-11-13,LEER Group,Closure Permanent,122,
+365,Yolo,2023-09-12,2023-10-17,2023-11-13,LEER Group - 1242,Closure Permanent,27,LEER Group
+366,Fresno,2023-09-12,2023-10-18,2023-11-13,Sunrun Inc.,Layoff Permanent,1,
+367,Los Angeles,2023-09-11,2023-10-18,2023-10-31,Noble House Home Furnishing LLC Superior HQ,Closure Permanent,100,
+368,Los Angeles,2023-09-11,2023-10-18,2023-10-31,Noble House Home Furnishings LLC GDF Outlet,Closure Permanent,7,
+369,Los Angeles,2023-09-11,2023-10-18,2023-10-31,Noble House Home Furnishings - 7901 Deering,Closure Permanent,9,
+370,Los Angeles,2023-09-11,2023-10-18,2023-10-31,Noble House Home Furnishings LLC,Closure Permanent,27,
+371,Los Angeles,2023-09-11,2023-10-18,2023-10-31,Nobel House Home Furnishings LLC,Closure Permanent,44,
+372,Los Angeles,2023-09-12,2023-10-18,2023-11-13,Sunrun Inc.,Layoff Permanent,3,
+373,Los Angeles,2023-09-12,2023-10-18,2023-11-13,Sunrun Inc.,Layoff Permanent,24,
+374,Los Angeles,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+375,Los Angeles,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+376,Los Angeles,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+377,Los Angeles,2023-09-14,2023-10-18,2023-11-13,"Matheson Flight Extenders, Inc.",Closure Permanent,257,
+378,Santa Clara,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+379,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,8,
+380,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+381,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,4,
+382,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+383,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,12,
+384,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,9,
+385,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,9,
+386,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+387,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+388,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+389,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+390,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+391,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,1,
+392,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+393,Riverside,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,1,
+394,Sacramento,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+395,San Bernardino,2023-09-11,2023-10-18,2023-10-31,Noble House Home Furnishings LLc,Closure Permanent,61,Nobel House Home Furnishings
+396,San Bernardino,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,5,
+397,San Bernardino,2023-09-12,2023-10-18,2023-11-13,Sunrun Inc.,Closure Permanent,39,
+398,San Diego,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,11,
+399,San Francisco,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,6,
+400,San Francisco,2023-09-07,2023-10-18,2023-11-07,Divvy Homes Inc.,Layoff Permanent,95,Divvy Homes
+401,San Joaquin,2023-09-12,2023-10-18,2023-11-13,Sunrun Inc.,Layoff Permanent,31,
+402,Santa Clara,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,18,
+403,Orange,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+404,Los Angeles,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+405,Solano,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,12,
+406,Los Angeles,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,1,
+407,Ventura,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,10,
+408,Marin,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,2,
+409,Marin,2023-08-10,2023-10-18,2023-10-09,Carbon Health,Layoff Permanent,3,
+410,Santa Clara,2023-09-14,2023-10-19,2023-11-14,Bamboo Group Operations LLC dba Bamboo Sushi,Closure Permanent,40,Bamboo Group Operations
+411,Orange,2023-09-14,2023-10-19,2023-11-13,B. Braun Medical Inc.,Layoff Permanent,70,B. Braun Medical Inc.
+412,Riverside,2023-09-14,2023-10-19,2023-11-22,Container Connection,Layoff Permanent,64,Container Connection
+413,San Francisco,2023-09-14,2023-10-19,2023-09-15,Formagrid Inc. dba Airtable,Layoff Permanent,99,Airtable
+414,Orange,2023-09-14,2023-10-20,2023-11-13,"Pacific Coast Sightseeing Tours & Charters, Inc.",Layoff Permanent,68,Pacific Coast Sightseeing Tours & Charters
+415,Los Angeles,2023-09-15,2023-10-20,2023-11-15,Federal Express Corporation,Closure Permanent,405,Federal Express Corporation
+416,Los Angeles,2023-09-15,2023-10-20,2023-11-15,Niagara Bottling LLC,Layoff Permanent,111,Niagara Bottling
+417,Los Angeles,2023-09-19,2023-10-20,2023-11-20,Shaw Industries Group Inc. Plant WG,Closure Permanent,283,Shaw Industries Group
+418,San Bernardino,2023-09-14,2023-10-20,2023-12-12,"Phillips Tool & Die, Inc. dba Busy Bee Tooling",Closure Permanent,7,"Phillips Tool & Die, Inc"
+419,Alameda,2023-09-16,2023-10-23,2023-09-16,Bloom Energy Corporation,Layoff Permanent,34,Bloom Energy Corporation
+420,Alameda,2023-09-16,2023-10-23,2023-09-16,Bloom Energy Corporation,Layoff Permanent,1,Bloom Energy Corporation
+421,Los Angeles,2023-09-13,2023-10-23,2023-11-15,City National Bank,Layoff Permanent,34,City National Bank
+422,Los Angeles,2023-09-13,2023-10-23,2023-11-15,City National Bank,Layoff Permanent,35,City National Bank
+423,Los Angeles,2023-09-13,2023-10-23,2023-11-15,City National Bank,Layoff Permanent,2,City National Bank
+424,Los Angeles,2023-09-19,2023-10-23,2023-09-19,"Cacique Foods, LLC",Closure Permanent,203,Cacique Foods
+425,Los Angeles,2023-09-19,2023-10-23,2023-09-19,"Cacique Foods, LLC",Closure Permanent,22,Cacique Foods
+426,Santa Clara,2023-09-16,2023-10-23,2023-09-16,Bloom Energy Corporation,Layoff Permanent,12,Bloom Energy Corporation
+427,San Diego,2023-09-18,2023-10-23,2023-12-31,Cummins Meritor,Layoff Permanent,15,Cummins Meritor
+428,San Diego,2023-09-18,2023-10-23,2023-12-31,Cummins Meritor,Layoff Permanent,1,Cummins Meritor
+429,Alameda,2023-09-21,2023-10-24,2023-12-23,Jabil Inc.,Layoff Temporary,138,Jabil Inc.
+430,Contra Costa,2023-09-21,2023-10-24,2024-02-01,Peloton Interactive Inc.,Closure Permanent,6,Peloton Interactive Inc.
+431,Kern,2023-09-20,2023-10-24,2023-11-19,Dryer's Grand Ice Cream,Layoff Temporary,1015,Dreyer's Grand Ice Cream
+432,Kern,2023-09-20,2023-10-24,2023-12-15,Dryer's Grand Ice Cream,Layoff Temporary,1015,Dreyer's Grand Ice Cream
+433,Orange,2023-09-21,2023-10-24,2023-12-25,"Jabil, Inc.",Layoff Temporary,69,
+434,Santa Clara,2023-09-21,2023-10-24,2023-11-20,"Roku, Inc.",Layoff Permanent,135,Roku
+435,Tulare,2023-09-20,2023-10-24,2023-11-20,Dreyer's Grand Ice Cream,Layoff Temporary,306,
+436,Tulare,2023-09-20,2023-10-24,2023-12-11,Dryer's Grand Ice Cream,Layoff Temporary,306,Dreyer's Grand Ice Cream
+437,Contra Costa,2023-09-19,2023-10-25,2023-12-08,BMO Bank N.A. successor in interest to Bank of the West,Layoff Permanent,200,BMO Bank
+438,San Bernardino,2023-09-20,2023-10-25,2023-11-20,"Distribution Alternatives, Inc.",Closure Permanent,15,Distribution Alternatives
+439,San Francisco,2023-09-19,2023-10-25,2023-12-08,BMO Bank N.A. successor in interest to Bank of the West,Layoff Permanent,28,BMO Bank
+440,Santa Clara,2023-09-21,2023-10-25,2023-12-25,Jabil Inc.,Closure Temporary,550,Jabil Inc.
+441,Santa Clara,2023-09-21,2023-10-25,2023-12-25,Jabil Inc.,Closure Temporary,84,Jabil Inc.
+442,Orange,2023-09-29,2023-10-26,2023-11-30,"FM Restaurants HQ, LLC dba El Torito Mexican Grill",Closure Permanent,39,FM Restaurants HQ
+443,Riverside,2023-10-02,2023-10-26,2023-12-01,"Stir Foods, LLC",Closure Permanent,87,Stir Foods
+444,Los Angeles,2023-09-26,2023-10-26,2024-02-29,SCAT Enterprises LLC,Closure Permanent,48,SCAT Enterprises
+445,San Francisco,2023-09-13,2023-10-30,2023-11-25,Google,Layoff Permanent,41,
+446,San Francisco,2023-09-13,2023-10-30,2023-11-25,Google,Layoff Permanent,34,
+447,Napa,2023-09-25,2023-10-30,2024-01-03,Terre du Soleil dba Auberge du Soleil,Layoff Temporary,217,Terre du Soleil
+448,Alameda,2023-10-02,2023-11-01,2023-10-02,PhenomeX Inc.,Layoff Permanent,46,PhenomeX Inc.
+449,Alameda,2023-10-03,2023-11-01,2023-10-03,Bloom Energy Corporation,Layoff Permanent,6,Bloom Energy Corporation
+450,Alameda,2023-10-03,2023-11-01,2023-10-03,Bloom Energy Corporation,Layoff Permanent,1,Bloom Energy Corporation
+451,Santa Clara,2023-09-28,2023-11-01,2023-12-31,Hallcon Corporation,Layoff Permanent,65,Hallcon Corporation
+452,Santa Clara,2023-10-03,2023-11-01,2023-10-03,Bloom Energy Corporation,Layoff Permanent,8,Bloom Energy Corporation
+453,Santa Clara,2023-10-03,2023-11-01,2023-10-03,Bloom Energy Corporation,Layoff Permanent,3,Bloom Energy Corporation
+454,Riverside,2023-09-28,2023-11-01,2023-09-29,"Kuubix Global, LLC",Closure Permanent,7,Kuubix Global
+455,San Joaquin,2023-09-27,2023-11-01,2023-09-29,Kuubix Global LLC,Closure Permanent,17,
+456,Santa Clara,2023-10-03,2023-11-01,2023-10-03,Bloom Energy Corporation,Layoff Permanent,54,Bloom Energy Corporation
+457,Tulare,2023-09-27,2023-11-01,2023-09-29,Kuubix Global LLC,Closure Permanent,46,
+458,San Mateo,2023-10-04,2023-11-03,2023-12-15,Gilead Sciences,Layoff Permanent,41,Gilead Sciences
+459,San Mateo,2023-10-04,2023-11-03,2023-03-15,Gilead Sciences,Layoff Permanent,1,Gilead Sciences
+460,San Bernardino,2023-10-03,2023-11-03,2024-01-31,Newell Brands Distribution LLC,Closure Permanent,48,Newell Brands Distribution
+461,Alameda,2023-10-03,2023-11-06,2023-12-18,Zymergen Inc.,Layoff Permanent,101,Zymergen Inc.
+462,Los Angeles,2023-10-04,2023-11-06,2023-12-11,Amware Fulfillment LLC,Closure Permanent,83,Amware Fulfillment
+463,Los Angeles,2023-10-04,2023-11-06,2023-12-11,Amware Fulfillment LLC,Closure Permanent,1,Amware Fulfillment
+464,Santa Clara,2023-10-03,2023-11-06,2023-12-04,"Juniper Networks, Inc.",Layoff Permanent,108,Juniper Networks
+465,San Diego,2023-10-04,2023-11-06,2023-12-04,"Performance Plastics, Inc.",Closure Permanent,77,"Performance Plastics, Inc."
+466,Humboldt,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,6,Centerra Group
+467,Los Angeles,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,71,Centerra Group
+468,Los Angeles,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,1,Centerra Group
+469,Los Angeles,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,6,Centerra Group
+470,Alameda,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,21,Centerra Group
+471,San Diego,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,67,Centerra Group
+472,San Diego,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,1,Centerra Group
+473,San Diego,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,1,Centerra Group
+474,San Diego,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,1,Centerra Group
+475,San Diego,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,3,Centerra Group
+476,San Francisco,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,61,Centerra Group
+477,San Francisco,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,1,Centerra Group
+478,Santa Clara,2023-08-10,2023-11-08,2023-09-30,"Centerra Group, LLC",Layoff Permanent,17,Centerra Group
+479,Contra Costa,2023-09-26,2023-11-09,2023-12-30,Target Corporation,Closure Permanent,106,Target
+480,Los Angeles,2023-10-06,2023-11-09,2023-10-06,"Shift Technologies, Inc.",Closure Permanent,38,Shift Technologies
+481,Alameda,2023-10-06,2023-11-09,2023-10-06,"Shift Technologies, Inc.",Closure Permanent,40,Shift Technologies
+482,Alameda,2023-09-26,2023-11-09,2023-12-30,Target Corporation,Closure Permanent,69,Target
+483,Sacramento,2023-10-06,2023-11-09,2023-12-05,"Matheson Flight Extenders, Inc.",Closure Permanent,124,
+484,San Francisco,2023-09-26,2023-11-09,2023-12-30,Target Corporation,Closure Permanent,63,Target
+485,Los Angeles,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,10,Centerra Group
+486,Kern,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,7,Centerra Group
+487,Los Angeles,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,5,Centerra Group
+488,Los Angeles,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,3,Centerra Group
+489,Shasta,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,3,Centerra Group
+490,Riverside,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,19,Centerra Group
+491,Orange,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,18,Centerra Group
+492,Santa Barbara,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,4,Centerra Group
+493,Stanislaus,2023-08-10,2023-11-13,2023-09-30,"Centerra Group, LLC",Layoff Permanent,3,Centerra Group
+494,Los Angeles,2023-09-13,2023-11-14,2023-11-17,Southern Counties Express,Layoff Permanent,43,Southern Counties Express
+495,Los Angeles,2023-10-12,2023-11-14,2023-12-11,Palmdale Regional Medical Center,Closure Permanent,87,Palmdale Regional Medical Center
+496,Santa Clara,2023-10-13,2023-11-14,2023-12-01,Agilent Technologies,Layoff Permanent,29,
+497,Santa Clara,2023-10-13,2023-11-14,2023-12-15,Agilent Technologies,Layoff Permanent,24,
+498,San Diego,2023-10-13,2023-11-14,2023-12-01,Agilent Technologies,Layoff Permanent,14,
+499,San Diego,2023-10-13,2023-11-14,2023-12-15,Agilent Technologes,Layoff Permanent,2,
+500,San Diego,2023-10-12,2023-11-14,2023-12-15,"Ajinomoto Foods North America, Inc.",Layoff Temporary,538,Ajinomoto Foods North America
+501,San Francisco,2023-10-12,2023-11-14,2023-10-13,LendingClub Bank,Layoff Permanent,54,LendingClub Bank
+502,San Francisco,2023-10-12,2023-11-14,2023-11-01,LendingClub Bank,Layoff Permanent,3,LendingClub Bank
+503,San Francisco,2023-10-12,2023-11-14,2023-11-03,LendingClub Bank,Layoff Permanent,7,LendingClub Bank
+504,San Francisco,2023-10-12,2023-11-14,2023-11-17,LendingClub Bank,Layoff Permanent,25,LendingClub Bank
+505,San Francisco,2023-10-12,2023-11-14,2023-12-05,LendingClub Bank,Layoff Permanent,1,LendingClub Bank
+506,Los Angeles,2023-10-12,2023-11-14,2023-12-11,"Liminex, Inc. dba GoGuardian",Layoff Permanent,95,"Liminex, Inc."
+507,Alameda,2023-10-16,2023-11-15,2023-12-15,"Matheson Flight Extenders, Inc.",Closure Permanent,72,
+508,Contra Costa,2023-09-29,2023-11-15,2023-12-01,"USS-UPI, LLC",Closure Permanent,474,USS-UPI
+509,Fresno,2023-08-10,2023-11-15,2023-09-30,"Centerra Group, LLC",Layoff Permanent,28,Centerra Group
+510,Imperial,2023-08-10,2023-11-15,2023-09-30,"Centerra Group, LLC",Layoff Permanent,10,Centerra Group
+511,Los Angeles,2023-09-14,2023-11-15,2023-11-14,"Farmers Group, Inc.",Layoff Permanent,20,
+512,Los Angeles,2023-09-14,2023-11-15,2023-11-14,"Farmers Group, Inc.",Layoff Permanent,1,
+513,Mariposa,2023-08-10,2023-11-15,2023-09-30,"Centerra Group, LLC",Layoff Permanent,2,Centerra Group
+514,Orange,2023-10-11,2023-11-15,2023-12-10,"Sober Living by the Sea, Inc.",Closure Permanent,65,Sober Living by the Sea
+515,Sacramento,2023-08-10,2023-11-15,2023-09-30,"Centerra Group, LLC",Layoff Permanent,33,Centerra Group
+516,San Diego,2023-10-12,2023-11-15,2023-12-11,"Central Admixture Pharmacy Services, Inc.",Closure Permanent,99,Central Admixture Pharmacy Services
+517,San Francisco,2023-10-13,2023-11-15,2023-10-13,"Flexport, Inc.",Layoff Permanent,134,Flexport
+518,Solano,2023-10-12,2023-11-15,2023-12-15,"William Kreysler & Associates, Inc.",Layoff Permanent,87,William Kreysler & Associates
+519,Los Angeles,2023-10-05,2023-11-15,2023-12-31,DreamWorks Animation LLC,Layoff Permanent,72,DreamWorks Animation
+520,Alameda,2023-10-18,2023-11-16,2023-12-18,"Amyris, Inc.",Layoff Permanent,112,Amyris
+521,Orange,2023-10-25,2023-11-16,2023-12-31,"MaxLite, Inc.",Closure Permanent,4,"MaxLite, Inc."
+522,Los Angeles,2023-10-24,2023-11-16,2023-12-29,First Financial Credit Union,Closure Permanent,3,First Financial Credit Union
+523,Orange,2023-10-16,2023-11-16,2024-01-02,"Mexi-Grill, LLC dba Javier's Newport Beach",Closure Temporary,239,Javier's Newport Beach
+524,San Diego,2023-10-25,2023-11-16,2023-12-01,ResMEd Inc.,Layoff Permanent,364,ResMEd Inc.
+525,Los Angeles,2023-10-17,2023-11-17,2024-03-31,"Baxalta US, Inc.",Closure Permanent,14,
+526,Los Angeles,2023-10-17,2023-11-17,2024-03-31,"Baxalta US, Inc.",Closure Permanent,1,
+527,Orange,2023-10-30,2023-11-17,2024-01-05,Capital One Financial,Closure Permanent,49,Capital One Financial
+528,San Diego,2023-10-17,2023-11-17,2023-12-17,"Becton, Dickinson and Company",Layoff Permanent,48,
+529,Ventura,2023-10-30,2023-11-17,2023-12-30,Sunrise Growers Inc.,Closure Permanent,34,Sunrise Growers Inc.
+530,Alameda,2023-10-18,2023-11-20,2024-01-15,WMBE Payrolling Inc. dba TCWGlobal,Closure Permanent,88,TCWGlobal
+531,Santa Clara,2023-10-16,2023-11-20,2023-12-18,Surefox North America Inc,Layoff Permanent,126,Surefox North America Inc
+532,Santa Clara,2023-10-16,2023-11-20,2023-12-18,Surefox North America Inc,Layoff Permanent,193,Surefox North America Inc
+533,Santa Clara,2023-10-16,2023-11-20,2023-12-18,Surefox North America Inc,Layoff Permanent,57,Surefox North America Inc
+534,Santa Clara,2023-10-16,2023-11-20,2023-12-18,Surefox North America Inc,Layoff Permanent,10,Surefox North America Inc
+535,Sacramento,2023-10-13,2023-11-20,2023-12-31,"Arden Hills Country Club, Inc",Closure Permanent,33,Arden Hills Country Club
+536,Santa Cruz,2023-10-23,2023-11-20,2023-12-23,Kitayama Brothers Inc.,Closure Permanent,56,Kitayama Brothers
+537,San Mateo,2023-10-25,2023-11-22,2024-01-01,"Exabeam, Inc.",Layoff Permanent,94,"Exabeam, Inc."
+538,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,189,Qualcomm Incorporated
+539,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1,Qualcomm Incorporated
+540,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1,Qualcomm Incorporated
+541,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1,Qualcomm Incorporated
+542,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1,Qualcomm Incorporated
+543,Santa Clara,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1,Qualcomm Incorporated
+544,San Diego,2023-10-11,2023-11-22,2023-12-13,Qualcomm Incorporated,Layoff Permanent,1064,Qualcomm Incorporated
+545,Los Angeles,2023-10-26,2023-11-27,2023-12-30,Fashion Institute of Design & Merchandising FIDM,Layoff Permanent,322,Fashion Institute of Design & Merchandising
+546,Santa Clara,2023-10-27,2023-11-27,2023-12-31,Momentum for Health,Closure Permanent,84,Momentum for Health
+547,Santa Clara,2023-10-27,2023-11-27,2023-12-31,Momentum for Health,Closure Permanent,1,Momentum for Health
+548,Santa Clara,2023-10-27,2023-11-27,2023-12-31,Momentum for Health,Closure Permanent,1,Momentum for Health
+549,Ventura,2023-10-18,2023-11-27,2024-01-02,Ojai Valley Inn,Closure Temporary,870,Ojai Valley Inn
+550,Riverside,2023-11-01,2023-11-28,2023-12-31,Family YMCA of the Desert at Palm Desert Aquatic Center,Layoff Not known at this time,85,Family YMCA
+551,San Diego,2023-11-01,2023-11-28,2023-12-31,"Locanabio, Inc.",Closure Permanent,58,Locanabio
+552,San Diego,2023-11-01,2023-11-28,2024-01-04,The Hotel del Coronado,Layoff Temporary,10,The Hotel del Coronado
+553,San Diego,2023-11-01,2023-11-28,2024-01-05,The Hotel del Coronado,Layoff Temporary,82,The Hotel del Coronado
+554,San Diego,2023-11-01,2023-11-28,2024-01-07,The Hotel del Coronado,Layoff Temporary,43,The Hotel del Coronado
+555,San Diego,2023-11-01,2023-11-28,2024-01-11,The Hotel del Coronado,Layoff Temporary,6,The Hotel del Coronado
+556,San Diego,2023-11-01,2023-11-28,2024-01-22,The Hotel del Coronado,Layoff Temporary,56,The Hotel del Coronado
+557,Sonoma,2023-11-01,2023-11-28,2024-01-04,Miyoko's PBC,Layoff Permanent,33,Miyoko's PBC
+558,Los Angeles,2023-10-30,2023-11-29,2024-03-29,"Elevance Health, Inc.",Layoff Permanent,87,Elevance Health
+559,Sacramento,2023-10-25,2023-11-29,2023-12-29,SK hynix NAND Product Solutions Corp. dba Solidigm,Layoff Permanent,172,Solidigm
+560,San Bernardino,2023-10-30,2023-11-29,2023-12-31,St. John of God Health Care Services,Layoff Permanent,27,St. John of God Health Care Services
+561,San Diego,2023-10-11,2023-11-29,2023-12-31,"Alvarado Hospital, LLC dba Alvarado Hospital Medical Center",Layoff Permanent,808,Alvarado Hospital
+562,Contra Costa,2023-10-24,2023-11-30,2023-12-29,John Muir Health (JMH),Layoff Permanent,164,John Muir Health (JMH)
+563,Santa Clara,2023-11-03,2023-11-30,2023-12-19,Command Security Service LP at Google/Bayview,Layoff Permanent,33,Command Security Service
+564,San Diego,2023-10-04,2023-11-30,2023-10-11,"Becton, Dickinson, and Company",Layoff Permanent,38,
+565,San Diego,2023-10-04,2023-11-30,2023-10-11,"Becton, Dickinson, and Company - Pacific",Layoff Permanent,27,"Becton, Dickinson and Company"
+566,San Diego,2023-10-04,2023-11-30,2023-10-13,"Becton, Dickinson, and Company",Layoff Permanent,3,
+567,San Diego,2023-10-04,2023-11-30,2023-10-16,"Becton, Dickinson, and Company",Layoff Permanent,1,
+568,San Diego,2023-10-04,2023-11-30,2023-10-27,"Becton, Dickinson, and Company",Layoff Permanent,2,
+569,San Diego,2023-10-04,2023-11-30,2023-10-30,"Becton, Dickinson, and Company",Layoff Permanent,26,
+570,San Diego,2023-10-04,2023-11-30,2023-10-31,"Becton, Dickinson, and Company",Layoff Permanent,1,
+571,San Diego,2023-10-04,2023-11-30,2023-11-02,"Becton, Dickinson, and Company",Layoff Permanent,1,
+572,San Diego,2023-10-04,2023-11-30,2023-10-14,"Becton, Dickinson, and Company",Layoff Permanent,4,
+573,San Diego,2023-10-04,2023-11-30,2023-10-23,"Becton, Dickinson, and Company",Layoff Permanent,1,
+574,San Diego,2023-10-04,2023-11-30,2023-11-01,"Becton, Dickinson, and Company",Layoff Permanent,1,
+575,Stanislaus,2023-10-25,2023-11-30,2023-12-25,Nestle USA,Layoff Temporary,86,Nestle
+576,Kern,2023-10-09,2023-12-01,2023-10-20,"Cygnus Home Service, LLC dba Yelloh",Closure Permanent,13,Cygnus Home Service
+577,Los Angeles,2023-10-30,2023-12-01,2023-12-31,Vertical Supply Group,Closure Permanent,7,Vertical Supply Group
+578,Butte,2023-10-09,2023-12-01,2023-10-20,Yelloh,Closure Permanent,7,Yelloh
+579,Butte,2023-10-09,2023-12-01,2023-10-20,Yelloh,Closure Permanent,11,Yelloh
+580,Riverside,2023-10-09,2023-12-01,2023-10-20,"Cygnus Home Service, LLC dba Yelloh",Closure Permanent,3,Cygnus Home Service
+581,Sacramento,2023-10-09,2023-12-01,2023-10-20,"Cygnus Home Service, LLC dba Yelloh",Closure Permanent,7,Cygnus Home Service
+582,San Joaquin,2023-10-09,2023-12-01,2023-10-20,"Cygnus Home Service, LLC dba Yelloh",Closure Permanent,16,Cygnus Home Service
+583,Sonoma,2023-10-09,2023-12-01,2023-10-20,"Cygnus Home Service, LLC dba Yelloh",Closure Permanent,9,Cygnus Home Service
+584,Alameda,2023-10-28,2023-12-04,2023-10-28,Bloom Energy Corporation,Layoff Permanent,47,Bloom Energy Corporation
+585,Alameda,2023-10-28,2023-12-04,2023-10-28,Bloom Energy Corporation,Layoff Permanent,1,Bloom Energy Corporation
+586,Santa Clara,2023-10-28,2023-12-04,2023-10-28,Bloom Energy Corporation,Layoff Permanent,13,Bloom Energy Corporation
+587,San Diego,2023-10-31,2023-12-04,2023-12-31,"San Diego Imaging Management, Inc.",Layoff Permanent,52,San Diego Imaging Management
+588,Alameda,2023-11-02,2023-12-05,2024-04-26,Parker Hannifin Corporation,Closure Permanent,4,
+589,Orange,2023-10-30,2023-12-05,2023-12-29,"PWLC I, Inc.",Layoff Permanent,60,"PWLC I, Inc."
+590,San Diego,2023-11-01,2023-12-05,2024-01-02,"Viasat, Inc.",Layoff Permanent,228,"Viasat, Inc"
+591,San Francisco,2023-11-02,2023-12-05,2024-01-16,Amazon,Layoff Permanent,57,Amazon
+592,Santa Clara,2023-11-01,2023-12-05,2024-01-02,"Viasat, Inc.",Layoff Permanent,11,"Viasat, Inc"
+593,Los Angeles,2023-11-02,2023-12-05,2024-01-02,Amazon,Closure Permanent,114,Amazon
+594,San Mateo,2023-11-01,2023-12-06,2023-12-31,Informatica LLC,Layoff Permanent,90,Informatica
+595,San Mateo,2023-11-01,2023-12-06,2024-01-02,"Sangamo Therapeutics, Inc.",Closure Permanent,65,Sangamo Therapeutics
+596,San Mateo,2023-11-01,2023-12-06,2024-01-02,"Sangamo Therapeutics, Inc.",Layoff Permanent,37,Sangamo Therapeutics
+597,Orange,2023-11-06,2023-12-06,2024-01-05,"FM Restaurants HQ, LLC dba El Torito Mexican Grill",Closure Permanent,42,FM Restaurants HQ
+598,San Diego,2023-11-01,2023-12-06,2023-12-31,"Alvarado Hospital, LLC dba Alvarado Hospital Medical Center",Closure Permanent,6,Alvarado Hospital
+599,San Francisco,2023-10-31,2023-12-06,2023-11-01,"Faire Wholesale, Inc.",Layoff Permanent,70,Faire Wholesale
+600,Los Angeles,2023-11-01,2023-12-07,2023-11-01,Organic Milling - Allen Facility,Layoff Permanent,7,Organic Milling
+601,Los Angeles,2023-11-01,2023-12-07,2023-11-01,Organic Milling - Acacia Facility,Layoff Permanent,1,
+602,Los Angeles,2023-11-02,2023-12-07,2024-04-30,Daiso Distribution Center,Closure Permanent,74,Daiso Distribution Center
+603,Santa Clara,2023-11-07,2023-12-07,2024-01-06,Flex LTD,Layoff Permanent,31,Flex LTD
+604,San Francisco,2023-11-07,2023-12-07,2023-11-09,"Nextdoor, Inc.",Layoff Permanent,99,Nextdoor
+605,San Francisco,2023-11-07,2023-12-07,2023-10-13,"ForgeRock, Inc.",Layoff Permanent,4,ForgeRock
+606,San Francisco,2023-11-07,2023-12-07,2024-01-07,"ForgeRock, Inc.",Layoff Permanent,73,ForgeRock
+607,San Francisco,2023-11-07,2023-12-07,2024-01-31,"ForgeRock, Inc.",Layoff Permanent,3,ForgeRock
+608,San Francisco,2023-11-07,2023-12-07,2024-02-01,"ForgeRock, Inc.",Layoff Permanent,3,ForgeRock
+609,San Francisco,2023-11-07,2023-12-07,2024-02-29,"ForgeRock, Inc.",Layoff Permanent,1,ForgeRock
+610,San Francisco,2023-11-07,2023-12-07,2024-03-31,"ForgeRock, Inc.",Layoff Permanent,1,ForgeRock
+611,San Francisco,2023-11-07,2023-12-07,2024-06-30,"ForgeRock, Inc.",Layoff Permanent,2,ForgeRock
+612,San Francisco,2023-11-07,2023-12-07,2023-11-30,"ForgeRock, Inc.",Layoff Permanent,1,ForgeRock
+613,San Francisco,2023-11-07,2023-12-07,2023-12-10,"ForgeRock, Inc.",Layoff Permanent,1,ForgeRock
+614,San Francisco,2023-11-07,2023-12-07,2024-05-31,"ForgeRock, Inc.",Layoff Permanent,2,ForgeRock
+615,San Francisco,2023-11-07,2023-12-07,2024-07-01,"ForgeRock, Inc.",Layoff Permanent,6,ForgeRock
+616,San Francisco,2023-11-06,2023-12-07,2024-01-05,"Charles Schwab & Co., Inc.",Layoff Permanent,155,Charles Schwab & Co.
+617,Contra Costa,2023-11-03,2023-12-11,2024-01-05,"Pac-12 Enterprises, LLC",Layoff Permanent,141,Pac-12
+618,San Francisco,2023-11-02,2023-12-11,2024-01-01,St James Infirmary,Closure Permanent,71,St James Infirmary
+619,Santa Clara,2023-11-03,2023-12-11,2024-01-12,"Analog Devices, Inc.",Layoff Permanent,109,Analog Devices
+620,Santa Clara,2023-11-03,2023-12-11,2024-01-12,"Analog Devices, Inc.",Layoff Permanent,1,Analog Devices
+621,Santa Clara,2023-11-03,2023-12-11,2024-01-12,"Analog Devices, Inc.",Layoff Permanent,1,Analog Devices
+622,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,26,
+623,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals - Pasadena,Layoff Permanent,22,
+624,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals - Fair Oaks,Layoff Permanent,2,
+625,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,1,
+626,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,1,
+627,San Mateo,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,1,
+628,Alameda,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals - Lakeside,Layoff Permanent,4,
+629,Alameda,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals - Harrison,Layoff Permanent,6,
+630,Alameda,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals - One,Layoff Permanent,2,
+631,Riverside,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,4,
+632,Sacramento,2023-11-03,2023-12-12,2023-12-31,Intel Corporation,Layoff Permanent,235,Intel Corporation
+633,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,1,
+634,Los Angeles,2023-11-06,2023-12-12,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,20,
+635,Alameda,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,41,
+636,Contra Costa,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals,Layoff Temporary,1,
+637,Placer,2023-11-13,2023-12-13,2024-01-12,"Oracle America, Inc. at Adventist Health",Layoff Permanent,65,"Oracle America, Inc."
+638,Los Angeles,2023-11-06,2023-12-13,2024-01-19,Rico Corp. dba D' Addario Woodwinds,Closure Permanent,26,
+639,San Bernardino,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals,Layoff Permanent,6,
+640,San Bernardino,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals - Arrow,Layoff Permanent,1,
+641,San Bernardino,2023-11-08,2023-12-13,2024-01-15,"Global Expedited Transportation, Inc.",Closure Permanent,51,Global Expedited Transportation
+642,San Diego,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals - Canyon,Layoff Permanent,8,
+643,San Diego,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals - Mission,Layoff Permanent,1,
+644,San Diego,2023-11-06,2023-12-13,2024-01-04,Kaiser Foundation Hospitals - Rio,Layoff Permanent,5,
+645,San Diego,2023-11-08,2023-12-13,2024-01-07,"Acutus Medical, Inc.",Layoff Permanent,140,Acutus Medical
+646,San Diego,2023-11-08,2023-12-13,2024-02-06,"Acutus Medical, Inc.",Layoff Permanent,7,Acutus Medical
+647,San Francisco,2023-11-01,2023-12-13,2023-12-18,Splunk Inc.,Layoff Permanent,93,Splunk Inc.
+648,Santa Clara,2023-11-01,2023-12-13,2023-12-18,Splunk Inc.,Layoff Permanent,83,Splunk Inc.
+649,Santa Clara,2023-11-09,2023-12-13,2024-01-08,Accenture,Layoff Permanent,87,Accenture
+650,Santa Cruz,2023-11-13,2023-12-13,2024-01-12,The Apothecarium,Closure Permanent,7,The Apothecarium
+651,Ventura,2023-11-01,2023-12-13,2023-12-31,Atara Biotherapeutics,Layoff Permanent,72,Atara Biotherapeutics
+652,Ventura,2023-11-01,2023-12-13,2023-12-31,Atara Biotherapeutics,Layoff Permanent,1,Atara Biotherapeutics
+653,Los Angeles,2023-11-02,2023-12-14,2023-12-15,Hyperloop One,Layoff Permanent,1,
+654,Los Angeles,2023-11-02,2023-12-14,2023-12-16,Hyperloop One,Layoff Permanent,1,
+655,Los Angeles,2023-11-02,2023-12-14,2023-12-17,Hyperloop One,Layoff Permanent,1,
+656,Los Angeles,2023-11-02,2023-12-14,2023-12-18,Hyperloop One,Layoff Permanent,1,
+657,Los Angeles,2023-11-02,2023-12-14,2023-12-19,Hyperloop One,Layoff Permanent,1,
+658,Los Angeles,2023-11-02,2023-12-14,2023-12-20,Hyperloop One,Layoff Permanent,1,
+659,Los Angeles,2023-11-02,2023-12-14,2023-12-21,Hyperloop One,Layoff Permanent,1,
+660,Los Angeles,2023-11-02,2023-12-14,2023-12-22,Hyperloop One,Layoff Permanent,1,
+661,Los Angeles,2023-11-02,2023-12-14,2023-12-23,Hyperloop One,Layoff Permanent,1,
+662,Los Angeles,2023-11-02,2023-12-14,2023-12-24,Hyperloop One,Layoff Permanent,1,
+663,Los Angeles,2023-11-02,2023-12-14,2023-12-25,Hyperloop One,Layoff Permanent,1,
+664,Los Angeles,2023-11-02,2023-12-14,2023-12-30,Hyperloop One,Layoff Permanent,3,
+665,Merced,2023-11-01,2023-12-14,2024-01-01,"TVT Trucking, Inc. and FTU Labor Contractors",Closure Permanent,142,"TVT Trucking, Inc"
+666,Santa Clara,2023-11-15,2023-12-14,2024-01-16,"Marvell Semiconductor, Inc.",Layoff Permanent,58,"Marvell Semiconductor, Inc."
+667,Orange,2023-11-15,2023-12-14,2024-01-16,"Marvell Semiconductor, Inc.",Layoff Permanent,7,"Marvell Semiconductor, Inc."
+668,San Bernardino,2023-11-09,2023-12-14,2024-01-08,"Distribution Alternatives, Inc.",Closure Permanent,23,Distribution Alternatives
+669,Los Angeles,2023-11-06,2023-12-15,2024-01-15,AHMC San Gabriel Valley Medical Center LP dba San Gabriel Valley Medical Center,Layoff Permanent,29,AHMC San Gabriel Valley Medical Center
+670,San Diego,2023-11-06,2023-12-15,2024-01-05,"TriLink Biotechnologies, LLC and Maravai Intermediate Holdings, LLC",Layoff Permanent,85,TriLink Biotechnologies
+671,San Diego,2023-11-06,2023-12-15,2024-01-05,"TriLink Biotechnologies, LLC and Maravai Intermediate Holdings, LLC",Layoff Permanent,1,TriLink Biotechnologies
+672,San Diego,2023-11-06,2023-12-15,2024-01-05,"TriLink Biotechnologies, LLC and Maravai Intermediate Holdings, LLC",Layoff Permanent,1,TriLink Biotechnologies
+673,San Diego,2023-11-06,2023-12-15,2024-01-05,"TriLink Biotechnologies, LLC and Maravai Intermediate Holdings, LLC",Layoff Permanent,1,TriLink Biotechnologies
+674,Kern,2023-11-08,2023-12-18,2024-01-08,"Virgin Galactic, LLC",Layoff Permanent,75,Virgin Galactic
+675,Kern,2023-11-08,2023-12-18,2024-01-08,"Virgin Galactic, LLC",Layoff Permanent,1,Virgin Galactic
+676,Kern,2023-11-08,2023-12-18,2024-01-08,"Virgin Galactic, LLC",Layoff Permanent,1,Virgin Galactic
+677,Kern,2023-11-08,2023-12-18,2024-01-08,"Virgin Galactic, LLC",Layoff Permanent,1,Virgin Galactic
+678,Santa Clara,2023-11-03,2023-12-18,2023-12-31,Intel Corporation,Layoff Permanent,73,Intel Corporation
+679,Santa Clara,2023-11-03,2023-12-18,2023-12-31,Intel Corporation,Layoff Permanent,1,Intel Corporation
+680,Santa Clara,2023-11-03,2023-12-18,2023-12-31,Intel Corporation,Layoff Permanent,1,Intel Corporation
+681,Santa Clara,2023-11-03,2023-12-18,2023-12-31,Intel Corporation,Layoff Permanent,1,Intel Corporation
+682,Santa Clara,2023-11-09,2023-12-18,2024-01-26,"Agilent Technologies, Inc.",Layoff Permanent,32,Agilent Technologies
+683,San Diego,2023-11-09,2023-12-18,2024-01-12,"Agilent Technologies, Inc.",Layoff Permanent,1,Agilent Technologies
+684,San Diego,2023-11-09,2023-12-18,2024-01-26,"Agilent Technologies, Inc.",Layoff Permanent,3,Agilent Technologies
+685,San Joaquin,2023-11-09,2023-12-18,2024-01-08,"Owens-Brockway Glass Container, Inc.",Layoff Temporary,130,Owens-Brockway Glass Container
+686,San Mateo,2023-11-14,2023-12-20,2024-01-14,Talis Biomedical Corporation,Closure Permanent,103,Talis Biomedical Corporation
+687,San Diego,2023-11-13,2023-12-20,2024-01-12,"Fish Market Restaurants, Inc.",Closure Permanent,4,"Fish Market Restaurants, Inc."
+688,Santa Clara,2023-11-15,2023-12-20,2024-01-15,"Knox Attorney Service, Inc.",Closure Permanent,85,Knox Attorney Service
+689,Orange,2023-11-15,2023-12-21,2024-01-16,"NextGen Healthcare, Inc.",Layoff Permanent,56,NextGen Healthcare
+690,Orange,2023-11-15,2023-12-21,2024-02-01,"NextGen Healthcare, Inc.",Layoff Permanent,2,NextGen Healthcare
+691,Orange,2023-11-15,2023-12-21,2024-03-01,"NextGen Healthcare, Inc.",Layoff Permanent,45,NextGen Healthcare
+692,Orange,2023-11-15,2023-12-21,2024-01-19,Western Digital,Layoff Permanent,57,Western Digital
+693,Santa Clara,2023-11-15,2023-12-22,2023-12-01,Renesas Electronics Corporation,Layoff Permanent,50,Renesas Electronics Corporation
+694,Santa Clara,2023-11-15,2023-12-22,2023-12-01,Renesas Electronics Corporation,Layoff Permanent,15,Renesas Electronics Corporation
+695,Sonoma,2023-11-15,2023-12-22,2024-02-01,Thermo Fisher Scientific,Layoff Permanent,74,Thermo Fisher Scientific
+696,Contra Costa,2023-11-14,2023-12-27,2024-01-13,Sunrun Inc.,Layoff Permanent,26,
+697,Contra Costa,2023-11-16,2023-12-27,2024-03-15,Pac-12 Conference,Layoff Permanent,46,
+698,Los Angeles,2023-11-08,2023-12-27,2024-01-19,The Boeing Company,Layoff Permanent,68,The Boeing Company
+699,Santa Clara,2023-11-15,2023-12-27,2024-01-19,Western Digital,Layoff Permanent,60,Western Digital
+700,Orange,2023-11-08,2023-12-27,2024-01-19,Boeing Company,Layoff Permanent,2,Boeing Company
+701,Orange,2023-11-08,2023-12-27,2024-01-19,Boeing Company,Layoff Permanent,1,Boeing Company
+702,Orange,2023-11-08,2023-12-27,2024-01-19,The Boeing Company,Layoff Permanent,22,The Boeing Company
+703,Los Angeles,2023-11-08,2023-12-27,2024-01-19,The Boeing Company,Layoff Permanent,1,The Boeing Company
+704,Los Angeles,2023-11-15,2023-12-29,2023-12-11,Pennymac,Layoff Permanent,18,Pennymac
+705,Placer,2023-11-15,2023-12-29,2024-01-16,Pennymac,Layoff Permanent,2,Pennymac
+706,Alameda,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,49,Blue Shield of California
+707,El Dorado,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,31,Blue Shield of California
+708,El Dorado,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,16,Blue Shield of California
+709,Los Angeles,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,19,Blue Shield of California
+710,Los Angeles,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,13,Blue Shield of California
+711,Sacramento,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,16,Blue Shield of California
+712,Sacramento,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,4,Blue Shield of California
+713,San Diego,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,3,Blue Shield of California
+714,San Joaquin,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,13,Blue Shield of California
+715,Shasta,2023-11-27,2023-12-29,2024-01-31,Blue Shield of California,Layoff Permanent,1,Blue Shield of California
+716,Los Angeles,2023-11-15,2023-12-29,2024-01-16,Pennymac,Layoff Permanent,51,Pennymac
+717,Ventura,2023-11-15,2023-12-29,2024-01-16,Pennymac,Layoff Permanent,4,Pennymac
+718,Ventura,2023-11-15,2023-12-29,2023-12-02,Pennymac,Layoff Permanent,10,Pennymac
+719,Los Angeles,2023-11-22,2024-01-03,2023-11-22,Bandier West Hollywood LLC,Layoff Permanent,7,Bandier West Hollywood
+720,Los Angeles,2023-11-20,2024-01-03,2024-01-22,Lance Camper Mfg. Corp,Layoff Permanent,123,Lance Camper Mfg. Corp
+721,Los Angeles,2023-11-21,2024-01-03,2023-11-21,GE United Technologies LLC,Closure Permanent,188,GE United Technologies
+722,Los Angeles,2024-01-03,2024-01-03,2023-08-21,EchoPark Automotive Long Beach,Closure Permanent,32,EchoPark Automotive Long Beach
+723,San Mateo,2023-11-21,2024-01-03,2023-11-21,GE United Technologies II Inc.,Closure Permanent,60,
+724,Santa Clara,2023-11-27,2024-01-03,2024-01-26,Broadcom Inc.,Layoff Permanent,1267,Broadcom
+725,Santa Clara,2023-11-08,2024-01-03,2024-01-08,Lendlease Americas Inc.,Layoff Permanent,13,Lendlease Americas Inc.
+726,Santa Clara,2023-11-08,2024-01-03,2024-01-08,Lendlease Americas Inc.,Layoff Permanent,16,Lendlease Americas Inc.
+727,Santa Clara,2023-11-08,2024-01-03,2024-01-08,Lendlease Americas Inc.,Layoff Permanent,27,Lendlease Americas Inc.
+728,Orange,2023-11-20,2024-01-03,2023-12-22,"Boardriders Wholesale, LLC",Layoff Permanent,2,Boardriders Wholesale
+729,San Francisco,2023-11-08,2024-01-03,2024-01-08,Lendlease Americas Inc.,Closure Permanent,1,Lendlease Americas Inc.
+730,Los Angeles,2023-11-06,2024-01-03,2023-11-06,Kinecta Federal Credit Union,Layoff Permanent,85,Kinecta Federal Credit Union
+731,Alameda,2023-11-28,2024-01-08,2024-01-29,HMI,Closure Permanent,16,HMI
+732,Los Angeles,2023-11-20,2024-01-08,2024-01-19,"Herbalife International of America, Inc",Layoff Permanent,12,
+733,Los Angeles,2023-11-16,2024-01-08,2024-01-16,Quality Fabrication Inc.,Closure Permanent,55,Quality Fabrication Inc.
+734,San Diego,2023-11-14,2024-01-08,2024-01-13,Sunrun Inc.,Layoff Permanent,15,
+735,San Diego,2023-11-14,2024-01-08,2024-01-13,Sunrun Inc.,Layoff Permanent,10,
+736,San Diego,2023-11-14,2024-01-08,2024-01-13,Sunrun Inc.,Layoff Permanent,37,
+737,Los Angeles,2023-11-20,2024-01-08,2024-01-19,"Herbalife International of America, Inc",Layoff Permanent,34,
+738,Los Angeles,2023-11-20,2024-01-08,2024-01-19,"Herbalife International of America, Inc",Layoff Permanent,63,
+739,Ventura,2023-11-27,2024-01-08,2024-01-26,"Dairy Farmers of America, Inc.",Closure Permanent,68,Dairy Farmers of America
+740,Orange,2023-11-29,2024-01-10,2024-01-30,Vans HQ,Layoff Permanent,42,Vans HQ
+741,San Francisco,2023-11-27,2024-01-10,2024-01-29,"Block, Inc.",Layoff Permanent,51,"Block, Inc."
+742,Alameda,2023-11-28,2024-01-11,2024-02-28,Chart Inc.,Closure Permanent,8,Chart Inc.
+743,Alameda,2023-12-01,2024-01-11,2024-01-30,"Personalis, Inc.",Layoff Permanent,62,Personalis
+744,Alameda,2023-11-30,2024-01-11,2024-02-02,"Lonza Biologics, Inc.",Closure Permanent,218,Lonza Biologics
+745,Shasta,2023-11-22,2024-01-11,2024-01-29,Knauf Insulation Inc.,Layoff Temporary,97,Knauf Insulation Inc.
+746,Orange,2023-12-06,2024-01-11,2023-12-05,"Boardriders Wholesale, LLC",Layoff Permanent,9,Boardriders Wholesale
+747,Riverside,2023-12-06,2024-01-11,2024-02-04,"Boardriders Wholesale, LLC",Layoff Permanent,139,Boardriders Wholesale
+748,Napa,2023-11-30,2024-01-11,2024-01-31,Crystal Geyser Water Company,Layoff Permanent,28,Crystal Geyser Water Company
+749,Sacramento,2023-12-01,2024-01-12,2024-01-31,"Matheson Trucking, Inc.",Closure Permanent,40,Matheson Inc
+750,Sacramento,2023-12-01,2024-01-12,2024-01-31,"Matheson Flight Extenders, Inc.",Closure Permanent,57,
+751,San Diego,2023-12-11,2024-01-12,2024-01-05,"C&E GP Specialists, Inc.",Closure Permanent,16,C&E GP Specialists
+752,Stanislaus,2023-11-03,2024-01-12,2024-01-08,Ruan Transport Corporation,Closure Permanent,47,Ruan Transport Corporation
+753,Tulare,2023-11-03,2024-01-12,2024-01-08,Ruan Transport Corporation,Closure Permanent,92,Ruan Transport Corporation
+754,Los Angeles,2023-11-13,2024-01-16,2024-03-29,Dynaflex Prodcuts,Closure Permanent,14,Dynaflex Prodcuts
+755,Los Angeles,2023-12-04,2024-01-16,2024-02-02,"Eclipse Advantage, LLC at Rite Aid",Closure Permanent,27,Eclipse Advantage
+756,Orange,2023-12-02,2024-01-16,2024-01-31,Bristol Farms' Newfound Market Irvine Grocery Store,Closure Permanent,138,
+757,San Bernardino,2023-11-16,2024-01-16,2024-01-15,"Distribution Alternatives, Inc.",Closure Permanent,1,Distribution Alternatives
+758,Santa Clara,2023-12-05,2024-01-16,2024-02-05,"BILL Operations, LLC",Layoff Permanent,156,BILL Operations
+759,Santa Clara,2023-12-05,2024-01-16,2024-02-05,"BILL Operations, LLC",Layoff Permanent,156,BILL Operations
+760,Santa Clara,2023-12-05,2024-01-16,2024-02-05,"BILL Operations, LLC",Layoff Permanent,156,BILL Operations
+761,Yolo,2023-12-04,2024-01-16,2024-02-02,"Eclipse Advantage, LLC at Rite Aid",Closure Permanent,11,Eclipse Advantage
+762,Alameda,2023-12-08,2024-01-17,2024-02-07,"Amyris, Inc.",Layoff Permanent,89,Amyris
+763,Fresno,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage,Closure Permanent,24,
+764,Fresno,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage,Closure Permanent,6,
+765,Kings,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage,Closure Permanent,3,
+766,Los Angeles,2023-12-05,2024-01-17,2024-03-04,Spotify USA Inc,Layoff Permanent,87,
+767,Los Angeles,2023-11-30,2024-01-17,2024-01-31,Ace Hotel Group LLC at Ace Hotel Los Angeles,Layoff Permanent,169,Ace Hotel Group
+768,Los Angeles,2023-12-05,2024-01-17,2024-02-09,"Valley Processing, a HEXPOL Company",Closure Permanent,60,Valley Processing
+769,Los Angeles,2023-12-08,2024-01-17,2024-02-23,VF Santa Fe Springs Distribution Center,Closure Permanent,207,VF Santa Fe Springs Distribution Center
+770,Los Angeles,2023-12-08,2024-01-17,2024-03-22,VF Santa Fe Springs Distribution Center,Closure Permanent,48,VF Santa Fe Springs Distribution Center
+771,Los Angeles,2023-12-08,2024-01-17,2024-02-07,"E. J. Lauren, LLC",Closure Permanent,69,E. J. Lauren
+772,Los Angeles,2023-12-05,2024-01-17,2024-02-03,SPS Ventures Inc.,Layoff Permanent,162,SPS Ventures
+773,Santa Clara,2023-12-06,2024-01-17,2024-02-05,"Juniper Networks, Inc.",Layoff Permanent,51,Juniper Networks
+774,Santa Clara,2023-12-08,2024-01-17,2024-08-09,Google,Closure Permanent,73,
+775,Orange,2023-12-07,2024-01-17,2024-02-05,B. Braun Medical Inc.,Layoff Permanent,13,B. Braun Medical Inc.
+776,San Diego,2023-12-11,2024-01-17,2024-02-09,Alsco Inc.,Closure Permanent,107,Alsco
+777,San Francisco,2023-12-05,2024-01-17,2024-03-04,Spotify USA Inc.,Layoff Permanent,44,Spotify
+778,Tulare,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage - Hall,Closure Permanent,28,Country Club Mortgage
+779,Tulare,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage - Center,Closure Permanent,41,
+780,Tulare,2023-12-08,2024-01-17,2024-02-06,Country Club Mortgage,Closure Permanent,3,
+781,Los Angeles,2023-12-05,2024-01-17,2024-02-05,"Age of Learning, Inc.",Layoff Permanent,94,Age of Learning
+782,Yolo,2023-12-08,2024-01-17,2024-02-22,"QG Printing II, LLC",Closure Permanent,56,QG Printing II
+783,Alameda,2023-11-30,2024-01-18,2024-02-01,Global Medical Response,Closure Permanent,84,Global Medical Response
+784,Alameda,2023-12-13,2024-01-18,2024-02-16,Lifelong Medical Care dba Lifelong Ashby Health Center,Closure Permanent,55,Lifelong Medical Care
+785,Alameda,2023-11-29,2024-01-18,2024-02-02,"DePuy Synthes Products, Inc.",Layoff Permanent,25,DePuy Synthes Products
+786,Kern,2023-12-13,2024-01-18,2024-02-28,Ridgecrest Regional Hospital,Layoff Permanent,30,Ridgecrest Regional Hospital
+787,Monterey,2023-12-13,2024-01-18,2024-02-10,Wellness Innovation Group Inc. dba Lowell Farms,Closure Permanent,11,Lowell Farms
+788,San Mateo,2023-12-12,2024-01-18,2024-02-15,"Carbon, Inc.",Layoff Permanent,60,"Carbon, Inc."
+789,San Bernardino,2023-12-01,2024-01-18,2024-02-02,Quanex Homeshield LLC,Closure Permanent,58,Quanex Homeshield
+790,San Bernardino,2023-12-11,2024-01-18,2024-03-22,"AMQ Solutions, LLC",Closure Permanent,37,AMQ Solutions
+791,San Bernardino,2023-12-11,2024-01-18,2024-03-22,Steelcase Inc.,Closure Permanent,40,Steelcase Inc.
+792,San Diego,2023-12-04,2024-01-18,2024-02-01,"TuSimple, Inc.",Layoff Permanent,95,"TuSimple, Inc."
+793,San Francisco,2023-12-13,2024-01-18,2024-02-12,Invitae Corporation,Layoff Permanent,238,Invitae Corporation
+794,Santa Clara,2023-12-12,2024-01-18,2023-03-30,"Becton, Dickinson and Company",Layoff Permanent,111,
+795,Santa Clara,2023-12-12,2024-01-18,2023-03-30,"Becton, Dickinson and Company",Layoff Permanent,111,
+796,Los Angeles,2023-12-15,2024-01-19,2023-12-15,Z Global Logistics dba Kelly Toys Holding LLC,Closure Permanent,8,Kelly Toys Holding
+797,San Mateo,2023-12-14,2024-01-19,2023-12-14,Cruise LLC - Headquarters,Layoff Permanent,330,Cruise LLC
+798,San Mateo,2023-12-14,2024-01-19,2023-12-14,Cruise LLC,Layoff Permanent,18,
+799,Santa Clara,2023-12-14,2024-01-19,2023-12-14,Cruise LLC,Layoff Permanent,43,
+800,Santa Clara,2023-12-15,2024-01-19,2023-12-15,LinkedIn Corporation,Layoff Permanent,349,LinkedIn
+801,Santa Clara,2023-12-15,2024-01-19,2023-12-15,LinkedIn Corporation,Layoff Permanent,42,LinkedIn
+802,San Bernardino,2023-12-18,2024-01-19,2024-02-16,"Distribution Alternatives, Inc.",Closure Permanent,1,Distribution Alternatives
+803,San Francisco,2023-12-14,2024-01-19,2023-12-14,Cruise LLC,Layoff Permanent,121,
+804,San Francisco,2023-12-14,2024-01-19,2023-12-14,Cruise LLC - CC,Layoff Permanent,23,
+805,San Francisco,2023-12-15,2024-01-19,2023-12-15,LinkedIn Corporation,Layoff Permanent,42,LinkedIn
+806,Santa Barbara,2023-12-15,2024-01-19,2023-12-15,LinkedIn Corporation,Layoff Permanent,5,LinkedIn
+807,Los Angeles,2023-12-01,2024-01-22,2024-01-31,ACRT Pacific,Layoff Permanent,3,ACRT Pacific
+808,Los Angeles,2023-12-01,2024-01-22,2024-01-31,ACRT Pacific,Layoff Permanent,7,ACRT Pacific
+809,San Bernardino,2023-12-01,2024-01-22,2024-01-31,ACRT Pacific,Layoff Permanent,20,ACRT Pacific
+810,San Francisco,2023-12-05,2024-01-22,2024-02-05,"TIDAL, a subsidary of Block, Inc.",Layoff Permanent,1,TIDAL
+811,Tulare,2023-12-01,2024-01-22,2024-01-31,ACRT Pacific,Layoff Permanent,24,ACRT Pacific
+812,Los Angeles,2023-12-15,2024-01-23,2024-01-14,Il Fornaio (America) LLC dba Il Fornaio Pasadena Ristorante,Closure Permanent,54,Il Fornaio (America)
+813,Placer,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,9,
+814,Los Angeles,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gellerie",Layoff Permanent,15,Z Gallerie
+815,Los Angeles,2023-12-15,2024-01-23,2024-02-25,HMSHost located at Admirals Clubs & Lounges at Los Angeles International Airport (LAX),Closure Permanent,127,HMSHost
+816,San Mateo,2023-12-15,2024-01-23,2024-02-12,Pfizer,Layoff Permanent,52,Pfizer
+817,Orange,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,11,
+818,Riverside,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,8,
+819,San Diego,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,9,
+820,Orange,2023-12-01,2024-01-23,2024-01-31,ACRT Pacific,Layoff Permanent,4,ACRT Pacific
+821,Los Angeles,2023-12-12,2024-01-23,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,46,
+822,Alameda,2023-12-14,2024-01-24,2024-02-17,PacPartners dba Pizza Hut,Layoff Permanent,2,
+823,Fresno,2023-12-14,2024-01-24,2024-02-15,CalPac Pizza II dba Pizza Hut,Layoff Permanent,4,
+824,Fresno,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza II dba Pizza Hut,Layoff Permanent,3,
+825,Fresno,2023-12-14,2024-01-24,2024-02-19,CalPac Pizza dba Pizza Hut - 027400,Layoff Permanent,5,
+826,Fresno,2023-12-14,2024-01-24,2024-02-13,CalPac Pizza dba Pizza Hut - 027401,Layoff Permanent,5,
+827,Fresno,2023-12-14,2024-01-24,2024-02-15,CalPac Pizza dba Pizza Hut - 027403,Layoff Permanent,5,
+828,Fresno,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza dba Pizza Hut - 027406,Layoff Permanent,5,
+829,El Dorado,2023-12-14,2024-01-24,2024-02-24,PacPizza dba Pizza Hut,Layoff Permanent,3,
+830,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027383,Layoff Permanent,4,
+831,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027385,Layoff Permanent,8,
+832,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027386,Layoff Permanent,3,
+833,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027398,Layoff Permanent,6,
+834,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027408,Layoff Permanent,10,
+835,Kern,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut - 027384,Layoff Permanent,7,
+836,Kern,2023-12-14,2024-01-24,2024-02-15,CalPac Pizza dba Pizza Hut,Layoff Permanent,5,
+837,Kern,2023-12-14,2024-01-24,2024-02-15,CalPac Pizza dba Pizza Hut,Layoff Permanent,3,
+838,Kings,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza II LLC dba Pizza Hut,Layoff Permanent,4,
+839,Kings,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza dba Pizza Hut,Layoff Permanent,5,
+840,Madera,2023-12-14,2024-01-24,2024-02-13,CalPac Pizza dba Pizza Hut,Layoff Permanent,6,
+841,Merced,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza II LLC dba Pizza Hut,Layoff Permanent,5,
+842,Merced,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza dba Pizza Hut,Layoff Permanent,7,
+843,Merced,2023-12-14,2024-01-24,2024-02-17,CalPac Pizza dba Pizza Hut,Layoff Permanent,4,
+844,Butte,2023-12-14,2024-01-24,2024-02-23,Pacpizza dba Pizza Hut,Layoff Permanent,2,Pizza Hut
+845,Butte,2023-12-14,2024-01-24,2024-02-25,PacPizza dba Pizza Hut,Layoff Permanent,4,
+846,Yuba,2023-12-14,2024-01-24,2024-02-23,PacPizza dba Pizza Hut,Layoff Permanent,7,
+847,Santa Clara,2023-12-14,2024-01-24,2024-02-16,PacPizza dba Pizza Hut,Layoff Permanent,2,
+848,Santa Clara,2023-12-14,2024-01-24,2024-02-25,PacPizza dba Pizza Hut,Layoff Permanent,4,
+849,Santa Clara,2023-12-15,2024-01-24,2023-12-15,BrightDrop,Layoff Permanent,6,BrightDrop
+850,Riverside,2023-12-14,2024-01-24,2024-02-15,PacPartners dba Pizza Hut,Layoff Permanent,8,
+851,Riverside,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029197,Layoff Permanent,5,
+852,Riverside,2023-12-14,2024-01-24,2024-02-12,Southern PacPizza dba Pizza Hut - 029212,Layoff Permanent,2,
+853,Riverside,2023-12-14,2024-01-24,2024-02-23,Southern PacPizza dba Pizza Hut - 029198,Layoff Permanent,6,
+854,Riverside,2023-12-14,2024-01-24,2024-02-18,Southern PacPizza dba Pizza Hut - 029220,Layoff Permanent,8,
+855,Riverside,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029207,Layoff Permanent,4,
+856,Riverside,2023-12-14,2024-01-24,2024-02-18,Southern PacPizza dba Pizza Hut - 029208,Layoff Permanent,5,
+857,Riverside,2023-12-14,2024-01-24,2024-02-18,Southern PacPizza dba Pizza Hut - 029205,Layoff Permanent,6,
+858,Riverside,2023-12-14,2024-01-24,2024-02-12,Southern PacPizza dba Pizza Hut - 029199,Layoff Permanent,1,
+859,Riverside,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029201,Layoff Permanent,6,
+860,Riverside,2023-12-14,2024-01-24,2024-02-15,Southern PacPizza dba Pizza Hut - 029222,Layoff Permanent,5,
+861,Riverside,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029224,Layoff Permanent,10,
+862,Riverside,2023-12-14,2024-01-24,2024-02-18,Southern PacPizza dba Pizza Hut - 029203,Layoff Permanent,7,
+863,Riverside,2023-12-14,2024-01-24,2024-02-18,Southern PacPizza dba Pizza Hut - 029221,Layoff Permanent,6,
+864,Riverside,2023-12-14,2024-01-24,2024-02-19,Southern PacPizza dba Pizza Hut - 029232,Layoff Permanent,8,
+865,Sacramento,2023-12-14,2024-01-24,2024-02-12,CalPac Pizza II LLC dba Pizza Hut,Layoff Permanent,4,
+866,Sacramento,2023-12-14,2024-01-24,2024-02-15,PacPizza dba Pizza Hut - 011664,Layoff Permanent,3,
+867,Sacramento,2023-12-14,2024-01-24,2024-02-18,PacPizza dba Pizza Hut - 011753,Layoff Permanent,1,
+868,Sacramento,2023-12-14,2024-01-24,2024-02-16,PacPizza dba Pizza Hut - 011755,Layoff Permanent,7,
+869,Sacramento,2023-12-14,2024-01-24,2024-02-17,PacPizza dba Pizza Hut - 011761,Layoff Permanent,7,
+870,Sacramento,2023-12-14,2024-01-24,2024-02-25,PacPizza dba Pizza Hut - 014697,Layoff Permanent,4,
+871,San Bernardino,2023-12-14,2024-01-24,2024-02-19,Southern PacPizza dba Pizza Hut - 029211,Layoff Permanent,7,
+872,San Bernardino,2023-12-14,2024-01-24,2024-02-20,Southern PacPizza dba Pizza Hut - 029213,Layoff Permanent,4,
+873,San Bernardino,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029225,Layoff Permanent,10,
+874,San Bernardino,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029215,Layoff Permanent,13,
+875,San Bernardino,2023-12-14,2024-01-24,2024-02-19,Southern PacPizza dba Pizza Hut - 029202,Layoff Permanent,5,
+876,San Bernardino,2023-12-14,2024-01-24,2024-02-15,Southern PacPizza dba Pizza Hut - 029210,Layoff Permanent,3,
+877,San Bernardino,2023-12-14,2024-01-24,2024-02-15,Southern PacPizza dba Pizza Hut - 029200,Layoff Permanent,2,
+878,San Diego,2024-01-03,2024-01-24,2024-03-05,"NuVasive, Inc.",Layoff Permanent,157,"NuVasive, Inc."
+879,San Francisco,2024-01-02,2024-01-24,2024-03-02,"Adidas America, Inc.",Closure Permanent,28,Adidas America
+880,San Joaquin,2023-12-14,2024-01-24,2024-02-14,PacPizza dba Pizza Hut,Layoff Permanent,4,
+881,San Joaquin,2023-12-14,2024-01-24,2024-02-15,PacPizza dba Pizza Hut,Layoff Permanent,3,
+882,San Joaquin,2023-12-14,2024-01-24,2024-02-13,PacPizza dba Pizza Hut,Layoff Permanent,3,
+883,Santa Clara,2023-12-14,2024-01-24,2024-02-24,PacPizza dba Pizza Hut,Layoff Permanent,4,
+884,Santa Clara,2023-12-14,2024-01-24,2024-02-23,PacPizza dba Pizza Hut - 011728,Layoff Permanent,4,
+885,Santa Clara,2023-12-14,2024-01-24,2024-02-17,PacPizza dba Pizza Hut - 011729,Layoff Permanent,4,
+886,Santa Clara,2023-12-14,2024-01-24,2024-02-17,PacPizza dba Pizza Hut - 032516,Layoff Permanent,5,
+887,Santa Clara,2023-12-14,2024-01-24,2024-02-16,PacPizza dba Pizza Hut - 011730,Layoff Permanent,3,
+888,Stanislaus,2023-12-14,2024-01-24,2024-02-15,CalPac Pizza II LLC dba Pizza Hut,Layoff Permanent,6,
+889,Stanislaus,2023-12-14,2024-01-24,2024-02-15,PacPizza dba Pizza Hut,Layoff Permanent,4,
+890,Stanislaus,2023-12-14,2024-01-24,2024-02-20,PacPizza dba Pizza Hut,Layoff Permanent,6,
+891,Stanislaus,2023-12-14,2024-01-24,2024-02-15,PacPizza dba Pizza Hut,Layoff Permanent,2,
+892,Tulare,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029229,Layoff Permanent,10,
+893,Tulare,2023-12-14,2024-01-24,2024-02-16,Southern PacPizza dba Pizza Hut - 029230,Layoff Permanent,6,
+894,Tulare,2023-12-14,2024-01-24,2024-02-17,Southern PacPizza dba Pizza Hut - 029226,Layoff Permanent,4,
+895,Tulare,2023-12-14,2024-01-24,2024-02-17,Southern PacPizza dba Pizza Hut - 029228,Layoff Permanent,8,
+896,Tulare,2023-12-14,2024-01-24,2024-02-16,CalPac Pizza dba Pizza Hut,Layoff Permanent,5,
+897,Marin,2023-12-12,2024-01-24,2024-01-31,"DirectBuy Home Improvement, Inc. dba Z Gallerie",Layoff Permanent,15,
+898,Los Angeles,2023-12-14,2024-01-25,2024-02-12,TMG Hotel Figueroa F&B Venues,Closure Permanent,144,TMG Hotel
+899,Los Angeles,2024-01-09,2024-01-25,2024-03-31,"NZXT, Inc.",Closure Permanent,55,NZXT
+900,San Mateo,2023-12-21,2024-01-25,2024-03-01,Trove Recommerce,Closure Permanent,60,Trove Recommerce
+901,San Mateo,2023-12-21,2024-01-25,2024-04-01,Trove Recommerce,Closure Permanent,62,Trove Recommerce
+902,San Mateo,2023-12-21,2024-01-25,2024-05-01,Trove Recommerce,Closure Permanent,2,Trove Recommerce
+903,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,83,Cepheid
+904,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+905,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+906,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+907,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+908,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+909,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+910,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+911,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+912,Santa Clara,2023-12-14,2024-01-25,2024-02-12,Cepheid,Layoff Permanent,1,Cepheid
+913,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-CRSM1225,Layoff Permanent,59,
+914,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-CRSM1260,Layoff Permanent,11,
+915,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-CRSM1265,Layoff Permanent,32,
+916,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-HMBLT1,Layoff Permanent,2,
+917,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-HMBLT3,Layoff Permanent,32,
+918,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-SVL-HMBLT4,Layoff Permanent,25,Google
+919,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-1900,Layoff Permanent,1,
+920,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-1945,Layoff Permanent,5,
+921,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-1950,Layoff Permanent,8,
+922,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-1965,Layoff Permanent,14,
+923,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-2000,Layoff Permanent,28,
+924,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-40,Layoff Permanent,1,
+925,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-41,Layoff Permanent,80,
+926,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-42,Layoff Permanent,84,
+927,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-43,Layoff Permanent,12,
+928,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-CL2,Layoff Permanent,25,
+929,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-CL3,Layoff Permanent,14,
+930,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-CL4,Layoff Permanent,5,
+931,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-CL5,Layoff Permanent,19,
+932,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-STLN2027,Layoff Permanent,35,
+933,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-STLN2029,Layoff Permanent,2,
+934,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-STLN2051,Layoff Permanent,1,
+935,Santa Clara,2024-01-10,2024-01-25,2024-03-10,Google US-MTV-STLN2061,Layoff Permanent,28,
+936,Orange,2023-12-08,2024-01-25,2023-12-31,"US Motor Works, LLC",Layoff Permanent,8,US Motor Works
+937,San Bernardino,2024-01-05,2024-01-25,2024-05-31,"Technical Consumer Products, Inc.",Closure Permanent,11,Technical Consumer Products
+938,San Diego,2024-01-02,2024-01-25,2024-03-04,"Curio Employer LLC dba The Hotel del Coronado, Curio Collection by Hilton",Layoff Temporary,53,Curio Employer
+939,San Francisco,2024-01-09,2024-01-25,2024-03-08,Unity Technologies SF,Layoff Permanent,120,Unity Technologies
+940,San Francisco,2024-01-10,2024-01-25,2024-03-10,Google US-SFO-1MST,Layoff Permanent,42,
+941,San Francisco,2024-01-10,2024-01-25,2024-03-10,Google US-SFO-FRE215,Layoff Permanent,23,
+942,San Francisco,2024-01-10,2024-01-25,2024-03-10,Google US-SFO-MKT1,Layoff Permanent,14,
+943,San Francisco,2024-01-10,2024-01-25,2024-03-10,Google US-SFO-SPE,Layoff Permanent,26,
+944,Orange,2024-01-03,2024-01-26,2024-01-08,Xerxes Corporation,Closure Permanent,106,Xerxes Corporation
+945,Los Angeles,2024-01-05,2024-01-26,2024-03-06,Los Angeles Times Communications LLC,Closure Permanent,148,Los Angeles Times Communications
+946,Los Angeles,2023-12-22,2024-01-26,2024-02-20,Workforce Enterprises,Closure Permanent,93,Workforce Enterprises
+947,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,9,
+948,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc,Layoff Permanent,4,
+949,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,7,
+950,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,6,
+951,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,1,
+952,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,9,
+953,San Diego,2024-01-04,2024-01-26,2024-03-05,Cue Health Inc.,Layoff Permanent,11,
+954,San Diego,2023-12-21,2024-01-26,2024-02-19,NEOTech,Closure Permanent,76,NEOTech
+955,San Francisco,2024-01-11,2024-01-26,2024-02-02,Discord Inc.,Layoff Permanent,160,Discord
+956,San Francisco,2024-01-10,2024-01-26,2024-04-01,"Twitch Interactive, Inc. SFO19 Facility",Layoff Permanent,218,"Twitch Interactive, Inc."
+957,Santa Clara,2024-01-10,2024-01-26,2024-03-11,"ChargePoint, Inc.",Layoff Permanent,116,ChargePoint
+958,Stanislaus,2024-01-03,2024-01-26,2024-03-31,Silgan Containers Manufacturing Corporation,Closure Permanent,64,Silgan Containers Manufacturing Corporation
+959,Tulare,2024-01-10,2024-01-26,2024-03-11,Gannett Publishing Services dba Visalia Times Delta,Layoff Permanent,24,Visalia Times Delta
+960,Los Angeles,2024-01-10,2024-01-29,2024-03-15,Rico Corp. dba D'Addario Woodwinds,Layoff Permanent,7,D' Addario Woodwinds
+961,Los Angeles,2024-01-10,2024-01-29,2024-03-11,Amazon,Layoff Permanent,98,Amazon
+962,Los Angeles,2024-01-10,2024-01-29,2024-03-11,Amazon,Layoff Permanent,2,Amazon
+963,Los Angeles,2024-01-10,2024-01-29,2024-03-11,Amazon,Layoff Permanent,13,Amazon
+964,Orange,2024-01-05,2024-01-29,2024-03-05,"Bridge Staffing, LLC",Closure Permanent,115,Bridge Staffing
+965,Orange,2024-01-08,2024-01-29,2024-03-08,"Sega of America, Inc.",Layoff Permanent,12,Sega of America
+966,Orange,2024-01-08,2024-01-29,2024-03-08,"Sega of America, Inc.",Layoff Permanent,49,Sega of America
+967,Orange,2024-01-15,2024-01-29,2024-04-05,"Imperial Bag & Paper Co. LLC, dba Imperial Dade",Closure Permanent,20,Imperial Bag & Paper Co.
+968,Riverside,2024-01-11,2024-01-29,2024-03-11,"Penske Logistics, LLC providing services for Aldi, Inc.",Layoff Permanent,95,Penske Logistics
+969,San Bernardino,2023-12-20,2024-01-29,2024-02-23,TE Connectivity,Closure Permanent,61,TE Connectivity
+970,San Diego,2024-01-11,2024-01-29,2024-03-12,"Illumina, Inc.",Layoff Permanent,111,
+971,San Diego,2024-01-11,2024-01-29,2024-04-26,Apple Inc.,Layoff Permanent,121,Apple
+972,San Diego,2024-01-12,2024-01-29,2024-04-19,Walmart,Closure Permanent,125,Walmart
+973,San Diego,2024-01-12,2024-01-29,2024-04-19,Walmart,Closure Permanent,232,Walmart
+974,Ventura,2024-01-08,2024-01-29,2024-03-08,Atara Biotherapeutics,Layoff Permanent,1,Atara Biotherapeutics
+975,Ventura,2024-01-08,2024-01-29,2024-03-08,Atara Biotherapeutics,Layoff Permanent,43,Atara Biotherapeutics
+976,Alameda,2024-01-18,2024-01-30,2024-03-19,Macy's Bayfair Store,Closure Permanent,66,
+977,Orange,2024-01-12,2024-01-30,2024-03-15,DI Overnite LLC/DI Express LLC dba Deliver-IT,Layoff Permanent,3,
+978,San Mateo,2024-01-16,2024-01-30,2024-01-18,Allakos Inc.,Layoff Permanent,59,Allakos
+979,Orange,2024-01-05,2024-01-30,2024-04-01,Tower Semiconductor,Layoff Temporary,699,Tower Semiconductor
+980,Sacramento,2023-12-01,2024-01-30,2024-01-31,"Matheson Postal Services, Inc.",Layoff Permanent,10,
+981,Sacramento,2023-12-01,2024-01-30,2024-01-31,"Matheson Postal Services, Inc.",Layoff Permanent,18,
+982,San Bernardino,2024-01-12,2024-01-30,2024-03-15,DI Overnite LLC/DI Express LLC dba Deliver-It,Closure Permanent,29,Deliver-It
+983,San Bernardino,2023-12-01,2024-01-30,2024-01-31,"Matheson Postal Services, Inc.",Layoff Permanent,13,
+984,San Diego,2024-01-15,2024-01-30,2024-03-15,"Spencer Construction, LLC",Layoff Permanent,73,Spencer Construction
+985,San Diego,2024-01-15,2024-01-30,2024-03-15,"Spencer Construction, LLC",Layoff Permanent,32,Spencer Construction
+986,San Francisco,2024-01-04,2024-01-30,2025-01-01,Safeway,Closure Permanent,111,Safeway
+987,Orange,2024-01-12,2024-01-30,2024-03-15,DI Overnite LLC/DI Express LLC dba Deliver-It,Closure Permanent,22,Deliver-It
+988,Ventura,2024-01-18,2024-01-30,2024-03-19,Macy's Simi Valley Town Center Store,Closure Permanent,68,Macy's
+989,Los Angeles,2024-01-12,2024-01-30,2024-03-15,DI Overnite LLC/DI Express LLC dba Deliver-It,Closure Permanent,56,Deliver-It
+990,Fresno,2024-01-17,2024-01-31,2024-03-19,"ABM General Services, Inc. at FAT 1 Amazon",Layoff Permanent,96,
+991,Los Angeles,2024-01-25,2024-01-31,2024-03-28,Beauty & Essex,Closure Permanent,82,Beauty & Essex
+992,Los Angeles,2024-01-25,2024-01-31,2024-03-28,TAO Group Hospitality,Layoff Permanent,10,TAO Group Hospitality
+993,Los Angeles,2024-01-17,2024-01-31,2024-03-18,"Covanta Projects, LLC",Closure Permanent,10,Covanta Projects
+994,Los Angeles,2024-01-19,2024-01-31,2024-01-18,Plenty Unlimited Inc.,Layoff Permanent,86,Plenty Unlimited Inc.
+995,San Mateo,2024-01-19,2024-01-31,2024-01-18,Plenty Unlimited Inc.,Layoff Permanent,55,Plenty Unlimited Inc.
+996,Orange,2024-01-24,2024-01-31,2024-03-29,"Rise Baking Company dba South Coast Baking, LLC",Closure Permanent,85,South Coast Baking
+997,Riverside,2024-01-17,2024-01-31,2024-03-19,"ABM General Services, Inc. at PSP 1 Amazon",Layoff Permanent,79,
+998,Riverside,2024-01-17,2024-01-31,2024-03-19,"ABM General Services, Inc. at ONT 6 Amazon",Layoff Permanent,51,
+999,Riverside,2024-01-19,2024-01-31,2024-03-22,"FedEx Supply Chain, Inc.",Layoff Permanent,39,"FedEx Supply Chain, Inc."
+1000,Alameda,2024-01-16,2024-01-31,2024-03-18,Bechtel Infrastructure & Power Corporation,Closure Permanent,11,Bechtel Infrastructure & Power Corporation
+1001,Orange,2024-01-16,2024-01-31,2024-03-18,Bechtel Infrastructure & Power Corporation,Closure Permanent,64,Bechtel Infrastructure & Power Corporation
+1002,San Bernardino,2024-01-16,2024-01-31,2024-03-18,Bechtel Infrastructure & Power Corporation,Closure Permanent,3,Bechtel Infrastructure & Power Corporation
+1003,San Bernardino,2024-01-17,2024-01-31,2024-03-19,"ABM General Services, Inc. at SBD 1 Amazon",Layoff Permanent,39,
+1004,San Bernardino,2024-01-17,2024-01-31,2024-03-19,"ABM General Services, Inc. at SNA 4 Amazon",Layoff Permanent,25,ABM General Services
+1005,San Diego,2024-01-16,2024-01-31,2024-03-18,Bechtel Infrastructure & Power Corporation,Closure Permanent,6,Bechtel Infrastructure & Power Corporation
+1006,San Diego,2024-01-25,2024-01-31,2024-03-28,LAVO Italian Restaurant San Diego,Closure Permanent,83,LAVO Italian Restaurant
+1007,Los Angeles,2024-01-17,2024-01-31,2024-03-22,"National Distribution Centers, LLC",Layoff Not known at this time,2,National Distribution Centers
+1008,Los Angeles,2024-01-17,2024-01-31,2024-03-22,"National Distribution Centers, LLC",Layoff Not known at this time,3,National Distribution Centers
+1009,Los Angeles,2024-01-17,2024-01-31,2024-03-22,"National Distribution Centers, LLC",Layoff Not known at this time,1,National Distribution Centers
+1010,Los Angeles,2024-01-17,2024-01-31,2024-03-22,"National Distribution Centers, LLC",Layoff Not known at this time,1,National Distribution Centers
+1011,Ventura,2024-01-17,2024-01-31,2024-01-01,"Baxalta US, Inc. dba Takeda",Layoff Permanent,5,Baxalta US
+1012,Orange,2024-01-19,2024-02-01,2024-03-24,"Berry Global, Inc.",Closure Permanent,160,"Berry Global, Inc."
+1013,Los Angeles,2024-01-24,2024-02-01,2024-03-25,Sugar Foods LLC,Closure Permanent,72,Sugar Foods
+1014,Los Angeles,2024-01-22,2024-02-01,2024-03-31,Hollingsworth LLC,Closure Permanent,15,Hollingsworth
+1015,Los Angeles,2024-01-23,2024-02-01,2024-01-26,MemorialCare Long Beach Medical Center and Miller Children's and Women's Hospital Long Beach,Layoff Permanent,58,MemorialCare Long Beach Medical Center
+1016,Plumas,2024-01-23,2024-02-01,2024-01-19,Collins Pine Company,Layoff Temporary,62,Collins Pine Company
+1017,San Mateo,2024-01-08,2024-02-01,2024-03-08,Nevro Corp.,Layoff Permanent,63,Nevro Corp.
+1018,Santa Clara,2024-01-19,2024-02-01,2024-03-22,SMTC Corporation,Layoff Permanent,14,SMTC Corporation
+1019,Santa Clara,2024-01-19,2024-02-01,2024-03-19,"Wayfair, LLC",Layoff Permanent,74,Wayfair
+1020,Alameda,2024-01-20,2024-02-01,2024-03-24,"In-N-Out Burgers, a California corporation",Closure Permanent,115,In-N-Out Burgers
+1021,Orange,2024-01-22,2024-02-01,2024-03-28,"Lund Motion Products, Inc.",Layoff Permanent,117,Lund Motion Products
+1022,San Bernardino,2024-01-17,2024-02-01,2024-04-01,Robert Bosch LLC,Layoff Permanent,14,Robert Bosch
+1023,San Francisco,2024-01-23,2024-02-01,2024-01-24,eBay Inc.,Layoff Permanent,20,eBay Inc.
+1024,Santa Clara,2024-01-23,2024-02-01,2024-01-24,eBay Inc.,Layoff Permanent,261,eBay Inc.
+1025,Santa Clara,2024-01-02,2024-02-01,2024-03-04,"Pacific Catch, Inc.",Closure Temporary,73,Pacific Catch
+1026,Solano,2024-01-26,2024-02-01,2024-03-29,"William Kreysler & Associates, Inc.",Layoff Permanent,59,William Kreysler & Associates
+1027,Stanislaus,2024-01-15,2024-02-01,2024-03-15,Covenant Living Communities & Services (Covenant Living West) dba Brandel Manor and Cypress Assisted,Closure Permanent,168,Covenant Living Communities & Services
+1028,Los Angeles,2024-01-23,2024-02-02,2024-03-28,Levy Premium Foodservice Limited Partnership at The Rose Bowl,Layoff Temporary,83,Levy Premium Foodservice
+1029,Los Angeles,2024-01-29,2024-02-02,2024-03-29,Rico Corp. dba D' Addario Woodwinds,Layoff Permanent,4,
+1030,Los Angeles,2024-01-30,2024-02-02,2024-04-05,"Hawker Pacific Aerospace, Inc.",Layoff Permanent,260,Hawker Pacific Aerospace
+1031,Los Angeles,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,49,Activision Blizzard
+1032,Los Angeles,2024-01-30,2024-02-02,2024-01-30,MedMen Enterprises Inc.,Layoff Permanent,10,MedMen Enterprises
+1033,Santa Clara,2024-01-30,2024-02-02,2024-01-30,MedMen Enterprises Inc.,Layoff Permanent,7,MedMen Enterprises
+1034,Los Angeles,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,79,Activision Blizzard
+1035,Los Angeles,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,130,Activision Blizzard
+1036,Los Angeles,2024-01-31,2024-02-02,2024-04-01,Covanta Long Beach Renewable Energy Corp.,Closure Permanent,39,Covanta Long Beach Renewable Energy Corp.
+1037,Glenn,2024-01-24,2024-02-02,2024-03-31,"Syngenta Seeds, LLC",Closure Permanent,56,Syngenta Seeds
+1038,Nevada,2024-01-31,2024-02-02,2024-04-05,TE Connectivity,Closure Permanent,58,TE Connectivity
+1039,San Mateo,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,76,Activision Blizzard
+1040,Santa Clara,2024-02-01,2024-02-02,2024-02-02,Maxar Space LLC - Fabian,Layoff Permanent,48,
+1041,Santa Clara,2024-02-01,2024-02-02,2024-02-02,Maxar Space LLC - Meadow,Layoff Permanent,8,
+1042,Santa Clara,2024-02-01,2024-02-02,2024-02-02,Maxar Space LLC - Charleston,Layoff Permanent,1,
+1043,Santa Clara,2024-02-01,2024-02-02,2024-02-02,Mazar Space LLC - Leghorn,Layoff Permanent,6,Maxar Space
+1044,Orange,2024-01-29,2024-02-02,2024-03-29,ITC Federal,Layoff Permanent,125,ITC Federal
+1045,Orange,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,478,Activision Blizzard
+1046,Riverside,2024-01-29,2024-02-02,2024-03-29,"El Dorado National (California), Inc.",Layoff Permanent,425,El Dorado National (California)
+1047,Sacramento,2024-02-01,2024-02-02,2024-05-31,Parker Hannifin Corporation BWF Division,Closure Permanent,8,Parker Hannifin Corporation
+1048,San Bernardino,2024-01-31,2024-02-02,2024-03-31,"Home EC, Inc. dba Connect Homes",Closure Permanent,75,Connect Homes
+1049,San Bernardino,2024-01-18,2024-02-02,2024-03-21,Curio Employer LLC,Layoff Temporary,5,
+1050,San Diego,2024-01-25,2024-02-02,2024-03-26,Cue Health - Moda South,Layoff Permanent,26,
+1051,San Diego,2024-01-25,2024-02-02,2024-03-26,"Cue Health, Moda North",Layoff Permanent,9,
+1052,San Diego,2024-01-25,2024-02-02,2024-03-26,"Cue Health, Moda North II",Layoff Permanent,8,
+1053,San Diego,2024-01-25,2024-02-02,2024-03-26,"Cue Health, Moda West",Layoff Permanent,1,
+1054,San Diego,2024-01-25,2024-02-02,2024-03-26,"Cue Health, Waples",Layoff Permanent,12,Cue Health
+1055,San Diego,2024-01-25,2024-02-02,2024-03-26,"Cue Health, Vista",Layoff Permanent,70,
+1056,San Diego,2024-01-18,2024-02-02,2024-03-11,Curio Employer LLC,Layoff Temporary,7,
+1057,Santa Barbara,2024-01-31,2024-02-02,2024-03-31,"AppFolio, Inc.",Layoff Permanent,16,AppFolio
+1058,Los Angeles,2024-01-23,2024-02-02,2024-03-25,Los Angeles Times Communications LLC,Layoff Permanent,77,Los Angeles Times Communications
+1059,Los Angeles,2024-01-23,2024-02-02,2024-03-25,Los Angeles Times Communications LLC,Layoff Permanent,19,Los Angeles Times Communications
+1060,Yolo,2024-01-23,2024-02-02,2024-03-04,Woodland Rite Aid Distribution Center,Closure Permanent,241,Woodland Rite Aid Distribution Center
+1061,Marin,2024-01-25,2024-02-02,2024-03-30,Activision Blizzard,Layoff Permanent,85,Activision Blizzard
+1062,Contra Costa,2024-02-05,2024-02-05,2024-04-26,Corteva Agriscience LLC,Layoff Permanent,6,Corteva Agriscience
+1063,Los Angeles,2024-02-01,2024-02-05,2024-04-12,"Shadow Holdings, LLC.",Layoff Permanent,60,Shadow Holdings
+1064,Los Angeles,2024-02-05,2024-02-05,2024-02-06,Snap Inc.,Layoff Permanent,122,Snap Inc.
+1065,Santa Clara,2024-02-05,2024-02-05,2024-02-06,Snap Inc.,Layoff Permanent,52,Snap Inc.
+1066,San Mateo,2024-02-01,2024-02-05,2024-03-31,"Del Monte Capitol Meat Company, LLC DBA Allen Brothers West Coast",Closure Permanent,92,
+1067,San Diego,2024-02-01,2024-02-05,2024-03-31,"Viasat, Inc",Layoff Permanent,4,
+1068,San Francisco,2024-02-01,2024-02-05,2024-04-23,"Salesforce, Inc.",Layoff Permanent,51,Salesforce
+1069,San Francisco,2024-02-01,2024-02-05,2024-04-04,"Okta, Inc.",Layoff Permanent,83,"Okta, Inc."
+1070,San Francisco,2024-02-02,2024-02-05,2024-02-02,"Flexport, Inc.",Layoff Permanent,99,Flexport
+1071,Santa Clara,2024-01-30,2024-02-05,2024-03-30,PayPal,Layoff Permanent,311,PayPal
+1072,Sonoma,2024-02-01,2024-02-05,2024-04-01,"CamelBak Products, LLC",Layoff Permanent,43,CamelBak Products
+1073,Ventura,2024-02-01,2024-02-05,2024-04-01,Pennymac,Layoff Permanent,1,Pennymac
+1074,Santa Clara,2024-01-16,2024-02-06,2024-03-15,Pixelberry Studios,Layoff Permanent,120,Pixelberry Studios
+1075,Santa Clara,2024-01-22,2024-02-06,2024-03-04,Google US-MTV-RLS1,Layoff Permanent,57,
+1076,Santa Clara,2024-01-22,2024-02-06,2024-03-04,Google US-MTV-RLS2,Layoff Permanent,16,
+1077,Orange,2024-02-01,2024-02-06,2024-01-05,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1078,Orange,2024-02-01,2024-02-06,2024-01-24,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1079,Orange,2024-02-01,2024-02-06,2024-01-26,"Boardriders Wholesale, LLC",Layoff Permanent,4,Boardriders Wholesale
+1080,Orange,2024-02-01,2024-02-06,2024-01-31,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1081,Orange,2024-02-01,2024-02-06,2024-02-16,"Boardriders Wholesale, LLC",Layoff Permanent,6,Boardriders Wholesale
+1082,Orange,2024-02-01,2024-02-06,2024-03-01,"Boardriders Wholesale, LLC",Layoff Permanent,6,Boardriders Wholesale
+1083,Orange,2024-02-01,2024-02-06,2024-03-08,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1084,Orange,2024-02-01,2024-02-06,2024-03-15,"Boardriders Wholesale, LLC",Layoff Permanent,2,Boardriders Wholesale
+1085,Orange,2024-02-01,2024-02-06,2024-03-22,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1086,Orange,2024-02-01,2024-02-06,2024-03-29,"Boardriders Wholesale, LLC",Layoff Permanent,84,Boardriders Wholesale
+1087,Orange,2024-02-01,2024-02-06,2024-04-05,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1088,Orange,2024-02-01,2024-02-06,2024-04-26,"Boardriders Wholesale, LLC",Layoff Permanent,20,Boardriders Wholesale
+1089,Orange,2024-02-01,2024-02-06,2024-03-29,"Boardriders Wholesale, LLC",Layoff Permanent,1,Boardriders Wholesale
+1090,Riverside,2024-02-01,2024-02-06,2024-02-05,"Boardriders Wholesale, LLC",Layoff Permanent,89,Boardriders Wholesale
+1091,Riverside,2024-02-01,2024-02-06,2024-04-26,"Boardriders Wholesale, LLC",Layoff Permanent,246,Boardriders Wholesale
+1092,San Bernardino,2024-01-16,2024-02-06,2024-03-16,DHL Supply Chain,Closure Permanent,13,DHL Supply Chain
+1093,Santa Clara,2024-02-07,2024-02-07,2024-04-08,"Pure Storage, Inc.",Layoff Permanent,81,Pure Storage
+1094,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,19,Brookfield Properties
+1095,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,9,Brookfield Properties
+1096,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,18,Brookfield Properties
+1097,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,13,Brookfield Properties
+1098,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,12,Brookfield Properties
+1099,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,7,Brookfield Properties
+1100,Los Angeles,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,29,Brookfield Properties
+1101,San Francisco,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,2,Brookfield Properties
+1102,San Francisco,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,3,Brookfield Properties
+1103,Santa Clara,2024-01-25,2024-02-08,2024-04-01,Brookfield Properties (USA II) LLC,Layoff Permanent,1,Brookfield Properties
+1104,San Francisco,2024-02-07,2024-02-08,2024-04-08,"Grammarly, Inc.",Layoff Permanent,82,Grammarly
+1105,Los Angeles,2024-02-09,2024-02-09,2024-04-26,"Leggett & Platt, Incorporated",Closure Permanent,55,"Leggett & Platt, Inc."
+1106,Ventura,2024-02-08,2024-02-09,2024-05-08,Adventist Health Simi Valley,Layoff Permanent,53,Adventist Health
+1107,Los Angeles,2024-02-07,2024-02-09,2024-04-07,California Institute of Technology,Layoff Permanent,521,California Institute of Technology
+1108,Los Angeles,2024-02-12,2024-02-12,2024-04-12,Johnson & Johnson Consumer Inc. dba Kenvue,Closure Permanent,84,Johnson & Johnson
+1109,Los Angeles,2024-02-12,2024-02-12,2024-04-14,City National Bank,Layoff Permanent,32,City National Bank
+1110,Los Angeles,2024-02-12,2024-02-12,2024-04-14,City National Bank,Layoff Permanent,24,City National Bank
+1111,Los Angeles,2024-02-06,2024-02-13,2024-04-07,"Zwift, Inc.",Layoff Permanent,76,"Zwift, Inc."
+1112,San Bernardino,2024-02-09,2024-02-13,2024-04-30,"Gibson Overseas, Inc.",Closure Permanent,44,Gibson Overseas
+1113,San Francisco,2024-02-12,2024-02-13,2024-01-31,Aurora Solar Inc.,Layoff Permanent,115,Aurora Solar Inc.
+1114,Los Angeles,2024-01-22,2024-02-14,2024-03-25,Riot Games,Layoff Permanent,330,Riot Games
+1115,San Mateo,2024-01-22,2024-02-14,2024-03-25,Riot Games,Layoff Permanent,6,Riot Games
+1116,San Bernardino,2024-02-13,2024-02-14,2024-04-19,"Universal Intermodal Services, Inc.",Layoff Permanent,42,"Universal Intermodal Services, Inc."
+1117,San Diego,2024-02-13,2024-02-14,2024-04-26,Nordson Corporation,Layoff Permanent,69,Nordson Corporation
+1118,San Francisco,2024-02-13,2024-02-14,2024-02-16,Maplebear Inc. dba Instacart,Layoff Permanent,105,Instacart
+1119,San Diego,2024-02-14,2024-02-15,2024-02-20,"Sorrento Therapeutics, Inc.",Layoff Permanent,62,Sorrento Therapeutics
+1120,San Diego,2024-02-14,2024-02-15,2024-02-20,"Sorrento Therapeutics, Inc.",Layoff Permanent,15,Sorrento Therapeutics
+1121,Orange,2024-02-07,2024-02-16,2024-04-07,The Rinks Foundation,Closure Permanent,35,The Rinks Foundation
+1122,Orange,2024-02-14,2024-02-16,2024-04-13,DXS Logistics LLC,Closure Permanent,80,DXS Logistics
+1123,San Diego,2024-02-15,2024-02-16,2024-04-30,AVMAC LLC,Layoff Permanent,153,AVMAC
+1124,Kern,2024-02-08,2024-02-20,2024-04-08,Ridgecrest Regional Hospital,Layoff Permanent,31,Ridgecrest Regional Hospital
+1125,Los Angeles,2024-02-15,2024-02-20,2024-04-19,Rico Corp. dba D'Addario Woodwinds,Layoff Permanent,6,D' Addario Woodwinds
+1126,Los Angeles,2024-02-15,2024-02-20,2024-04-19,Paramount Global,Layoff Permanent,56,Paramount Global
+1127,Los Angeles,2024-02-15,2024-02-20,2024-04-19,Paramount Global,Layoff Permanent,85,Paramount Global
+1128,San Diego,2024-02-15,2024-02-20,2024-04-15,"TuSimple, Inc.",Layoff Permanent,6,"TuSimple, Inc."
+1129,Placer,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,4,Round Table Pizza
+1130,Placer,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,4,Round Table Pizza
+1131,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,7,Round Table Pizza
+1132,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,4,Round Table Pizza
+1133,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,3,Round Table Pizza
+1134,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC,Layoff Permanent,4,
+1135,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,5,Round Table Pizza
+1136,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,9,Round Table Pizza
+1137,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,1,Round Table Pizza
+1138,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,3,Round Table Pizza
+1139,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,4,Round Table Pizza
+1140,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,4,Round Table Pizza
+1141,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,5,Round Table Pizza
+1142,Sacramento,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,5,Round Table Pizza
+1143,Yolo,2024-02-15,2024-02-20,2024-04-19,Excalibur Pizza LLC dba Round Table Pizza,Layoff Permanent,8,Round Table Pizza
+1144,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,1,Carbon Health
+1145,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,1,Carbon Health
+1146,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,4,Carbon Health
+1147,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1148,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,6,Carbon Health
+1149,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1150,Los Angeles,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,1,Carbon Health
+1151,Marin,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,10,Carbon Health
+1152,Orange,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,4,Carbon Health
+1153,Orange,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,5,Carbon Health
+1154,Riverside,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1155,San Bernardino,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,5,Carbon Health
+1156,San Bernardino,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1157,San Diego,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1158,San Diego,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,2,Carbon Health
+1159,San Francisco,2024-01-12,2024-02-21,2024-03-12,Carbon Health Medical Group,Layoff Permanent,7,Carbon Health
+1160,Solano,2024-02-16,2024-02-21,2024-04-19,"William Kreysler & Associates, Inc.",Layoff Permanent,25,William Kreysler & Associates
+1161,Alameda,2024-02-22,2024-02-22,2024-04-16,"FM Restaurants HQ, LLC",Closure Permanent,62,
+1162,Kern,2024-02-22,2024-02-22,2024-04-22,Daifuku Services America Corporation,Layoff Permanent,80,Daifuku Services America Corporation
+1163,Kern,2024-02-22,2024-02-22,2024-04-22,Daifuku Services America Corporation,Layoff Permanent,75,Daifuku Services America Corporation
+1164,Los Angeles,2024-02-21,2024-02-22,2024-05-20,"Jacmar Foodservice Distribution, LLC",Layoff Permanent,92,Jacmar Foodservice Distribution
+1165,San Mateo,2024-02-21,2024-02-22,2024-05-01,Marriott San Mateo Hotel,Closure Permanent,127,Marriott
+1166,San Bernardino,2024-02-13,2024-02-22,2024-04-15,Workforce Enterprises,Closure Permanent,93,Workforce Enterprises
+1167,San Francisco,2024-02-15,2024-02-22,2024-04-15,"Cisco Systems, Inc.",Layoff Permanent,108,Cisco Systems
+1168,Santa Clara,2024-02-15,2024-02-22,2024-04-15,"Cisco Systems, Inc.",Layoff Permanent,447,Cisco Systems
+1169,Santa Clara,2024-02-15,2024-02-22,2024-04-15,"Cisco Systems, Inc.",Layoff Permanent,176,Cisco Systems
+1170,Sonoma,2024-02-01,2024-02-22,2024-03-31,"La Tortilla Factory, Inc.",Closure Permanent,132,La Tortilla Factory
+1171,Los Angeles,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,393,Southern California Pizza Company
+1172,Orange,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,129,Southern California Pizza Company
+1173,Riverside,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,67,Southern California Pizza Company
+1174,San Bernardino,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,80,Southern California Pizza Company
+1175,Santa Barbara,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,8,Southern California Pizza Company
+1176,Ventura,2023-12-01,2024-02-23,2024-02-05,Southern California Pizza Company LLC,Layoff Permanent,9,Southern California Pizza Company
+1177,San Mateo,2024-02-23,2024-02-23,2024-04-26,"Janssen Research & Development, LLC",Closure Permanent,55,Janssen Research & Development
+1178,Orange,2023-12-01,2024-02-23,2024-02-05,SoCal South OC LLC,Layoff Permanent,12,SoCal South OC
+1179,Orange,2023-12-01,2024-02-23,2024-02-05,SoCal South OC LLC,Layoff Permanent,5,SoCal South OC
+1180,Orange,2023-12-01,2024-02-23,2024-02-05,SoCal South OC LLC,Layoff Permanent,2,SoCal South OC
+1181,Orange,2023-12-01,2024-02-23,2024-02-05,SoCal South OC LLC,Layoff Permanent,2,SoCal South OC
+1182,Orange,2023-12-01,2024-02-23,2024-02-05,SoCal South OC LLC,Layoff Permanent,4,SoCal South OC
+1183,Los Angeles,2023-12-01,2024-02-23,2024-02-05,"SoCal Pizza Holdings, LLC",Layoff Permanent,64,SoCal Pizza Holdings
+1184,Orange,2023-12-01,2024-02-23,2024-02-05,"SoCal Pizza Holdings, LLC",Layoff Permanent,28,SoCal Pizza Holdings
+1185,Riverside,2023-12-01,2024-02-23,2024-02-05,"SoCal Pizza Holdings, LLC",Layoff Permanent,22,SoCal Pizza Holdings
+1186,San Bernardino,2023-12-01,2024-02-23,2024-02-05,"SoCal Pizza Holdings, LLC",Layoff Permanent,10,SoCal Pizza Holdings
+1187,Santa Barbara,2023-12-01,2024-02-23,2024-02-05,"SoCal Pizza Holdings, LLC",Layoff Permanent,6,SoCal Pizza Holdings
+1188,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,30,Rivian Automotive
+1189,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,99,Rivian Automotive
+1190,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,5,Rivian Automotive
+1191,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,14,Rivian Automotive
+1192,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,35,Rivian Automotive
+1193,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,2,Rivian Automotive
+1194,Orange,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,6,Rivian Automotive
+1195,Santa Clara,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,77,Rivian Automotive
+1196,Santa Clara,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,45,Rivian Automotive
+1197,Santa Clara,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,18,Rivian Automotive
+1198,Santa Clara,2024-02-22,2024-02-26,2024-04-23,"Rivian Automotive, LLC",Layoff Permanent,9,Rivian Automotive
+1199,Alameda,2024-01-08,2024-02-27,2024-03-08,"Exelixis, Inc.",Layoff Permanent,143,Exelixis
+1200,Orange,2024-01-24,2024-02-27,2024-03-26,"Marvell Semiconductor, Inc.",Layoff Permanent,43,"Marvell Semiconductor, Inc."
+1201,Santa Clara,2024-01-24,2024-02-27,2024-03-26,"Marvell Semiconductor, Inc.",Layoff Permanent,23,"Marvell Semiconductor, Inc."
+1202,Santa Clara,2024-02-26,2024-02-27,2024-07-31,Jabil Inc.,Closure Permanent,9,Jabil Inc.
+1203,San Mateo,2024-02-27,2024-02-28,2024-03-16,Sony Interactive Entertainment LLC,Layoff Permanent,118,Sony
+1204,Alameda,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,1,
+1205,Alameda,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,49,
+1206,Kern,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,1,
+1207,Los Angeles,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,8,
+1208,Los Angeles,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,10,
+1209,Los Angeles,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,1,
+1210,San Joaquin,2024-02-26,2024-02-28,2024-04-26,Kaiser Foundation Hospitals,Layoff Permanent,2,
+1211,Los Angeles,2024-02-28,2024-02-29,2024-04-29,"BuzzFeed Media Enterprises, Inc.",Layoff Permanent,59,BuzzFeed Media Enterprises
+1212,San Mateo,2024-02-26,2024-02-29,2024-04-26,Balfour Beatty US Civils,Layoff Permanent,222,Balfour Beatty US Civils
+1213,San Diego,2024-02-27,2024-02-29,2024-04-28,"Moondoggies, Inc dba The Dog",Closure Permanent,5,The Dog
+1214,Los Angeles,2024-02-28,2024-03-01,2024-04-19,Paramount Global,Layoff Permanent,1,Paramount Global
+1215,Sacramento,2024-02-29,2024-03-01,2024-05-17,Delta Dental Plan of California,Layoff Permanent,137,Delta Dental Plan of California
+1216,San Bernardino,2024-02-28,2024-03-01,2024-04-28,Gruma Corp dba Mission Foods,Layoff Permanent,93,Mission Foods
+1217,San Francisco,2024-02-28,2024-03-01,2024-04-27,Levi Strauss & Co.,Layoff Permanent,146,Levi Strauss & Co.
+1218,Alameda,2024-03-01,2024-03-04,2024-04-30,Walters & Wolf Precast,Closure Permanent,86,Walters & Wolf Precast
+1219,Los Angeles,2024-02-28,2024-03-04,2024-05-31,Walmart,Closure Permanent,233,Walmart
+1220,Los Angeles,2024-03-01,2024-03-04,2024-04-30,AHMC San Gabriel Valley Medical Center LP dba San Gabriel Valley Medical Center,Layoff Permanent,3,AHMC San Gabriel Valley Medical Center
+1221,San Diego,2024-02-29,2024-03-04,2024-04-30,Orion Strategic Solutions LLC,Layoff Permanent,10,Orion Strategic Solutions
+1222,Sonoma,2024-03-01,2024-03-04,2024-05-01,St. Vincent de Paul High School,Closure Permanent,68,St. Vincent de Paul High School
+1223,Los Angeles,2024-03-01,2024-03-05,2024-05-08,"UMG Recordings, Inc. (Universal Music Group)",Layoff Permanent,4,Universal Music Group
+1224,Los Angeles,2024-03-01,2024-03-05,2024-05-08,"UMG Recordings, Inc. (Universal Music Group)",Layoff Permanent,2,Universal Music Group
+1225,Los Angeles,2024-03-01,2024-03-05,2024-05-08,"UMG Recordings, Inc. (Universal Music Group)",Layoff Permanent,56,Universal Music Group
+1226,Los Angeles,2024-03-01,2024-03-05,2024-05-08,"UMG Recordings, Inc. (Universal Music Group)",Layoff Permanent,7,Universal Music Group
+1227,Los Angeles,2024-03-01,2024-03-05,2024-05-08,"UMG Recordings, Inc. (Universal Music Group)",Layoff Permanent,14,Universal Music Group
+1228,Orange,2024-03-04,2024-03-05,2024-05-03,"FM Restaurants HQ, LLC",Closure Permanent,40,
+1229,Orange,2024-03-04,2024-03-05,2024-04-30,"Safran Cabin, Inc.",Closure Permanent,281,Safran Cabin
+1230,Solano,2024-03-04,2024-03-05,2024-05-03,"FM Restaurants HQ, LLC",Closure Permanent,48,
+1231,San Mateo,2024-03-04,2024-03-06,2024-05-04,Bay Area PL Services dba BayPLS,Layoff Permanent,87,Bay Area PL Services
+1232,San Mateo,2024-03-05,2024-03-06,2024-05-24,"Catalent, Inc.",Closure Permanent,40,"Catalent, Inc."
+1233,San Mateo,2024-03-05,2024-03-06,2024-05-24,"Catalent, Inc.",Closure Permanent,50,"Catalent, Inc."
+1234,Santa Clara,2024-03-05,2024-03-06,2024-05-06,"Juniper Networks, Inc.",Layoff Permanent,7,Juniper Networks
+1235,Orange,2024-03-05,2024-03-06,2024-05-06,NFI National Distribution Centers LLC,Closure Permanent,30,NFI National Distribution Centers
+1236,San Bernardino,2024-02-23,2024-03-06,2024-02-23,ADT Solar,Closure Permanent,58,ADT Solar
+1237,San Bernardino,2024-03-05,2024-03-06,2024-07-31,"Neovia Logistics Distribution, LP",Closure Permanent,31,Neovia Logistics Distribution
+1238,San Bernardino,2024-02-26,2024-03-06,2024-04-27,UPS,Layoff Permanent,333,UPS
+1239,Santa Clara,2024-03-06,2024-03-06,2024-05-06,Lumentum Operations LLC,Layoff Permanent,66,Lumentum Operations
+1240,Santa Clara,2024-03-06,2024-03-06,2024-05-06,Lumentum Operations LLC,Layoff Permanent,11,Lumentum Operations
+1241,Santa Clara,2024-03-06,2024-03-06,2024-05-06,Lumentum Operations LLC,Layoff Permanent,5,Lumentum Operations
+1242,San Bernardino,2024-03-05,2024-03-07,2024-07-01,Nordstrom,Closure Permanent,784,Nordstrom
+1243,Los Angeles,2023-09-28,2024-03-07,2023-10-02,Epic Games,Layoff Permanent,30,Epic Games
+1244,Marin,2023-09-28,2024-03-07,2023-10-02,Epic Games,Layoff Permanent,34,Epic Games
+1245,San Diego,2023-09-28,2024-03-07,2023-10-02,Epic Games,Layoff Permanent,33,Epic Games
+1246,San Joaquin,2024-02-28,2024-03-08,2024-04-28,NFI National Distribution Centers LLC,Closure Permanent,1,NFI National Distribution Centers
+1247,San Joaquin,2024-03-07,2024-03-08,2024-05-07,"PetVet Care Centers (California), Inc.",Closure Permanent,2,PetVet Care Centers
+1248,San Joaquin,2024-03-07,2024-03-08,2024-05-07,"PetVet Care Centers (California), Inc.",Closure Permanent,2,PetVet Care Centers
+1249,Los Angeles,2024-02-13,2024-03-11,2024-04-30,WaFD Bank,Layoff Permanent,49,WaFD Bank
+1250,Santa Clara,2024-03-11,2024-03-12,2024-05-14,Kett Engineering Corporation,Layoff Permanent,180,Kett Engineering Corporation
+1251,Los Angeles,2024-03-01,2024-03-13,2024-05-05,Rico Corp. dba D'Addario Woodwinds,Layoff Permanent,4,D' Addario Woodwinds
+1252,Los Angeles,2024-03-13,2024-03-13,2024-05-13,AHMC San Gabriel Valley Medical Center LP dba San Gabriel Valley Medical Center,Layoff Permanent,62,AHMC San Gabriel Valley Medical Center
+1253,San Diego,2024-02-29,2024-03-14,2024-04-30,PKL Services Inc,Layoff Permanent,89,PKL Services Inc
+1254,San Francisco,2024-03-01,2024-03-14,2024-04-30,"Watermark Services IV, LLC",Layoff Permanent,41,Watermark Services
+1255,Los Angeles,2024-03-04,2024-03-15,2024-05-17,"Shadow Holdings, LLC dba Bright Innovation Labs",Closure Permanent,60,
+1256,San Diego,2024-03-14,2024-03-15,2024-04-22,Bristol Myers Squibb,Layoff Permanent,252,Bristol Myers Squibb
+1257,San Diego,2024-03-14,2024-03-15,2024-05-13,Scripps Health,Layoff Permanent,13,Scripps Health
+1258,San Diego,2024-03-14,2024-03-15,2024-06-23,Scripps Health,Layoff Permanent,134,Scripps Health
+1259,Placer,2024-03-14,2024-03-18,2024-06-14,Walmart,Layoff Permanent,79,Walmart
+1260,Orange,2024-03-15,2024-03-18,2024-05-17,The Hills Hotel,Layoff Permanent,73,The Hills Hotel
+1261,San Diego,2024-03-15,2024-03-18,2024-03-15,"TuSimple, Inc.",Layoff Permanent,6,"TuSimple, Inc."
+1262,Los Angeles,2024-03-18,2024-03-20,2024-06-17,Fashion Institute of Design & Merchandising,Layoff Permanent,95,
+1263,Solano,2024-03-19,2024-03-20,2024-05-18,Abbott Laboratories,Closure Permanent,195,
+1264,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,731,Northrop Grumman
+1265,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,227,Northrop Grumman
+1266,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,3,Northrop Grumman
+1267,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,2,Northrop Grumman
+1268,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,1,Northrop Grumman
+1269,Los Angeles,2024-03-04,2024-03-20,2024-04-29,Northrop Grumman,Layoff Permanent,105,Northrop Grumman
+1270,San Francisco,2024-02-06,2024-03-25,2024-04-06,Unity Technologies SF,Layoff Permanent,49,Unity Technologies
+1271,Tulare,2024-03-13,2024-03-25,2024-06-06,Adventist Health,Layoff Permanent,22,
+1272,Napa,2024-03-20,2024-03-25,2024-06-01,"IKEA Distribution Services, Inc.",Closure Permanent,147,IKEA
+1273,Los Angeles,2024-03-20,2024-03-26,2024-05-24,"The Real Good Food Company, LLC",Closure Permanent,21,The Real Good Food Company
+1274,Los Angeles,2024-03-20,2024-03-26,2024-05-24,"The Real Good Food Company, LLC",Layoff Permanent,7,The Real Good Food Company
+1275,Los Angeles,2024-03-26,2024-03-27,2024-05-31,ISU PETASYS CORP.,Closure Permanent,96,ISU PETASYS CORP.
+1276,Los Angeles,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,64,NSI Services
+1277,Los Angeles,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,56,NSI Services
+1278,Los Angeles,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,14,NSI Services
+1279,Los Angeles,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,7,NSI Services
+1280,Orange,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,51,NSI Services
+1281,San Luis Obispo,2024-03-17,2024-03-27,2024-05-18,"NSI Services, Inc.",Closure Permanent,6,NSI Services
+1282,San Diego,2024-03-25,2024-03-27,2024-05-19,"Medtronic, Inc.",Layoff Permanent,44,Medtronic
+1283,San Joaquin,2024-03-27,2024-03-27,2024-05-31,Jabil Inc.,Closure Permanent,43,Jabil Inc.
+1284,Santa Clara,2024-03-26,2024-03-27,2024-03-26,Cole Haan,Layoff Permanent,9,Cole Haan
+1285,Los Angeles,2024-03-21,2024-03-29,2024-05-20,"OTS Solutions, LLC dba On Time Staffing",Layoff Permanent,19,OTS Solutions
+1286,Los Angeles,2024-03-21,2024-03-29,2024-05-20,"OTS Solutions, LLC dba On Time Staffing",Layoff Permanent,2,OTS Solutions
+1287,Ventura,2024-03-27,2024-03-29,2024-05-31,"La Reina, a California religious nonprofit corporation, aka La Reina High School and Middle School",Closure Permanent,57,"La Reina, CA Religious Nonprofit Corp"
+1288,Fresno,2024-03-28,2024-04-02,2024-05-31,"Western Power Sports, LLC",Closure Permanent,11,Western Power Sports
+1289,Los Angeles,2024-03-29,2024-04-02,2024-06-05,"Reins International California, Inc. dba Gyu-Kaku",Closure Permanent,52,Reins International California
+1290,San Mateo,2024-03-04,2024-04-02,2024-03-01,"The Ronin Project, Inc.",Closure Permanent,131,The Ronin Project
+1291,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,371,Apple
+1292,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,11,Apple
+1293,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,23,Apple
+1294,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,15,Apple
+1295,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,58,Apple
+1296,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,49,Apple
+1297,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,35,Apple
+1298,Santa Clara,2024-03-28,2024-04-02,2024-05-27,Apple Inc.,Layoff Permanent,52,Apple
+1299,Orange,2024-03-28,2024-04-02,2024-04-05,"Sega of America, Inc.",Layoff Permanent,15,Sega of America
+1300,Orange,2024-03-22,2024-04-02,2024-05-21,"Resort Vacations, Inc.",Closure Permanent,24,"Resort Vacations, Inc."
+1301,Riverside,2024-03-22,2024-04-02,2024-05-22,US Display Group,Closure Permanent,50,US Display Group
+1302,Orange,2024-03-22,2024-04-02,2024-05-21,"Resort Vacations, Inc.",Layoff Permanent,34,"Resort Vacations, Inc."
+1303,Los Angeles,2024-03-25,2024-04-03,2024-05-25,"A.C. Vroman, Inc. dba Vroman's Bookstore and Book Soup",Closure Permanent,12,"A.C. Vroman, Inc."
+1304,Los Angeles,2024-04-01,2024-04-03,2024-05-31,Rico Corp. dba D'Addario Woodwinds,Layoff Permanent,6,D' Addario Woodwinds
+1305,Orange,2024-04-02,2024-04-03,2024-06-01,Abbott Vascular,Closure Permanent,12,Abbott
+1306,Contra Costa,2024-04-03,2024-04-03,2024-06-04,"Williams-Sonoma Direct, Inc.",Closure Permanent,36,Williams-Sonoma Direct
+1307,San Bernardino,2024-03-29,2024-04-03,2024-04-30,UPS,Layoff Permanent,68,UPS
+1308,San Diego,2024-03-29,2024-04-03,2024-06-30,Woodbury University,Closure Permanent,10,Woodbury University
+1309,San Diego,2024-03-28,2024-04-03,2024-05-31,Thermo Fisher Scientific,Closure Permanent,74,Thermo Fisher Scientific
+1310,San Francisco,2024-03-28,2024-04-03,2024-05-27,"Osso VR, Inc.",Layoff Permanent,67,"Osso VR, Inc."
+1311,Santa Clara,2024-03-29,2024-04-03,2024-05-31,"Sakata Seed America, Inc.",Closure Permanent,36,Sakata Seed America
+1312,Solano,2024-04-01,2024-04-03,2024-05-31,Owens-Brockway Glass Container Inc.,Closure Permanent,16,
+1313,Los Angeles,2024-04-02,2024-04-03,2024-06-03,"Happy Money, Inc.",Layoff Permanent,89,Happy Money
+1314,Los Angeles,2024-03-22,2024-04-04,2024-05-24,Full Steam Staffing,Layoff Permanent,323,Full Steam Staffing
+1315,San Mateo,2024-04-03,2024-04-05,2024-06-03,Sanofi,Closure Permanent,100,Sanofi
+1316,San Diego,2024-03-21,2024-04-05,2024-05-24,"Bionano Genomics, Inc.",Layoff Permanent,64,Bionano Genomics
+1317,Los Angeles,2024-03-27,2024-04-05,2024-05-31,"Image Solutions Apparel, Inc",Closure Permanent,21,Image Solutions Apparel
+1318,Los Angeles,2024-04-04,2024-04-08,2024-06-03,Providence Holy Cross Medical Center,Layoff Permanent,1,Providence Holy Cross Medical Center
+1319,Los Angeles,2024-04-04,2024-04-08,2024-06-03,Providence Holy Cross Medical Center,Layoff Permanent,5,Providence Holy Cross Medical Center
+1320,Los Angeles,2024-04-04,2024-04-08,2024-06-03,Providence Holy Cross Medical Center,Layoff Permanent,2,Providence Holy Cross Medical Center
+1321,San Mateo,2024-04-03,2024-04-08,2024-06-03,Telecare Corporation,Closure Permanent,100,Telecare Corporation
+1322,Santa Clara,2024-04-04,2024-04-08,2024-05-25,Intel Corporation,Layoff Permanent,57,Intel Corporation
+1323,Santa Clara,2024-04-04,2024-04-08,2024-05-25,Intel Corporation,Layoff Permanent,5,Intel Corporation
+1324,Alameda,2024-04-05,2024-04-09,2024-06-09,Pacific Racing Association dba Golden Gate Fields,Closure Permanent,203,Golden Gate Fields
+1325,Los Angeles,2024-04-05,2024-04-09,2024-06-30,"Transdev Services, Inc.",Closure Permanent,179,Transdev Services
+1326,Los Angeles,2024-04-08,2024-04-09,2024-04-08,Lockheed Martin,Layoff Permanent,150,
+1327,San Mateo,2024-04-03,2024-04-09,2024-06-05,"Genentech, Inc.",Layoff Permanent,436,Genentech
+1328,Orange,2024-04-04,2024-04-09,2024-04-04,PIRCH,Layoff Permanent,14,PIRCH
+1329,Orange,2024-04-04,2024-04-09,2024-04-04,PIRCH,Layoff Permanent,2,PIRCH
+1330,Orange,2024-04-04,2024-04-09,2024-04-04,PIRCH,Layoff Permanent,1,PIRCH
+1331,San Diego,2024-04-04,2024-04-09,2024-04-04,PIRCH,Layoff Permanent,23,PIRCH
+1332,San Diego,2024-04-09,2024-04-09,2024-06-30,Levy Premium Foodservice Limited Partnership,Closure Permanent,124,
+1333,San Diego,2024-03-27,2024-04-09,2024-05-28,"Retail Services WIS Corporation, dba WIS International",Closure Permanent,12,WIS International
+1334,San Francisco,2024-03-29,2024-04-09,2024-05-31,Volta Inc.,Closure Permanent,68,Volta Inc.
+1335,San Francisco,2024-04-03,2024-04-09,2024-05-25,Temple Nightclub,Closure Permanent,86,Temple Nightclub
+1336,Orange,2024-04-08,2024-04-10,2024-06-07,"Experian Information Solutions, Inc.",Layoff Permanent,70,Experian Information Solutions
+1337,Los Angeles,2024-04-05,2024-04-12,2024-06-04,"J.B. Hunt Transport, Inc.",Closure Permanent,231,J.B. Hunt Transport
+1338,Santa Clara,2024-04-09,2024-04-12,2024-06-10,Lockheed Martin Space,Layoff Permanent,66,Lockheed Martin
+1339,Santa Clara,2024-04-09,2024-04-12,2024-06-10,Lockheed Martin Space,Layoff Permanent,2,Lockheed Martin
+1340,Santa Clara,2024-04-10,2024-04-12,2024-06-10,Coherent Corp.,Layoff Permanent,61,Coherent Corp.
+1341,Santa Cruz,2024-04-09,2024-04-12,2024-06-10,Lockheed Martin Space,Layoff Permanent,1,Lockheed Martin
+1342,Los Angeles,2024-04-08,2024-04-12,2024-06-07,Activision Blizzard,Layoff Permanent,1,Activision Blizzard
+1343,Orange,2024-04-08,2024-04-12,2024-06-07,Activision Blizzard,Layoff Permanent,18,Activision Blizzard
+1344,Santa Clara,2024-04-01,2024-04-12,2024-06-28,The Health Trust,Layoff Permanent,23,The Health Trust
+1345,Santa Clara,2024-04-01,2024-04-12,2024-06-28,The Health Trust,Layoff Permanent,15,The Health Trust
+1346,Santa Clara,2024-04-01,2024-04-12,2024-06-28,The Health Trust,Layoff Permanent,33,The Health Trust
+1347,Santa Clara,2024-04-01,2024-04-12,2024-06-28,The Health Trust,Layoff Permanent,16,The Health Trust
+1348,San Francisco,2024-04-11,2024-04-15,2024-06-11,"Hinge Health, Inc.",Layoff Permanent,45,"Hinge Health, Inc."
+1349,Los Angeles,2024-04-11,2024-04-15,2024-06-10,"OTS Solutions, LLC dba On Time Staffing",Layoff Permanent,6,OTS Solutions
+1350,Alameda,2024-04-01,2024-04-16,2024-06-26,Aura Management Co.,Layoff Permanent,12,Aura Management
+1351,Contra Costa,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,34,99 Cents Only Stores
+1352,Contra Costa,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,56,99 Cents Only Stores
+1353,Los Angeles,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,40,99 Cents Only Stores
+1354,Los Angeles,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,44,99 Cents Only Stores
+1355,Los Angeles,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,26,99 Cents Only Stores
+1356,Los Angeles,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,453,99 Cents Only Stores
+1357,Los Angeles,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,41,99 Cents Only Stores
+1358,Merced,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,41,99 Cents Only Stores
+1359,Orange,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,32,99 Cents Only Stores
+1360,Sacramento,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,50,99 Cents Only Stores
+1361,Sacramento,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,39,99 Cents Only Stores
+1362,Sacramento,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,40,99 Cents Only Stores
+1363,San Diego,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,49,99 Cents Only Stores
+1364,San Diego,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,46,99 Cents Only Stores
+1365,San Diego,2024-04-04,2024-04-16,2024-06-03,99 Cents Only Stores LLC,Closure Permanent,52,99 Cents Only Stores
+1366,Butte,2024-04-11,2024-04-16,2024-06-11,"Project Fusion, LLC",Closure Permanent,26,Project Fusion
+1367,Butte,2024-04-11,2024-04-16,2024-06-11,"Project Fusion, LLC",Closure Permanent,34,Project Fusion
+1368,Butte,2024-04-11,2024-04-16,2024-06-11,"Project Fusion, LLC",Closure Permanent,22,Project Fusion
+1369,San Francisco,2024-04-09,2024-04-16,2024-06-10,"Checkr, Inc.",Layoff Permanent,260,Checkr
+1370,Los Angeles,2024-04-01,2024-04-17,2024-06-15,Post Acute Registry LLC,Closure Permanent,42,Post Acute Registry
+1371,Los Angeles,2024-04-15,2024-04-17,2024-06-14,Rico Corp. dba D'Addario Woodwinds,Closure Permanent,5,D' Addario Woodwinds
+1372,Los Angeles,2024-04-16,2024-04-17,2024-05-07,"Participant Media, LLC",Closure Permanent,107,"Participant Media, LLC"
+1373,Santa Clara,2024-04-12,2024-04-17,2024-06-17,"SAP America, Inc.",Layoff Permanent,108,SAP America
+1374,Sacramento,2024-04-15,2024-04-17,2024-06-14,Cracker Barrel,Closure Permanent,70,Cracker Barrel
+1375,Santa Barbara,2024-04-15,2024-04-17,2024-06-14,Cracker Barrel,Closure Permanent,81,Cracker Barrel
+1376,San Bernardino,2024-04-15,2024-04-17,2024-08-31,DHL Supply Chain,Closure Permanent,109,DHL Supply Chain
+1377,San Francisco,2024-04-08,2024-04-17,2024-06-09,"Del Monte Capitol Meat Company, LLC dba Allen Brothers West Coast",Closure Permanent,53,Allen Brothers West Coast
+1378,Stanislaus,2024-04-15,2024-04-17,2024-04-30,Stanislaus Surgical Hospital,Closure Temporary,191,Stanislaus Surgical Hospital
+1379,Alameda,2024-04-18,2024-04-18,2024-06-19,Aura Management Co.,Closure Permanent,13,Aura Management
+1380,Alameda,2024-04-18,2024-04-18,2024-06-27,Aura Management Co.,Closure Permanent,11,Aura Management
+1381,Alameda,2024-04-18,2024-04-18,2024-06-20,Aura Management Co.,Closure Permanent,13,Aura Management
+1382,Contra Costa,2024-04-18,2024-04-18,2024-06-10,Aura Management Co.,Closure Permanent,16,Aura Management
+1383,Contra Costa,2024-04-18,2024-04-18,2024-06-18,Aura Management Co.,Closure Permanent,16,Aura Management
+1384,Contra Costa,2024-04-18,2024-04-18,2024-06-24,Aura Management Co.,Closure Permanent,17,Aura Management
+1385,Contra Costa,2024-04-18,2024-04-18,2024-06-13,Aura Management Co.,Closure Permanent,13,Aura Management
+1386,Contra Costa,2024-04-18,2024-04-18,2024-06-12,Aura Management Co.,Closure Permanent,16,Aura Management
+1387,Contra Costa,2024-04-18,2024-04-18,2024-06-17,Aura Management Co.,Closure Permanent,13,Aura Management
+1388,Contra Costa,2024-04-18,2024-04-18,2024-07-11,Aura Management Co.,Closure Permanent,20,Aura Management
+1389,Contra Costa,2024-04-18,2024-04-18,2024-07-31,Aura Management Co.,Closure Permanent,11,Aura Management
+1390,Monterey,2024-04-18,2024-04-18,2024-07-15,Aura Management Co.,Closure Permanent,14,Aura Management
+1391,San Mateo,2024-04-18,2024-04-18,2024-06-25,Aura Management Co.,Closure Permanent,20,Aura Management
+1392,Santa Clara,2024-04-18,2024-04-18,2024-07-17,Aura Management Co.,Closure Permanent,19,Aura Management
+1393,Santa Clara,2024-04-18,2024-04-18,2024-07-09,Aura Management Co.,Closure Permanent,6,Aura Management
+1394,Santa Clara,2024-04-18,2024-04-18,2024-07-10,Aura Management Co.,Closure Permanent,15,Aura Management
+1395,Santa Clara,2024-04-18,2024-04-18,2024-07-11,Aura Management Co.,Closure Permanent,13,Aura Management
+1396,Santa Clara,2024-04-18,2024-04-18,2024-07-08,Aura Management Co,Closure Permanent,12,
+1397,Santa Cruz,2024-04-18,2024-04-18,2024-07-16,Aura Management Co.,Closure Permanent,11,Aura Management
+1398,Solano,2024-04-18,2024-04-18,2024-06-06,Aura Management Co.,Closure Permanent,13,Aura Management
+1399,Solano,2024-04-18,2024-04-18,2024-06-03,Aura Management Co.,Closure Permanent,13,Aura Management
+1400,Solano,2024-04-18,2024-04-18,2024-06-04,Aura Management Co.,Closure Permanent,17,Aura Management
+1401,Sonoma,2024-04-18,2024-04-18,2024-06-05,Aura Management Co.,Closure Permanent,12,Aura Management
+1402,Los Angeles,2024-04-11,2024-04-18,2024-06-11,Para Los Ninos,Layoff Permanent,25,Para Los Ninos
+1403,Los Angeles,2024-04-11,2024-04-18,2024-06-11,Para Los Ninos,Layoff Permanent,23,Para Los Ninos
+1404,Los Angeles,2024-04-11,2024-04-18,2024-06-11,Para Los Ninos,Layoff Permanent,19,Para Los Ninos
+1405,Los Angeles,2024-04-09,2024-04-18,2024-06-06,Chick-fil-A,Closure Temporary,82,Chick-fil-A

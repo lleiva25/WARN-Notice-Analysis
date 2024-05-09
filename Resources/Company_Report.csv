@@ -1,0 +1,552 @@
+,Company,Layoff Status_x,No. of Employees_x,No. of Employees_y,Layoff Status_y,No. of Employees
+0,99 Cents Only Stores,Closure Permanent,1043,1043,Closure Permanent,1043
+1,"A.C. Vroman, Inc.",Closure Permanent,12,12,Closure Permanent,12
+2,ABM General Services,Layoff Permanent,25,25,Layoff Permanent,25
+3,ACRT Pacific,Layoff Permanent,58,58,Layoff Permanent,58
+4,ADT Solar,Closure Permanent,58,58,Closure Permanent,58
+5,AHMC San Gabriel Valley Medical Center,Layoff Permanent,94,94,Layoff Permanent,94
+6,AMP Printing,Closure Permanent,35,35,Closure Permanent,35
+7,AMQ Solutions,Closure Permanent,37,37,Closure Permanent,37
+8,ATI Restoration,Closure Permanent,18,18,Closure Permanent,18
+9,AVMAC,Layoff Permanent,153,153,Layoff Permanent,153
+10,Abbott,Closure Permanent,12,12,Closure Permanent,12
+11,Accenture,Closure Permanent,240,327,Closure Permanent,240
+12,Accenture,Closure Permanent,240,327,Layoff Permanent,87
+13,Accenture,Layoff Permanent,87,327,Closure Permanent,240
+14,Accenture,Layoff Permanent,87,327,Layoff Permanent,87
+15,Accesso,Layoff Permanent,111,111,Layoff Permanent,111
+16,Ace Hotel Group,Layoff Permanent,169,169,Layoff Permanent,169
+17,Active Wellness,Layoff Permanent,80,80,Layoff Permanent,80
+18,Activision Blizzard,Layoff Permanent,916,916,Layoff Permanent,916
+19,Acutus Medical,Layoff Permanent,147,147,Layoff Permanent,147
+20,Adidas America,Closure Permanent,28,28,Closure Permanent,28
+21,Adventist Health,Layoff Permanent,53,53,Layoff Permanent,53
+22,Age of Learning,Layoff Permanent,94,94,Layoff Permanent,94
+23,Agilent Technologies,Layoff Permanent,36,36,Layoff Permanent,36
+24,Airtable,Layoff Permanent,99,99,Layoff Permanent,99
+25,Ajinomoto Foods North America,Layoff Temporary,538,538,Layoff Temporary,538
+26,Alchemee,Closure Permanent,12,12,Closure Permanent,12
+27,Allakos,Layoff Permanent,59,59,Layoff Permanent,59
+28,Allen Brothers West Coast,Closure Permanent,53,53,Closure Permanent,53
+29,Alsco,Closure Permanent,107,107,Closure Permanent,107
+30,Alstom Mass Transit Corp.,Closure Permanent,41,41,Closure Permanent,41
+31,Alto Operations California,Closure Permanent,34,34,Closure Permanent,34
+32,Alvarado Hospital,Closure Permanent,6,814,Closure Permanent,6
+33,Alvarado Hospital,Closure Permanent,6,814,Layoff Permanent,808
+34,Alvarado Hospital,Layoff Permanent,808,814,Closure Permanent,6
+35,Alvarado Hospital,Layoff Permanent,808,814,Layoff Permanent,808
+36,Amazon,Closure Permanent,114,284,Closure Permanent,114
+37,Amazon,Closure Permanent,114,284,Layoff Permanent,170
+38,Amazon,Layoff Permanent,170,284,Closure Permanent,114
+39,Amazon,Layoff Permanent,170,284,Layoff Permanent,170
+40,Amentum at NAS,Layoff Permanent,73,73,Layoff Permanent,73
+41,Amgen,Closure Permanent,4,4,Closure Permanent,4
+42,Amware Fulfillment,Closure Permanent,84,84,Closure Permanent,84
+43,Amyris,Layoff Permanent,328,328,Layoff Permanent,328
+44,Analog Devices,Layoff Permanent,111,111,Layoff Permanent,111
+45,Anaplan,Layoff Permanent,119,119,Layoff Permanent,119
+46,Anchor Brewing Company,Closure Permanent,55,55,Closure Permanent,55
+47,AppFolio,Layoff Permanent,127,127,Layoff Permanent,127
+48,Apple,Layoff Permanent,735,735,Layoff Permanent,735
+49,Arden Hills Country Club,Closure Permanent,33,33,Closure Permanent,33
+50,Astra Space Operations,Layoff Permanent,58,58,Layoff Permanent,58
+51,Atara Biotherapeutics,Layoff Permanent,117,117,Layoff Permanent,117
+52,Aura Management,Closure Permanent,312,324,Closure Permanent,312
+53,Aura Management,Closure Permanent,312,324,Layoff Permanent,12
+54,Aura Management,Layoff Permanent,12,324,Closure Permanent,312
+55,Aura Management,Layoff Permanent,12,324,Layoff Permanent,12
+56,Aurora Solar Inc.,Layoff Permanent,115,115,Layoff Permanent,115
+57,B. Braun Medical Inc.,Layoff Permanent,83,83,Layoff Permanent,83
+58,BILL Operations,Layoff Permanent,468,468,Layoff Permanent,468
+59,BMO Bank,Layoff Permanent,228,228,Layoff Permanent,228
+60,Balfour Beatty US Civils,Layoff Permanent,222,222,Layoff Permanent,222
+61,Bamboo Group Operations,Closure Permanent,40,40,Closure Permanent,40
+62,Bandier West Hollywood,Layoff Permanent,7,7,Layoff Permanent,7
+63,Bank of the West,Layoff Permanent,248,248,Layoff Permanent,248
+64,Baxalta US,Layoff Permanent,5,5,Layoff Permanent,5
+65,Bay Area PL Services,Layoff Permanent,87,87,Layoff Permanent,87
+66,Beauty & Essex,Closure Permanent,82,82,Closure Permanent,82
+67,Bechtel Infrastructure & Power Corporation,Closure Permanent,84,84,Closure Permanent,84
+68,"Becton, Dickinson and Company",Layoff Permanent,27,27,Layoff Permanent,27
+69,"Berry Global, Inc.",Closure Permanent,160,160,Closure Permanent,160
+70,Beyond Hello CA,Closure Permanent,2,2,Closure Permanent,2
+71,Bionano Genomics,Layoff Permanent,64,64,Layoff Permanent,64
+72,BlackLine Systems,Layoff Permanent,116,116,Layoff Permanent,116
+73,"Block, Inc.",Layoff Permanent,51,51,Layoff Permanent,51
+74,Bloom Energy Corporation,Layoff Permanent,180,180,Layoff Permanent,180
+75,Blowfish,Closure Permanent,20,20,Closure Permanent,20
+76,Blue Shield of California,Layoff Permanent,165,165,Layoff Permanent,165
+77,Boardriders Wholesale,Layoff Permanent,698,698,Layoff Permanent,698
+78,Boeing Company,Layoff Permanent,3,3,Layoff Permanent,3
+79,Boston Scientific Corporation,Closure Permanent,52,52,Closure Permanent,52
+80,Bridge Staffing,Closure Permanent,115,115,Closure Permanent,115
+81,BrightDrop,Layoff Permanent,6,6,Layoff Permanent,6
+82,Bristol Myers Squibb,Layoff Permanent,252,252,Layoff Permanent,252
+83,Broadcom,Layoff Permanent,1267,1267,Layoff Permanent,1267
+84,Brookfield Properties,Layoff Permanent,113,113,Layoff Permanent,113
+85,Burke Williams,Closure Temporary,110,110,Closure Temporary,110
+86,BuzzFeed Media Enterprises,Layoff Permanent,59,59,Layoff Permanent,59
+87,C&E GP Specialists,Closure Permanent,16,16,Closure Permanent,16
+88,CSL Vifor,Layoff Permanent,85,85,Layoff Permanent,85
+89,Cacique Foods,Closure Permanent,225,225,Closure Permanent,225
+90,California Institute of Technology,Layoff Permanent,521,521,Layoff Permanent,521
+91,California Resources Corporation,Layoff Permanent,61,61,Layoff Permanent,61
+92,CamelBak Products,Layoff Permanent,43,43,Layoff Permanent,43
+93,Capital One Financial,Closure Permanent,49,49,Closure Permanent,49
+94,Carbon Health,Layoff Permanent,56,56,Layoff Permanent,56
+95,"Carbon, Inc.",Layoff Permanent,60,60,Layoff Permanent,60
+96,Cardinal Glass Industries,Closure Permanent,29,29,Closure Permanent,29
+97,"Catalent, Inc.",Closure Permanent,90,90,Closure Permanent,90
+98,Centerra Group,Layoff Permanent,402,402,Layoff Permanent,402
+99,Central Admixture Pharmacy Services,Closure Permanent,99,99,Closure Permanent,99
+100,Cepheid,Layoff Permanent,92,92,Layoff Permanent,92
+101,Certified Freight Logistics,Closure Permanent,154,154,Closure Permanent,154
+102,ChargePoint,Layoff Permanent,195,195,Layoff Permanent,195
+103,Charles River Laboratories,Closure Permanent,55,55,Closure Permanent,55
+104,Charles Schwab & Co.,Layoff Permanent,155,155,Layoff Permanent,155
+105,Chart Inc.,Closure Permanent,8,8,Closure Permanent,8
+106,Checkr,Layoff Permanent,260,260,Layoff Permanent,260
+107,Chick-fil-A,Closure Temporary,82,82,Closure Temporary,82
+108,Circle C Ranch,Layoff Permanent,14,14,Layoff Permanent,14
+109,Cisco Systems,Layoff Permanent,1081,1081,Layoff Permanent,1081
+110,City National Bank,Layoff Permanent,127,127,Layoff Permanent,127
+111,Clari,Layoff Permanent,139,139,Layoff Permanent,139
+112,Codexis,Layoff Permanent,59,59,Layoff Permanent,59
+113,Coherent Corp.,Layoff Permanent,61,61,Layoff Permanent,61
+114,Cole Haan,Layoff Permanent,9,9,Layoff Permanent,9
+115,Collins Pine Company,Layoff Temporary,62,62,Layoff Temporary,62
+116,Command Security Service,Layoff Permanent,33,33,Layoff Permanent,33
+117,Company 3 Method,Layoff Temporary,19,19,Layoff Temporary,19
+118,Comprehensive Autism Center,Closure Permanent,9,9,Closure Permanent,9
+119,Connect Homes,Closure Permanent,75,75,Closure Permanent,75
+120,Container Connection,Layoff Permanent,64,64,Layoff Permanent,64
+121,ContextLogic Inc.,Layoff Permanent,152,152,Layoff Permanent,152
+122,Coronado Brewing Company,Closure Permanent,27,27,Closure Permanent,27
+123,Corteva Agriscience,Layoff Permanent,37,37,Layoff Permanent,37
+124,Cotton On La Mirada Distribution Center,Closure Permanent,88,88,Closure Permanent,88
+125,Country Club Mortgage,Closure Permanent,28,28,Closure Permanent,28
+126,Covanta Long Beach Renewable Energy Corp.,Closure Permanent,39,39,Closure Permanent,39
+127,Covanta Projects,Closure Permanent,10,10,Closure Permanent,10
+128,Covenant Living Communities & Services,Closure Permanent,168,168,Closure Permanent,168
+129,Cracker Barrel,Closure Permanent,151,151,Closure Permanent,151
+130,Cruise LLC,Layoff Permanent,330,330,Layoff Permanent,330
+131,Crunchbase,Layoff Permanent,63,63,Layoff Permanent,63
+132,Crystal Geyser Water Company,Layoff Permanent,28,28,Layoff Permanent,28
+133,Cue Health,Layoff Permanent,12,12,Layoff Permanent,12
+134,Cummins Meritor,Layoff Permanent,16,16,Layoff Permanent,16
+135,Curio Employer,Layoff Temporary,53,53,Layoff Temporary,53
+136,Cygnus Home Service,Closure Permanent,48,48,Closure Permanent,48
+137,D' Addario Woodwinds,Closure Permanent,6,33,Closure Permanent,6
+138,D' Addario Woodwinds,Closure Permanent,6,33,Layoff Permanent,27
+139,D' Addario Woodwinds,Layoff Permanent,27,33,Closure Permanent,6
+140,D' Addario Woodwinds,Layoff Permanent,27,33,Layoff Permanent,27
+141,DHL Supply Chain,Closure Permanent,122,122,Closure Permanent,122
+142,DXS Logistics,Closure Permanent,80,80,Closure Permanent,80
+143,Dabico Airport Solutions,Closure Permanent,25,25,Closure Permanent,25
+144,Daifuku Services America Corporation,Layoff Permanent,155,155,Layoff Permanent,155
+145,Dairy Farmers of America,Closure Permanent,68,68,Closure Permanent,68
+146,Daiso Distribution Center,Closure Permanent,74,74,Closure Permanent,74
+147,David's Bridal,Layoff Permanent,271,271,Layoff Permanent,271
+148,DazPak Flexible Packaging,Closure Permanent,19,19,Closure Permanent,19
+149,DePuy Synthes Products,Layoff Permanent,25,25,Layoff Permanent,25
+150,Del Friscos Grille,Closure Permanent,53,53,Closure Permanent,53
+151,Deliver-It,Closure Permanent,107,107,Closure Permanent,107
+152,Delta Dental Plan of California,Layoff Permanent,137,137,Layoff Permanent,137
+153,Discord,Layoff Permanent,160,160,Layoff Permanent,160
+154,Distribution Alternatives,Closure Permanent,40,40,Closure Permanent,40
+155,Divvy Homes,Layoff Permanent,95,95,Layoff Permanent,95
+156,DreamWorks Animation,Layoff Permanent,72,72,Layoff Permanent,72
+157,Dreyer's Grand Ice Cream,Layoff Temporary,2336,2336,Layoff Temporary,2336
+158,Dynaflex Prodcuts,Closure Permanent,14,14,Closure Permanent,14
+159,E. J. Lauren,Closure Permanent,69,69,Closure Permanent,69
+160,EchoPark Automotive Long Beach,Closure Permanent,32,32,Closure Permanent,32
+161,Eclipse Advantage,Closure Permanent,38,38,Closure Permanent,38
+162,El Dorado National (California),Layoff Permanent,425,425,Layoff Permanent,425
+163,Elevance Health,Layoff Permanent,87,87,Layoff Permanent,87
+164,Epic Games,Layoff Permanent,97,97,Layoff Permanent,97
+165,Ericsson Inc.,Layoff Permanent,170,170,Layoff Permanent,170
+166,"Exabeam, Inc.",Layoff Permanent,94,94,Layoff Permanent,94
+167,Exelixis,Layoff Permanent,143,143,Layoff Permanent,143
+168,Experian Information Solutions,Layoff Permanent,70,70,Layoff Permanent,70
+169,FM Restaurants HQ,Closure Permanent,81,81,Closure Permanent,81
+170,FUJIFILM Irvine Scientific,Layoff Permanent,57,57,Layoff Permanent,57
+171,FabFitFun Fulfillment Center,Layoff Permanent,63,63,Layoff Permanent,63
+172,Faire Wholesale,Layoff Permanent,70,70,Layoff Permanent,70
+173,Family YMCA,Layoffs Unknown,85,85,Layoffs Unknown,85
+174,"Farmers Group, Inc.",Layoff Permanent,68,68,Layoff Permanent,68
+175,Farmers Insurance Exchange,Layoff Permanent,2,2,Layoff Permanent,2
+176,Fashion Institute of Design & Merchandising,Layoff Permanent,322,322,Layoff Permanent,322
+177,"FedEx Supply Chain, Inc.",Layoff Permanent,39,39,Layoff Permanent,39
+178,Federal Express Corporation,Closure Permanent,405,405,Closure Permanent,405
+179,"FibroGen, Inc.",Layoff Permanent,104,104,Layoff Permanent,104
+180,First Financial Credit Union,Closure Permanent,3,3,Closure Permanent,3
+181,"Fish Market Restaurants, Inc.",Closure Permanent,144,144,Closure Permanent,144
+182,Flex LTD,Layoff Permanent,31,31,Layoff Permanent,31
+183,Flexport,Layoff Permanent,233,233,Layoff Permanent,233
+184,ForgeRock,Layoff Permanent,97,97,Layoff Permanent,97
+185,Foundation for California Community Colleges,Layoff Permanent,298,298,Layoff Permanent,298
+186,Front Porch Communities and Services,Closure Permanent,185,185,Closure Permanent,185
+187,Full Steam Staffing,Layoff Permanent,323,323,Layoff Permanent,323
+188,G&C Staffing,Layoff Permanent,54,54,Layoff Permanent,54
+189,GAP,Layoff Permanent,34,34,Layoff Permanent,34
+190,GE United Technologies,Closure Permanent,188,188,Closure Permanent,188
+191,"GXO Logistics Supply Chain, Inc.",Closure Permanent,61,61,Closure Permanent,61
+192,Gemological Institute of America,Layoff Permanent,151,151,Layoff Permanent,151
+193,Genentech,Layoff Permanent,436,436,Layoff Permanent,436
+194,Gibson Overseas,Closure Permanent,44,44,Closure Permanent,44
+195,Gilead Sciences,Layoff Permanent,42,42,Layoff Permanent,42
+196,Gillette Citrus,Layoff Permanent,93,93,Layoff Permanent,93
+197,Ginger.io,Layoff Permanent,19,19,Layoff Permanent,19
+198,Global Expedited Transportation,Closure Permanent,51,51,Closure Permanent,51
+199,Global Medical Response,Closure Permanent,84,84,Closure Permanent,84
+200,Golden Gate Fields,Closure Permanent,203,203,Closure Permanent,203
+201,Google,Layoff Permanent,25,25,Layoff Permanent,25
+202,Grammarly,Layoff Permanent,82,82,Layoff Permanent,82
+203,HMI,Closure Permanent,16,16,Closure Permanent,16
+204,HMSHost,Closure Permanent,127,127,Closure Permanent,127
+205,Hallcon Corporation,Layoff Permanent,65,65,Layoff Permanent,65
+206,Happy Money,Layoff Permanent,89,89,Layoff Permanent,89
+207,Hawker Pacific Aerospace,Layoff Permanent,260,260,Layoff Permanent,260
+208,Headspace,Layoff Permanent,158,158,Layoff Permanent,158
+209,Headway Technologies,Layoff Permanent,90,90,Layoff Permanent,90
+210,Henry Mayo Newhall Hospital,Layoff Permanent,107,107,Layoff Permanent,107
+211,Herbalife International of America,Layoff Permanent,97,97,Layoff Permanent,97
+212,"Hinge Health, Inc.",Layoff Permanent,45,45,Layoff Permanent,45
+213,Hollingsworth,Closure Permanent,15,15,Closure Permanent,15
+214,Hyatt Centric,Layoff Temporary,111,111,Layoff Temporary,111
+215,Hyperloop,Layoff Permanent,3,3,Layoff Permanent,3
+216,IKEA,Closure Permanent,147,147,Closure Permanent,147
+217,ISU PETASYS CORP.,Closure Permanent,96,96,Closure Permanent,96
+218,ITC Federal,Layoff Permanent,125,125,Layoff Permanent,125
+219,Il Fornaio (America),Closure Permanent,54,54,Closure Permanent,54
+220,Illumina Inc,Layoff Permanent,75,75,Layoff Permanent,75
+221,Image Solutions Apparel,Closure Permanent,21,21,Closure Permanent,21
+222,ImmunityBio,Layoff Permanent,48,48,Layoff Permanent,48
+223,Imperial Bag & Paper Co.,Closure Permanent,20,20,Closure Permanent,20
+224,In-N-Out Burgers,Closure Permanent,115,115,Closure Permanent,115
+225,Individualized ABA Services for Families,Closure Permanent,65,65,Closure Permanent,65
+226,Informatica,Layoff Permanent,90,90,Layoff Permanent,90
+227,Instacart,Layoff Permanent,105,105,Layoff Permanent,105
+228,Intel Corporation,Layoff Permanent,824,824,Layoff Permanent,824
+229,Intense Lighting,Closure Permanent,90,90,Closure Permanent,90
+230,Invitae Corporation,Layoff Permanent,238,238,Layoff Permanent,238
+231,J.B. Hunt Transport,Closure Permanent,358,358,Closure Permanent,358
+232,JUUL Labs,Layoff Permanent,4,4,Layoff Permanent,4
+233,Jabil Inc.,Closure Permanent,52,1181,Closure Permanent,52
+234,Jabil Inc.,Closure Permanent,52,1181,Closure Temporary,738
+235,Jabil Inc.,Closure Permanent,52,1181,Layoff Permanent,253
+236,Jabil Inc.,Closure Permanent,52,1181,Layoff Temporary,138
+237,Jabil Inc.,Closure Temporary,738,1181,Closure Permanent,52
+238,Jabil Inc.,Closure Temporary,738,1181,Closure Temporary,738
+239,Jabil Inc.,Closure Temporary,738,1181,Layoff Permanent,253
+240,Jabil Inc.,Closure Temporary,738,1181,Layoff Temporary,138
+241,Jabil Inc.,Layoff Permanent,253,1181,Closure Permanent,52
+242,Jabil Inc.,Layoff Permanent,253,1181,Closure Temporary,738
+243,Jabil Inc.,Layoff Permanent,253,1181,Layoff Permanent,253
+244,Jabil Inc.,Layoff Permanent,253,1181,Layoff Temporary,138
+245,Jabil Inc.,Layoff Temporary,138,1181,Closure Permanent,52
+246,Jabil Inc.,Layoff Temporary,138,1181,Closure Temporary,738
+247,Jabil Inc.,Layoff Temporary,138,1181,Layoff Permanent,253
+248,Jabil Inc.,Layoff Temporary,138,1181,Layoff Temporary,138
+249,Jacmar Foodservice Distribution,Layoff Permanent,92,92,Layoff Permanent,92
+250,Janssen Research & Development,Closure Permanent,55,55,Closure Permanent,55
+251,Javier's Newport Beach,Closure Temporary,239,239,Closure Temporary,239
+252,Jensen Enterprises Inc,Closure Permanent,40,40,Closure Permanent,40
+253,John Muir Health (JMH),Layoff Permanent,164,164,Layoff Permanent,164
+254,Johns Manville,Closure Temporary,54,54,Closure Temporary,54
+255,Johnson & Johnson,Closure Permanent,84,84,Closure Permanent,84
+256,Joy Signal Technology,Closure Permanent,127,127,Closure Permanent,127
+257,Juniper Networks,Layoff Permanent,166,166,Layoff Permanent,166
+258,Juul Labs,Layoff Permanent,26,26,Layoff Permanent,26
+259,Kaiser Foundation Hospitals,Layoff Permanent,8,8,Layoff Permanent,8
+260,KeHE Distributors,Layoff Permanent,80,80,Layoff Permanent,80
+261,Kelly Toys Holding,Closure Permanent,8,8,Closure Permanent,8
+262,Kett Engineering Corporation,Layoff Permanent,180,180,Layoff Permanent,180
+263,Kinecta Federal Credit Union,Layoff Permanent,85,85,Layoff Permanent,85
+264,Kings Garden,Layoff Permanent,70,70,Layoff Permanent,70
+265,Kitayama Brothers,Closure Permanent,56,56,Closure Permanent,56
+266,Knauf Insulation Inc.,Layoff Temporary,97,97,Layoff Temporary,97
+267,Knox Attorney Service,Closure Permanent,85,85,Closure Permanent,85
+268,Kraft Heinz Foods Company,Closure Permanent,60,60,Closure Permanent,60
+269,Kuubix Global,Closure Permanent,7,7,Closure Permanent,7
+270,L3 Technologies,Closure Permanent,134,134,Closure Permanent,134
+271,LAVO Italian Restaurant,Closure Permanent,83,83,Closure Permanent,83
+272,LEER Group,Closure Permanent,27,27,Closure Permanent,27
+273,"La Reina, CA Religious Nonprofit Corp",Closure Permanent,57,57,Closure Permanent,57
+274,La Tortilla Factory,Closure Permanent,132,132,Closure Permanent,132
+275,Lance Camper Mfg. Corp,Layoff Permanent,123,123,Layoff Permanent,123
+276,Langmuir Systems,Closure Permanent,16,16,Closure Permanent,16
+277,Lazy Dog Restaurant and Bar,Closure Permanent,109,109,Closure Permanent,109
+278,Legacy Supply Chain Services,Closure Permanent,53,53,Closure Permanent,53
+279,"Leggett & Platt, Inc.",Closure Permanent,55,55,Closure Permanent,55
+280,LendingClub Bank,Layoff Permanent,90,90,Layoff Permanent,90
+281,Lendlease Americas Inc.,Closure Permanent,1,57,Closure Permanent,1
+282,Lendlease Americas Inc.,Closure Permanent,1,57,Layoff Permanent,56
+283,Lendlease Americas Inc.,Layoff Permanent,56,57,Closure Permanent,1
+284,Lendlease Americas Inc.,Layoff Permanent,56,57,Layoff Permanent,56
+285,Levi Strauss & Co.,Layoff Permanent,146,146,Layoff Permanent,146
+286,Levy Premium Foodservice,Layoff Temporary,83,83,Layoff Temporary,83
+287,Lifelong Medical Care,Closure Permanent,55,55,Closure Permanent,55
+288,"Liminex, Inc.",Layoff Permanent,95,95,Layoff Permanent,95
+289,LinkedIn,Layoff Permanent,625,625,Layoff Permanent,625
+290,Locanabio,Closure Permanent,58,58,Closure Permanent,58
+291,Lockheed Martin,Layoff Permanent,69,69,Layoff Permanent,69
+292,Lonza Biologics,Closure Permanent,218,218,Closure Permanent,218
+293,Los Angeles Times Communications,Closure Permanent,148,316,Closure Permanent,148
+294,Los Angeles Times Communications,Closure Permanent,148,316,Layoff Permanent,168
+295,Los Angeles Times Communications,Layoff Permanent,168,316,Closure Permanent,148
+296,Los Angeles Times Communications,Layoff Permanent,168,316,Layoff Permanent,168
+297,Lowell Farms,Closure Permanent,11,11,Closure Permanent,11
+298,Lumentum Operations,Layoff Permanent,82,82,Layoff Permanent,82
+299,Lund Motion Products,Layoff Permanent,117,117,Layoff Permanent,117
+300,"MV Transportation, Inc.",Layoff Permanent,20,20,Layoff Permanent,20
+301,Macy's,Closure Permanent,68,68,Closure Permanent,68
+302,Marriott,Closure Permanent,127,127,Closure Permanent,127
+303,"Marvell Semiconductor, Inc.",Layoff Permanent,131,131,Layoff Permanent,131
+304,MasterBrand Cabinets LLC,Layoff Permanent,90,90,Layoff Permanent,90
+305,Matheson Inc,Closure Permanent,40,40,Closure Permanent,40
+306,"MaxLite, Inc.",Closure Permanent,4,4,Closure Permanent,4
+307,Maxar Space,Layoff Permanent,6,6,Layoff Permanent,6
+308,MedMen Enterprises,Layoff Permanent,17,17,Layoff Permanent,17
+309,Medtronic,Layoff Permanent,44,44,Layoff Permanent,44
+310,MemorialCare Long Beach Medical Center,Layoff Permanent,58,58,Layoff Permanent,58
+311,Mercy Medical Transportation,Layoff Permanent,58,58,Layoff Permanent,58
+312,Microsoft,Layoff Permanent,42,42,Layoff Permanent,42
+313,Mission Foods,Layoff Permanent,93,93,Layoff Permanent,93
+314,Miyoko's PBC,Layoff Permanent,33,33,Layoff Permanent,33
+315,Momentum for Health,Closure Permanent,86,86,Closure Permanent,86
+316,Monocle,Closure Permanent,3,3,Closure Permanent,3
+317,Monte Nido & Affiliates,Closure Permanent,6,6,Closure Permanent,6
+318,Morrison Healthcare,Layoff Permanent,74,74,Layoff Permanent,74
+319,NEOTech,Closure Permanent,76,76,Closure Permanent,76
+320,NFI National Distribution Centers,Closure Permanent,31,31,Closure Permanent,31
+321,NRI USA,Closure Permanent,164,164,Closure Permanent,164
+322,NSI Services,Closure Permanent,198,198,Closure Permanent,198
+323,NZXT,Closure Permanent,55,55,Closure Permanent,55
+324,National Distribution Centers,Layoffs Unknown,7,7,Layoffs Unknown,7
+325,Natural Alternatives International,Closure Temporary,66,66,Closure Temporary,66
+326,Neovia Logistics Distribution,Closure Permanent,31,31,Closure Permanent,31
+327,Nestle,Layoff Temporary,161,161,Layoff Temporary,161
+328,Nevro Corp.,Layoff Permanent,63,63,Layoff Permanent,63
+329,Newark Group,Closure Permanent,74,74,Closure Permanent,74
+330,Newell Brands Distribution,Closure Permanent,48,48,Closure Permanent,48
+331,NextGen Healthcare,Layoff Permanent,103,103,Layoff Permanent,103
+332,Nextdoor,Layoff Permanent,99,99,Layoff Permanent,99
+333,Niagara Bottling,Layoff Permanent,111,111,Layoff Permanent,111
+334,"Niantic, Inc.",Closure Permanent,107,164,Closure Permanent,107
+335,"Niantic, Inc.",Closure Permanent,107,164,Layoff Permanent,57
+336,"Niantic, Inc.",Layoff Permanent,57,164,Closure Permanent,107
+337,"Niantic, Inc.",Layoff Permanent,57,164,Layoff Permanent,57
+338,Nobel House Home Furnishings,Closure Permanent,61,61,Closure Permanent,61
+339,Nordson Corporation,Layoff Permanent,69,69,Layoff Permanent,69
+340,Nordstrom,Closure Permanent,784,784,Closure Permanent,784
+341,Northrop Grumman,Layoff Permanent,1069,1069,Layoff Permanent,1069
+342,"NuVasive, Inc.",Layoff Permanent,157,157,Layoff Permanent,157
+343,OTS Solutions,Layoff Permanent,27,27,Layoff Permanent,27
+344,Ojai Valley Inn,Closure Temporary,870,870,Closure Temporary,870
+345,"Okta, Inc.",Layoff Permanent,83,83,Layoff Permanent,83
+346,"Oracle America, Inc.",Layoff Permanent,65,65,Layoff Permanent,65
+347,Organic Milling,Layoff Permanent,7,7,Layoff Permanent,7
+348,Orion Strategic Solutions,Layoff Permanent,10,10,Layoff Permanent,10
+349,"Osso VR, Inc.",Layoff Permanent,67,67,Layoff Permanent,67
+350,Owens-Brockway Glass Container,Layoff Temporary,130,130,Layoff Temporary,130
+351,PIRCH,Layoff Permanent,40,40,Layoff Permanent,40
+352,PKL Services Inc,Layoff Permanent,89,89,Layoff Permanent,89
+353,"PLI Holdings, Inc.",Closure Permanent,217,217,Closure Permanent,217
+354,"PWLC I, Inc.",Layoff Permanent,60,60,Layoff Permanent,60
+355,Pac-12,Layoff Permanent,141,141,Layoff Permanent,141
+356,Pacific Catch,Closure Temporary,73,73,Closure Temporary,73
+357,Pacific Coast Sightseeing Tours & Charters,Layoff Permanent,68,68,Layoff Permanent,68
+358,Palmdale Regional Medical Center,Closure Permanent,87,87,Closure Permanent,87
+359,Para Los Ninos,Layoff Permanent,67,67,Layoff Permanent,67
+360,Paramount Global,Layoff Permanent,142,142,Layoff Permanent,142
+361,Parker Hannifin Corporation,Closure Permanent,8,8,Closure Permanent,8
+362,"Participant Media, LLC",Closure Permanent,107,107,Closure Permanent,107
+363,PayPal,Layoff Permanent,311,311,Layoff Permanent,311
+364,Peloton Interactive Inc.,Closure Permanent,30,30,Closure Permanent,30
+365,Pennymac,Layoff Permanent,86,86,Layoff Permanent,86
+366,Penske Logistics,Layoff Permanent,95,95,Layoff Permanent,95
+367,"Perfect Day, Inc.",Layoff Permanent,75,75,Layoff Permanent,75
+368,"Performance Plastics, Inc.",Closure Permanent,77,77,Closure Permanent,77
+369,Personalis,Layoff Permanent,62,62,Layoff Permanent,62
+370,PetVet Care Centers,Closure Permanent,4,4,Closure Permanent,4
+371,Petco,Layoff Permanent,56,56,Layoff Permanent,56
+372,Pfizer,Layoff Permanent,52,52,Layoff Permanent,52
+373,PhenomeX Inc.,Layoff Permanent,46,46,Layoff Permanent,46
+374,"Phillips Tool & Die, Inc",Closure Permanent,7,7,Closure Permanent,7
+375,Pixelberry Studios,Layoff Permanent,120,120,Layoff Permanent,120
+376,Pizza Antica Mill Valley,Closure Permanent,43,43,Closure Permanent,43
+377,Pizza Hut,Layoff Permanent,2,2,Layoff Permanent,2
+378,Planet Labs PBC,Layoff Permanent,85,85,Layoff Permanent,85
+379,Plenty Unlimited Inc.,Layoff Permanent,141,141,Layoff Permanent,141
+380,Post Acute Registry,Closure Permanent,42,42,Closure Permanent,42
+381,Primary Health,Layoff Permanent,60,60,Layoff Permanent,60
+382,Project Fusion,Closure Permanent,82,82,Closure Permanent,82
+383,Prolific Logistics LLC,Closure Permanent,136,136,Closure Permanent,136
+384,Proterra Operating Company,Layoff Permanent,48,48,Layoff Permanent,48
+385,Providence Holy Cross Medical Center,Layoff Permanent,8,8,Layoff Permanent,8
+386,Pure Storage,Layoff Permanent,81,81,Layoff Permanent,81
+387,QG Printing II,Closure Permanent,56,56,Closure Permanent,56
+388,Qualcomm Incorporated,Layoff Permanent,1258,1258,Layoff Permanent,1258
+389,Quality Fabrication Inc.,Closure Permanent,55,55,Closure Permanent,55
+390,Quanex Homeshield,Closure Permanent,58,58,Closure Permanent,58
+391,REACH Medical Holdings,Closure Permanent,23,23,Closure Permanent,23
+392,RSN Co.,Closure Permanent,5,5,Closure Permanent,5
+393,Reins International California,Closure Permanent,52,52,Closure Permanent,52
+394,Renesas Electronics Corporation,Layoff Permanent,65,65,Layoff Permanent,65
+395,ResMEd Inc.,Layoff Permanent,364,364,Layoff Permanent,364
+396,"Resort Vacations, Inc.",Closure Permanent,24,58,Closure Permanent,24
+397,"Resort Vacations, Inc.",Closure Permanent,24,58,Layoff Permanent,34
+398,"Resort Vacations, Inc.",Layoff Permanent,34,58,Closure Permanent,24
+399,"Resort Vacations, Inc.",Layoff Permanent,34,58,Layoff Permanent,34
+400,Ridgecrest Regional Hospital,Layoff Permanent,61,61,Layoff Permanent,61
+401,Rieke LLC,Closure Permanent,70,70,Closure Permanent,70
+402,Riot Games,Layoff Permanent,336,336,Layoff Permanent,336
+403,Rivian Automotive,Layoff Permanent,340,340,Layoff Permanent,340
+404,Robert Bosch,Layoff Permanent,14,14,Layoff Permanent,14
+405,Robinhood Markets,Layoff Permanent,26,26,Layoff Permanent,26
+406,Rodan & Fields,Layoff Permanent,76,76,Layoff Permanent,76
+407,Roku,Layoff Permanent,135,135,Layoff Permanent,135
+408,Round Table Pizza,Layoff Permanent,66,66,Layoff Permanent,66
+409,Ruan Transport Corporation,Closure Permanent,139,139,Closure Permanent,139
+410,SAP America,Layoff Permanent,108,108,Layoff Permanent,108
+411,SCAT Enterprises,Closure Permanent,48,48,Closure Permanent,48
+412,SMTC Corporation,Layoff Permanent,14,14,Layoff Permanent,14
+413,SP+ Corporation,Closure Permanent,84,84,Closure Permanent,84
+414,SPS Ventures,Layoff Permanent,162,162,Layoff Permanent,162
+415,SPT Microtechnologies USA,Closure Temporary,67,67,Closure Temporary,67
+416,Safeway,Closure Permanent,149,149,Closure Permanent,149
+417,Safran Cabin,Closure Permanent,281,281,Closure Permanent,281
+418,Sakata Seed America,Closure Permanent,36,36,Closure Permanent,36
+419,Salesforce,Layoff Permanent,51,51,Layoff Permanent,51
+420,San Diego Imaging Management,Layoff Permanent,52,52,Layoff Permanent,52
+421,Sangamo Therapeutics,Closure Permanent,65,102,Closure Permanent,65
+422,Sangamo Therapeutics,Closure Permanent,65,102,Layoff Permanent,37
+423,Sangamo Therapeutics,Layoff Permanent,37,102,Closure Permanent,65
+424,Sangamo Therapeutics,Layoff Permanent,37,102,Layoff Permanent,37
+425,Sanofi,Closure Permanent,100,100,Closure Permanent,100
+426,Scenario-Cockram USA,Layoff Permanent,53,53,Layoff Permanent,53
+427,Scripps Health,Layoff Permanent,147,147,Layoff Permanent,147
+428,Sega of America,Layoff Permanent,76,76,Layoff Permanent,76
+429,Shadow Holdings,Layoff Permanent,60,60,Layoff Permanent,60
+430,Shaw Industries Group,Closure Permanent,283,283,Closure Permanent,283
+431,Shift Technologies,Closure Permanent,78,78,Closure Permanent,78
+432,Silgan Containers Manufacturing Corporation,Closure Permanent,64,64,Closure Permanent,64
+433,Snap Inc.,Layoff Permanent,174,174,Layoff Permanent,174
+434,SoCal Pizza Holdings,Layoff Permanent,130,130,Layoff Permanent,130
+435,SoCal South OC,Layoff Permanent,25,25,Layoff Permanent,25
+436,Sober Living by the Sea,Closure Permanent,65,65,Closure Permanent,65
+437,"Sodexo, Inc.",Layoff Permanent,68,68,Layoff Permanent,68
+438,Solidigm,Layoff Permanent,270,270,Layoff Permanent,270
+439,Sonoco,Closure Permanent,292,292,Closure Permanent,292
+440,Sony,Layoff Permanent,118,118,Layoff Permanent,118
+441,Sorrento Therapeutics,Layoff Permanent,77,77,Layoff Permanent,77
+442,South Coast Baking,Closure Permanent,85,85,Closure Permanent,85
+443,Southern California Pizza Company,Layoff Permanent,686,686,Layoff Permanent,686
+444,Southern Counties Express,Layoff Permanent,43,43,Layoff Permanent,43
+445,Spencer Construction,Layoff Permanent,105,105,Layoff Permanent,105
+446,Splash Cafe,Closure Permanent,29,29,Closure Permanent,29
+447,Splunk Inc.,Layoff Permanent,176,176,Layoff Permanent,176
+448,Spotify,Layoff Permanent,112,112,Layoff Permanent,112
+449,St James Infirmary,Closure Permanent,71,71,Closure Permanent,71
+450,St. John of God Health Care Services,Layoff Permanent,27,27,Layoff Permanent,27
+451,St. Vincent de Paul High School,Closure Permanent,68,68,Closure Permanent,68
+452,Stanislaus Surgical Hospital,Closure Temporary,191,191,Closure Temporary,191
+453,Steelcase Inc.,Closure Permanent,40,40,Closure Permanent,40
+454,Stir Foods,Closure Permanent,87,87,Closure Permanent,87
+455,Sugar Foods,Closure Permanent,72,72,Closure Permanent,72
+456,Sumo Logic,Layoff Permanent,79,79,Layoff Permanent,79
+457,Sunrise Growers Inc.,Closure Permanent,34,34,Closure Permanent,34
+458,Sunrun Inc.,Layoff Permanent,22,22,Layoff Permanent,22
+459,Surefox North America Inc,Layoff Permanent,386,386,Layoff Permanent,386
+460,Surgalign Spine Technologies,Closure Permanent,99,99,Closure Permanent,99
+461,Syngenta Seeds,Closure Permanent,56,56,Closure Permanent,56
+462,T. Hasegawa U.S.A.,Closure Permanent,13,13,Closure Permanent,13
+463,TAO Group Hospitality,Layoff Permanent,10,10,Layoff Permanent,10
+464,TCWGlobal,Closure Permanent,88,88,Closure Permanent,88
+465,TE Connectivity,Closure Permanent,119,119,Closure Permanent,119
+466,TIDAL,Layoff Permanent,1,1,Layoff Permanent,1
+467,TMG Hotel,Closure Permanent,144,144,Closure Permanent,144
+468,TTM Technologies,Closure Permanent,342,342,Closure Permanent,342
+469,"TVT Trucking, Inc",Closure Permanent,142,142,Closure Permanent,142
+470,Talis Biomedical Corporation,Closure Permanent,103,103,Closure Permanent,103
+471,Target,Closure Permanent,238,238,Closure Permanent,238
+472,Tattooed Chef,Closure Permanent,20,20,Closure Permanent,20
+473,Technical Consumer Products,Closure Permanent,11,11,Closure Permanent,11
+474,Telecare Corporation,Closure Permanent,100,100,Closure Permanent,100
+475,Temple Nightclub,Closure Permanent,86,86,Closure Permanent,86
+476,Tempo Automation Holdings,Closure Permanent,58,58,Closure Permanent,58
+477,Terre du Soleil,Layoff Temporary,217,217,Layoff Temporary,217
+478,The Apothecarium,Closure Permanent,7,7,Closure Permanent,7
+479,The Boeing Company,Layoff Permanent,91,91,Layoff Permanent,91
+480,The Dog,Closure Permanent,5,5,Closure Permanent,5
+481,The Health Trust,Layoff Permanent,87,87,Layoff Permanent,87
+482,The Hills Hotel,Layoff Permanent,73,73,Layoff Permanent,73
+483,The Hotel del Coronado,Layoff Temporary,197,197,Layoff Temporary,197
+484,The Real Good Food Company,Closure Permanent,21,28,Closure Permanent,21
+485,The Real Good Food Company,Closure Permanent,21,28,Layoff Permanent,7
+486,The Real Good Food Company,Layoff Permanent,7,28,Closure Permanent,21
+487,The Real Good Food Company,Layoff Permanent,7,28,Layoff Permanent,7
+488,The Rinks Foundation,Closure Permanent,35,35,Closure Permanent,35
+489,The Ronin Project,Closure Permanent,131,131,Closure Permanent,131
+490,The Vons Companies,Closure Permanent,53,53,Closure Permanent,53
+491,Thermo Fisher Scientific,Closure Permanent,74,356,Closure Permanent,74
+492,Thermo Fisher Scientific,Closure Permanent,74,356,Layoff Permanent,282
+493,Thermo Fisher Scientific,Layoff Permanent,282,356,Closure Permanent,74
+494,Thermo Fisher Scientific,Layoff Permanent,282,356,Layoff Permanent,282
+495,Tower Semiconductor,Layoff Temporary,699,699,Layoff Temporary,699
+496,Transdev Services,Closure Permanent,179,179,Closure Permanent,179
+497,Tri-City Medical Center,Layoff Permanent,96,96,Layoff Permanent,96
+498,TriLink Biotechnologies,Layoff Permanent,88,88,Layoff Permanent,88
+499,Tropitone Furniture Company,Closure Permanent,8,8,Closure Permanent,8
+500,Trove Recommerce,Closure Permanent,124,124,Closure Permanent,124
+501,"TuSimple, Inc.",Layoff Permanent,107,107,Layoff Permanent,107
+502,"Twitch Interactive, Inc.",Layoff Permanent,218,218,Layoff Permanent,218
+503,UPS,Layoff Permanent,401,401,Layoff Permanent,401
+504,US Display Group,Closure Permanent,50,50,Closure Permanent,50
+505,US Motor Works,Layoff Permanent,8,8,Layoff Permanent,8
+506,USS-UPI,Closure Permanent,474,474,Closure Permanent,474
+507,United Road Services,Closure Permanent,4,4,Closure Permanent,4
+508,Unity Technologies,Layoff Permanent,169,169,Layoff Permanent,169
+509,"Universal Intermodal Services, Inc.",Layoff Permanent,42,42,Layoff Permanent,42
+510,Universal Music Group,Layoff Permanent,83,83,Layoff Permanent,83
+511,Universal Protection Service,Layoff Permanent,37,37,Layoff Permanent,37
+512,VF Santa Fe Springs Distribution Center,Closure Permanent,255,255,Closure Permanent,255
+513,Valiant Integrated Services,Layoff Permanent,137,137,Layoff Permanent,137
+514,Valley Processing,Closure Permanent,60,60,Closure Permanent,60
+515,Vans HQ,Layoff Permanent,42,42,Layoff Permanent,42
+516,Vertical Supply Group,Closure Permanent,7,7,Closure Permanent,7
+517,"Viasat, Inc",Layoff Permanent,239,239,Layoff Permanent,239
+518,Vionic Consumer Care Operations,Closure Permanent,6,6,Closure Permanent,6
+519,Virgin Galactic,Layoff Permanent,78,78,Layoff Permanent,78
+520,Visalia Citrus Packing Group,Closure Permanent,65,65,Closure Permanent,65
+521,Visalia Times Delta,Layoff Permanent,24,24,Layoff Permanent,24
+522,Volta Inc.,Closure Permanent,68,68,Closure Permanent,68
+523,WIS International,Closure Permanent,12,12,Closure Permanent,12
+524,WaFD Bank,Layoff Permanent,49,49,Layoff Permanent,49
+525,Walmart,Closure Permanent,590,669,Closure Permanent,590
+526,Walmart,Closure Permanent,590,669,Layoff Permanent,79
+527,Walmart,Layoff Permanent,79,669,Closure Permanent,590
+528,Walmart,Layoff Permanent,79,669,Layoff Permanent,79
+529,Walters & Wolf Precast,Closure Permanent,86,86,Closure Permanent,86
+530,Watermark Services,Layoff Permanent,41,41,Layoff Permanent,41
+531,Wayfair,Layoff Permanent,74,74,Layoff Permanent,74
+532,Wells Fargo,Layoff Permanent,51,51,Layoff Permanent,51
+533,West Coast Industries,Closure Permanent,57,57,Closure Permanent,57
+534,Western Digital,Layoff Permanent,117,117,Layoff Permanent,117
+535,Western Power Sports,Closure Permanent,11,11,Closure Permanent,11
+536,William Kreysler & Associates,Layoff Permanent,171,171,Layoff Permanent,171
+537,Williams-Sonoma Direct,Closure Permanent,36,36,Closure Permanent,36
+538,"Wolfspeed, Inc.",Layoff Permanent,50,50,Layoff Permanent,50
+539,Woodbury University,Closure Permanent,10,10,Closure Permanent,10
+540,Woodland Rite Aid Distribution Center,Closure Permanent,241,241,Closure Permanent,241
+541,Workforce Enterprises,Closure Permanent,186,186,Closure Permanent,186
+542,Xcite Steps,Closure Permanent,195,195,Closure Permanent,195
+543,Xerxes Corporation,Closure Permanent,106,106,Closure Permanent,106
+544,Yelloh,Closure Permanent,18,18,Closure Permanent,18
+545,Yellow Corporation,Closure Permanent,94,94,Closure Permanent,94
+546,Z Gallerie,Layoff Permanent,15,15,Layoff Permanent,15
+547,"Zwift, Inc.",Layoff Permanent,76,76,Layoff Permanent,76
+548,Zymergen Inc.,Layoff Permanent,108,108,Layoff Permanent,108
+549,dnata US Inflight Catering,Layoff Permanent,1,1,Layoff Permanent,1
+550,eBay Inc.,Layoff Permanent,281,281,Layoff Permanent,281
