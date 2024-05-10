@@ -1,0 +1,514 @@
+,Company,Total Employees,Layoff Status,No. of Employees,Percentage of Employees
+0,99 Cents Only Stores,1043,Closure Permanent,1043,100%
+1,"A.C. Vroman, Inc.",12,Closure Permanent,12,100%
+2,ABM General Services,25,Layoff Permanent,25,100%
+3,ACRT Pacific,58,Layoff Permanent,58,100%
+4,ADT Solar,58,Closure Permanent,58,100%
+5,AHMC San Gabriel Valley Medical Center,94,Layoff Permanent,94,100%
+6,AMP Printing,35,Closure Permanent,35,100%
+7,AMQ Solutions,37,Closure Permanent,37,100%
+8,ATI Restoration,18,Closure Permanent,18,100%
+9,AVMAC,153,Layoff Permanent,153,100%
+10,Abbott,12,Closure Permanent,12,100%
+11,Accenture,327,Closure Permanent,240,73%
+12,Accenture,327,Layoff Permanent,87,27%
+13,Accesso,111,Layoff Permanent,111,100%
+14,Ace Hotel Group,169,Layoff Permanent,169,100%
+15,Active Wellness,80,Layoff Permanent,80,100%
+16,Activision Blizzard,916,Layoff Permanent,916,100%
+17,Acutus Medical,147,Layoff Permanent,147,100%
+18,Adidas America,28,Closure Permanent,28,100%
+19,Adventist Health,53,Layoff Permanent,53,100%
+20,Age of Learning,94,Layoff Permanent,94,100%
+21,Agilent Technologies,36,Layoff Permanent,36,100%
+22,Airtable,99,Layoff Permanent,99,100%
+23,Ajinomoto Foods North America,538,Layoff Temporary,538,100%
+24,Alchemee,12,Closure Permanent,12,100%
+25,Allakos,59,Layoff Permanent,59,100%
+26,Allen Brothers West Coast,53,Closure Permanent,53,100%
+27,Alsco,107,Closure Permanent,107,100%
+28,Alstom Mass Transit Corp.,41,Closure Permanent,41,100%
+29,Alto Operations California,34,Closure Permanent,34,100%
+30,Alvarado Hospital,814,Closure Permanent,6,1%
+31,Alvarado Hospital,814,Layoff Permanent,808,99%
+32,Amazon,284,Closure Permanent,114,40%
+33,Amazon,284,Layoff Permanent,170,60%
+34,Amentum at NAS,73,Layoff Permanent,73,100%
+35,Amgen,4,Closure Permanent,4,100%
+36,Amware Fulfillment,84,Closure Permanent,84,100%
+37,Amyris,328,Layoff Permanent,328,100%
+38,Analog Devices,111,Layoff Permanent,111,100%
+39,Anaplan,119,Layoff Permanent,119,100%
+40,Anchor Brewing Company,55,Closure Permanent,55,100%
+41,AppFolio,127,Layoff Permanent,127,100%
+42,Apple,735,Layoff Permanent,735,100%
+43,Arden Hills Country Club,33,Closure Permanent,33,100%
+44,Astra Space Operations,58,Layoff Permanent,58,100%
+45,Atara Biotherapeutics,117,Layoff Permanent,117,100%
+46,Aura Management,324,Closure Permanent,312,96%
+47,Aura Management,324,Layoff Permanent,12,4%
+48,Aurora Solar Inc.,115,Layoff Permanent,115,100%
+49,B. Braun Medical Inc.,83,Layoff Permanent,83,100%
+50,BILL Operations,468,Layoff Permanent,468,100%
+51,BMO Bank,228,Layoff Permanent,228,100%
+52,Balfour Beatty US Civils,222,Layoff Permanent,222,100%
+53,Bamboo Group Operations,40,Closure Permanent,40,100%
+54,Bandier West Hollywood,7,Layoff Permanent,7,100%
+55,Bank of the West,248,Layoff Permanent,248,100%
+56,Baxalta US,5,Layoff Permanent,5,100%
+57,Bay Area PL Services,87,Layoff Permanent,87,100%
+58,Beauty & Essex,82,Closure Permanent,82,100%
+59,Bechtel Infrastructure & Power Corporation,84,Closure Permanent,84,100%
+60,"Becton, Dickinson and Company",27,Layoff Permanent,27,100%
+61,"Berry Global, Inc.",160,Closure Permanent,160,100%
+62,Beyond Hello CA,2,Closure Permanent,2,100%
+63,Bionano Genomics,64,Layoff Permanent,64,100%
+64,BlackLine Systems,116,Layoff Permanent,116,100%
+65,"Block, Inc.",51,Layoff Permanent,51,100%
+66,Bloom Energy Corporation,180,Layoff Permanent,180,100%
+67,Blowfish,20,Closure Permanent,20,100%
+68,Blue Shield of California,165,Layoff Permanent,165,100%
+69,Boardriders Wholesale,698,Layoff Permanent,698,100%
+70,Boeing Company,3,Layoff Permanent,3,100%
+71,Boston Scientific Corporation,52,Closure Permanent,52,100%
+72,Bridge Staffing,115,Closure Permanent,115,100%
+73,BrightDrop,6,Layoff Permanent,6,100%
+74,Bristol Myers Squibb,252,Layoff Permanent,252,100%
+75,Broadcom,1267,Layoff Permanent,1267,100%
+76,Brookfield Properties,113,Layoff Permanent,113,100%
+77,Burke Williams,110,Closure Temporary,110,100%
+78,BuzzFeed Media Enterprises,59,Layoff Permanent,59,100%
+79,C&E GP Specialists,16,Closure Permanent,16,100%
+80,CSL Vifor,85,Layoff Permanent,85,100%
+81,Cacique Foods,225,Closure Permanent,225,100%
+82,California Institute of Technology,521,Layoff Permanent,521,100%
+83,California Resources Corporation,61,Layoff Permanent,61,100%
+84,CamelBak Products,43,Layoff Permanent,43,100%
+85,Capital One Financial,49,Closure Permanent,49,100%
+86,Carbon Health,56,Layoff Permanent,56,100%
+87,"Carbon, Inc.",60,Layoff Permanent,60,100%
+88,Cardinal Glass Industries,29,Closure Permanent,29,100%
+89,"Catalent, Inc.",90,Closure Permanent,90,100%
+90,Centerra Group,402,Layoff Permanent,402,100%
+91,Central Admixture Pharmacy Services,99,Closure Permanent,99,100%
+92,Cepheid,92,Layoff Permanent,92,100%
+93,Certified Freight Logistics,154,Closure Permanent,154,100%
+94,ChargePoint,195,Layoff Permanent,195,100%
+95,Charles River Laboratories,55,Closure Permanent,55,100%
+96,Charles Schwab & Co.,155,Layoff Permanent,155,100%
+97,Chart Inc.,8,Closure Permanent,8,100%
+98,Checkr,260,Layoff Permanent,260,100%
+99,Chick-fil-A,82,Closure Temporary,82,100%
+100,Circle C Ranch,14,Layoff Permanent,14,100%
+101,Cisco Systems,1081,Layoff Permanent,1081,100%
+102,City National Bank,127,Layoff Permanent,127,100%
+103,Clari,139,Layoff Permanent,139,100%
+104,Codexis,59,Layoff Permanent,59,100%
+105,Coherent Corp.,61,Layoff Permanent,61,100%
+106,Cole Haan,9,Layoff Permanent,9,100%
+107,Collins Pine Company,62,Layoff Temporary,62,100%
+108,Command Security Service,33,Layoff Permanent,33,100%
+109,Company 3 Method,19,Layoff Temporary,19,100%
+110,Comprehensive Autism Center,9,Closure Permanent,9,100%
+111,Connect Homes,75,Closure Permanent,75,100%
+112,Container Connection,64,Layoff Permanent,64,100%
+113,ContextLogic Inc.,152,Layoff Permanent,152,100%
+114,Coronado Brewing Company,27,Closure Permanent,27,100%
+115,Corteva Agriscience,37,Layoff Permanent,37,100%
+116,Cotton On La Mirada Distribution Center,88,Closure Permanent,88,100%
+117,Country Club Mortgage,28,Closure Permanent,28,100%
+118,Covanta Long Beach Renewable Energy Corp.,39,Closure Permanent,39,100%
+119,Covanta Projects,10,Closure Permanent,10,100%
+120,Covenant Living Communities & Services,168,Closure Permanent,168,100%
+121,Cracker Barrel,151,Closure Permanent,151,100%
+122,Cruise LLC,330,Layoff Permanent,330,100%
+123,Crunchbase,63,Layoff Permanent,63,100%
+124,Crystal Geyser Water Company,28,Layoff Permanent,28,100%
+125,Cue Health,12,Layoff Permanent,12,100%
+126,Cummins Meritor,16,Layoff Permanent,16,100%
+127,Curio Employer,53,Layoff Temporary,53,100%
+128,Cygnus Home Service,48,Closure Permanent,48,100%
+129,D' Addario Woodwinds,33,Closure Permanent,6,18%
+130,D' Addario Woodwinds,33,Layoff Permanent,27,82%
+131,DHL Supply Chain,122,Closure Permanent,122,100%
+132,DXS Logistics,80,Closure Permanent,80,100%
+133,Dabico Airport Solutions,25,Closure Permanent,25,100%
+134,Daifuku Services America Corporation,155,Layoff Permanent,155,100%
+135,Dairy Farmers of America,68,Closure Permanent,68,100%
+136,Daiso Distribution Center,74,Closure Permanent,74,100%
+137,David's Bridal,271,Layoff Permanent,271,100%
+138,DazPak Flexible Packaging,19,Closure Permanent,19,100%
+139,DePuy Synthes Products,25,Layoff Permanent,25,100%
+140,Del Friscos Grille,53,Closure Permanent,53,100%
+141,Deliver-It,107,Closure Permanent,107,100%
+142,Delta Dental Plan of California,137,Layoff Permanent,137,100%
+143,Discord,160,Layoff Permanent,160,100%
+144,Distribution Alternatives,40,Closure Permanent,40,100%
+145,Divvy Homes,95,Layoff Permanent,95,100%
+146,DreamWorks Animation,72,Layoff Permanent,72,100%
+147,Dreyer's Grand Ice Cream,2336,Layoff Temporary,2336,100%
+148,Dynaflex Prodcuts,14,Closure Permanent,14,100%
+149,E. J. Lauren,69,Closure Permanent,69,100%
+150,EchoPark Automotive Long Beach,32,Closure Permanent,32,100%
+151,Eclipse Advantage,38,Closure Permanent,38,100%
+152,El Dorado National (California),425,Layoff Permanent,425,100%
+153,Elevance Health,87,Layoff Permanent,87,100%
+154,Epic Games,97,Layoff Permanent,97,100%
+155,Ericsson Inc.,170,Layoff Permanent,170,100%
+156,"Exabeam, Inc.",94,Layoff Permanent,94,100%
+157,Exelixis,143,Layoff Permanent,143,100%
+158,Experian Information Solutions,70,Layoff Permanent,70,100%
+159,FM Restaurants HQ,81,Closure Permanent,81,100%
+160,FUJIFILM Irvine Scientific,57,Layoff Permanent,57,100%
+161,FabFitFun Fulfillment Center,63,Layoff Permanent,63,100%
+162,Faire Wholesale,70,Layoff Permanent,70,100%
+163,Family YMCA,85,Layoffs Unknown,85,100%
+164,"Farmers Group, Inc.",68,Layoff Permanent,68,100%
+165,Farmers Insurance Exchange,2,Layoff Permanent,2,100%
+166,Fashion Institute of Design & Merchandising,322,Layoff Permanent,322,100%
+167,"FedEx Supply Chain, Inc.",39,Layoff Permanent,39,100%
+168,Federal Express Corporation,405,Closure Permanent,405,100%
+169,"FibroGen, Inc.",104,Layoff Permanent,104,100%
+170,First Financial Credit Union,3,Closure Permanent,3,100%
+171,"Fish Market Restaurants, Inc.",144,Closure Permanent,144,100%
+172,Flex LTD,31,Layoff Permanent,31,100%
+173,Flexport,233,Layoff Permanent,233,100%
+174,ForgeRock,97,Layoff Permanent,97,100%
+175,Foundation for California Community Colleges,298,Layoff Permanent,298,100%
+176,Front Porch Communities and Services,185,Closure Permanent,185,100%
+177,Full Steam Staffing,323,Layoff Permanent,323,100%
+178,G&C Staffing,54,Layoff Permanent,54,100%
+179,GAP,34,Layoff Permanent,34,100%
+180,GE United Technologies,188,Closure Permanent,188,100%
+181,"GXO Logistics Supply Chain, Inc.",61,Closure Permanent,61,100%
+182,Gemological Institute of America,151,Layoff Permanent,151,100%
+183,Genentech,436,Layoff Permanent,436,100%
+184,Gibson Overseas,44,Closure Permanent,44,100%
+185,Gilead Sciences,42,Layoff Permanent,42,100%
+186,Gillette Citrus,93,Layoff Permanent,93,100%
+187,Ginger.io,19,Layoff Permanent,19,100%
+188,Global Expedited Transportation,51,Closure Permanent,51,100%
+189,Global Medical Response,84,Closure Permanent,84,100%
+190,Golden Gate Fields,203,Closure Permanent,203,100%
+191,Google,25,Layoff Permanent,25,100%
+192,Grammarly,82,Layoff Permanent,82,100%
+193,HMI,16,Closure Permanent,16,100%
+194,HMSHost,127,Closure Permanent,127,100%
+195,Hallcon Corporation,65,Layoff Permanent,65,100%
+196,Happy Money,89,Layoff Permanent,89,100%
+197,Hawker Pacific Aerospace,260,Layoff Permanent,260,100%
+198,Headspace,158,Layoff Permanent,158,100%
+199,Headway Technologies,90,Layoff Permanent,90,100%
+200,Henry Mayo Newhall Hospital,107,Layoff Permanent,107,100%
+201,Herbalife International of America,97,Layoff Permanent,97,100%
+202,"Hinge Health, Inc.",45,Layoff Permanent,45,100%
+203,Hollingsworth,15,Closure Permanent,15,100%
+204,Hyatt Centric,111,Layoff Temporary,111,100%
+205,Hyperloop,3,Layoff Permanent,3,100%
+206,IKEA,147,Closure Permanent,147,100%
+207,ISU PETASYS CORP.,96,Closure Permanent,96,100%
+208,ITC Federal,125,Layoff Permanent,125,100%
+209,Il Fornaio (America),54,Closure Permanent,54,100%
+210,Illumina Inc,75,Layoff Permanent,75,100%
+211,Image Solutions Apparel,21,Closure Permanent,21,100%
+212,ImmunityBio,48,Layoff Permanent,48,100%
+213,Imperial Bag & Paper Co.,20,Closure Permanent,20,100%
+214,In-N-Out Burgers,115,Closure Permanent,115,100%
+215,Individualized ABA Services for Families,65,Closure Permanent,65,100%
+216,Informatica,90,Layoff Permanent,90,100%
+217,Instacart,105,Layoff Permanent,105,100%
+218,Intel Corporation,824,Layoff Permanent,824,100%
+219,Intense Lighting,90,Closure Permanent,90,100%
+220,Invitae Corporation,238,Layoff Permanent,238,100%
+221,J.B. Hunt Transport,358,Closure Permanent,358,100%
+222,JUUL Labs,4,Layoff Permanent,4,100%
+223,Jabil Inc.,1181,Closure Permanent,52,4%
+224,Jabil Inc.,1181,Closure Temporary,738,62%
+225,Jabil Inc.,1181,Layoff Permanent,253,21%
+226,Jabil Inc.,1181,Layoff Temporary,138,12%
+227,Jacmar Foodservice Distribution,92,Layoff Permanent,92,100%
+228,Janssen Research & Development,55,Closure Permanent,55,100%
+229,Javier's Newport Beach,239,Closure Temporary,239,100%
+230,Jensen Enterprises Inc,40,Closure Permanent,40,100%
+231,John Muir Health (JMH),164,Layoff Permanent,164,100%
+232,Johns Manville,54,Closure Temporary,54,100%
+233,Johnson & Johnson,84,Closure Permanent,84,100%
+234,Joy Signal Technology,127,Closure Permanent,127,100%
+235,Juniper Networks,166,Layoff Permanent,166,100%
+236,Juul Labs,26,Layoff Permanent,26,100%
+237,Kaiser Foundation Hospitals,8,Layoff Permanent,8,100%
+238,KeHE Distributors,80,Layoff Permanent,80,100%
+239,Kelly Toys Holding,8,Closure Permanent,8,100%
+240,Kett Engineering Corporation,180,Layoff Permanent,180,100%
+241,Kinecta Federal Credit Union,85,Layoff Permanent,85,100%
+242,Kings Garden,70,Layoff Permanent,70,100%
+243,Kitayama Brothers,56,Closure Permanent,56,100%
+244,Knauf Insulation Inc.,97,Layoff Temporary,97,100%
+245,Knox Attorney Service,85,Closure Permanent,85,100%
+246,Kraft Heinz Foods Company,60,Closure Permanent,60,100%
+247,Kuubix Global,7,Closure Permanent,7,100%
+248,L3 Technologies,134,Closure Permanent,134,100%
+249,LAVO Italian Restaurant,83,Closure Permanent,83,100%
+250,LEER Group,27,Closure Permanent,27,100%
+251,"La Reina, CA Religious Nonprofit Corp",57,Closure Permanent,57,100%
+252,La Tortilla Factory,132,Closure Permanent,132,100%
+253,Lance Camper Mfg. Corp,123,Layoff Permanent,123,100%
+254,Langmuir Systems,16,Closure Permanent,16,100%
+255,Lazy Dog Restaurant and Bar,109,Closure Permanent,109,100%
+256,Legacy Supply Chain Services,53,Closure Permanent,53,100%
+257,"Leggett & Platt, Inc.",55,Closure Permanent,55,100%
+258,LendingClub Bank,90,Layoff Permanent,90,100%
+259,Lendlease Americas Inc.,57,Closure Permanent,1,2%
+260,Lendlease Americas Inc.,57,Layoff Permanent,56,98%
+261,Levi Strauss & Co.,146,Layoff Permanent,146,100%
+262,Levy Premium Foodservice,83,Layoff Temporary,83,100%
+263,Lifelong Medical Care,55,Closure Permanent,55,100%
+264,"Liminex, Inc.",95,Layoff Permanent,95,100%
+265,LinkedIn,625,Layoff Permanent,625,100%
+266,Locanabio,58,Closure Permanent,58,100%
+267,Lockheed Martin,69,Layoff Permanent,69,100%
+268,Lonza Biologics,218,Closure Permanent,218,100%
+269,Los Angeles Times Communications,316,Closure Permanent,148,47%
+270,Los Angeles Times Communications,316,Layoff Permanent,168,53%
+271,Lowell Farms,11,Closure Permanent,11,100%
+272,Lumentum Operations,82,Layoff Permanent,82,100%
+273,Lund Motion Products,117,Layoff Permanent,117,100%
+274,"MV Transportation, Inc.",20,Layoff Permanent,20,100%
+275,Macy's,68,Closure Permanent,68,100%
+276,Marriott,127,Closure Permanent,127,100%
+277,"Marvell Semiconductor, Inc.",131,Layoff Permanent,131,100%
+278,MasterBrand Cabinets LLC,90,Layoff Permanent,90,100%
+279,Matheson Inc,40,Closure Permanent,40,100%
+280,"MaxLite, Inc.",4,Closure Permanent,4,100%
+281,Maxar Space,6,Layoff Permanent,6,100%
+282,MedMen Enterprises,17,Layoff Permanent,17,100%
+283,Medtronic,44,Layoff Permanent,44,100%
+284,MemorialCare Long Beach Medical Center,58,Layoff Permanent,58,100%
+285,Mercy Medical Transportation,58,Layoff Permanent,58,100%
+286,Microsoft,42,Layoff Permanent,42,100%
+287,Mission Foods,93,Layoff Permanent,93,100%
+288,Miyoko's PBC,33,Layoff Permanent,33,100%
+289,Momentum for Health,86,Closure Permanent,86,100%
+290,Monocle,3,Closure Permanent,3,100%
+291,Monte Nido & Affiliates,6,Closure Permanent,6,100%
+292,Morrison Healthcare,74,Layoff Permanent,74,100%
+293,NEOTech,76,Closure Permanent,76,100%
+294,NFI National Distribution Centers,31,Closure Permanent,31,100%
+295,NRI USA,164,Closure Permanent,164,100%
+296,NSI Services,198,Closure Permanent,198,100%
+297,NZXT,55,Closure Permanent,55,100%
+298,National Distribution Centers,7,Layoffs Unknown,7,100%
+299,Natural Alternatives International,66,Closure Temporary,66,100%
+300,Neovia Logistics Distribution,31,Closure Permanent,31,100%
+301,Nestle,161,Layoff Temporary,161,100%
+302,Nevro Corp.,63,Layoff Permanent,63,100%
+303,Newark Group,74,Closure Permanent,74,100%
+304,Newell Brands Distribution,48,Closure Permanent,48,100%
+305,NextGen Healthcare,103,Layoff Permanent,103,100%
+306,Nextdoor,99,Layoff Permanent,99,100%
+307,Niagara Bottling,111,Layoff Permanent,111,100%
+308,"Niantic, Inc.",164,Closure Permanent,107,65%
+309,"Niantic, Inc.",164,Layoff Permanent,57,35%
+310,Nobel House Home Furnishings,61,Closure Permanent,61,100%
+311,Nordson Corporation,69,Layoff Permanent,69,100%
+312,Nordstrom,784,Closure Permanent,784,100%
+313,Northrop Grumman,1069,Layoff Permanent,1069,100%
+314,"NuVasive, Inc.",157,Layoff Permanent,157,100%
+315,OTS Solutions,27,Layoff Permanent,27,100%
+316,Ojai Valley Inn,870,Closure Temporary,870,100%
+317,"Okta, Inc.",83,Layoff Permanent,83,100%
+318,"Oracle America, Inc.",65,Layoff Permanent,65,100%
+319,Organic Milling,7,Layoff Permanent,7,100%
+320,Orion Strategic Solutions,10,Layoff Permanent,10,100%
+321,"Osso VR, Inc.",67,Layoff Permanent,67,100%
+322,Owens-Brockway Glass Container,130,Layoff Temporary,130,100%
+323,PIRCH,40,Layoff Permanent,40,100%
+324,PKL Services Inc,89,Layoff Permanent,89,100%
+325,"PLI Holdings, Inc.",217,Closure Permanent,217,100%
+326,"PWLC I, Inc.",60,Layoff Permanent,60,100%
+327,Pac-12,141,Layoff Permanent,141,100%
+328,Pacific Catch,73,Closure Temporary,73,100%
+329,Pacific Coast Sightseeing Tours & Charters,68,Layoff Permanent,68,100%
+330,Palmdale Regional Medical Center,87,Closure Permanent,87,100%
+331,Para Los Ninos,67,Layoff Permanent,67,100%
+332,Paramount Global,142,Layoff Permanent,142,100%
+333,Parker Hannifin Corporation,8,Closure Permanent,8,100%
+334,"Participant Media, LLC",107,Closure Permanent,107,100%
+335,PayPal,311,Layoff Permanent,311,100%
+336,Peloton Interactive Inc.,30,Closure Permanent,30,100%
+337,Pennymac,86,Layoff Permanent,86,100%
+338,Penske Logistics,95,Layoff Permanent,95,100%
+339,"Perfect Day, Inc.",75,Layoff Permanent,75,100%
+340,"Performance Plastics, Inc.",77,Closure Permanent,77,100%
+341,Personalis,62,Layoff Permanent,62,100%
+342,PetVet Care Centers,4,Closure Permanent,4,100%
+343,Petco,56,Layoff Permanent,56,100%
+344,Pfizer,52,Layoff Permanent,52,100%
+345,PhenomeX Inc.,46,Layoff Permanent,46,100%
+346,"Phillips Tool & Die, Inc",7,Closure Permanent,7,100%
+347,Pixelberry Studios,120,Layoff Permanent,120,100%
+348,Pizza Antica Mill Valley,43,Closure Permanent,43,100%
+349,Pizza Hut,2,Layoff Permanent,2,100%
+350,Planet Labs PBC,85,Layoff Permanent,85,100%
+351,Plenty Unlimited Inc.,141,Layoff Permanent,141,100%
+352,Post Acute Registry,42,Closure Permanent,42,100%
+353,Primary Health,60,Layoff Permanent,60,100%
+354,Project Fusion,82,Closure Permanent,82,100%
+355,Prolific Logistics LLC,136,Closure Permanent,136,100%
+356,Proterra Operating Company,48,Layoff Permanent,48,100%
+357,Providence Holy Cross Medical Center,8,Layoff Permanent,8,100%
+358,Pure Storage,81,Layoff Permanent,81,100%
+359,QG Printing II,56,Closure Permanent,56,100%
+360,Qualcomm Incorporated,1258,Layoff Permanent,1258,100%
+361,Quality Fabrication Inc.,55,Closure Permanent,55,100%
+362,Quanex Homeshield,58,Closure Permanent,58,100%
+363,REACH Medical Holdings,23,Closure Permanent,23,100%
+364,RSN Co.,5,Closure Permanent,5,100%
+365,Reins International California,52,Closure Permanent,52,100%
+366,Renesas Electronics Corporation,65,Layoff Permanent,65,100%
+367,ResMEd Inc.,364,Layoff Permanent,364,100%
+368,"Resort Vacations, Inc.",58,Closure Permanent,24,41%
+369,"Resort Vacations, Inc.",58,Layoff Permanent,34,59%
+370,Ridgecrest Regional Hospital,61,Layoff Permanent,61,100%
+371,Rieke LLC,70,Closure Permanent,70,100%
+372,Riot Games,336,Layoff Permanent,336,100%
+373,Rivian Automotive,340,Layoff Permanent,340,100%
+374,Robert Bosch,14,Layoff Permanent,14,100%
+375,Robinhood Markets,26,Layoff Permanent,26,100%
+376,Rodan & Fields,76,Layoff Permanent,76,100%
+377,Roku,135,Layoff Permanent,135,100%
+378,Round Table Pizza,66,Layoff Permanent,66,100%
+379,Ruan Transport Corporation,139,Closure Permanent,139,100%
+380,SAP America,108,Layoff Permanent,108,100%
+381,SCAT Enterprises,48,Closure Permanent,48,100%
+382,SMTC Corporation,14,Layoff Permanent,14,100%
+383,SP+ Corporation,84,Closure Permanent,84,100%
+384,SPS Ventures,162,Layoff Permanent,162,100%
+385,SPT Microtechnologies USA,67,Closure Temporary,67,100%
+386,Safeway,149,Closure Permanent,149,100%
+387,Safran Cabin,281,Closure Permanent,281,100%
+388,Sakata Seed America,36,Closure Permanent,36,100%
+389,Salesforce,51,Layoff Permanent,51,100%
+390,San Diego Imaging Management,52,Layoff Permanent,52,100%
+391,Sangamo Therapeutics,102,Closure Permanent,65,64%
+392,Sangamo Therapeutics,102,Layoff Permanent,37,36%
+393,Sanofi,100,Closure Permanent,100,100%
+394,Scenario-Cockram USA,53,Layoff Permanent,53,100%
+395,Scripps Health,147,Layoff Permanent,147,100%
+396,Sega of America,76,Layoff Permanent,76,100%
+397,Shadow Holdings,60,Layoff Permanent,60,100%
+398,Shaw Industries Group,283,Closure Permanent,283,100%
+399,Shift Technologies,78,Closure Permanent,78,100%
+400,Silgan Containers Manufacturing Corporation,64,Closure Permanent,64,100%
+401,Snap Inc.,174,Layoff Permanent,174,100%
+402,SoCal Pizza Holdings,130,Layoff Permanent,130,100%
+403,SoCal South OC,25,Layoff Permanent,25,100%
+404,Sober Living by the Sea,65,Closure Permanent,65,100%
+405,"Sodexo, Inc.",68,Layoff Permanent,68,100%
+406,Solidigm,270,Layoff Permanent,270,100%
+407,Sonoco,292,Closure Permanent,292,100%
+408,Sony,118,Layoff Permanent,118,100%
+409,Sorrento Therapeutics,77,Layoff Permanent,77,100%
+410,South Coast Baking,85,Closure Permanent,85,100%
+411,Southern California Pizza Company,686,Layoff Permanent,686,100%
+412,Southern Counties Express,43,Layoff Permanent,43,100%
+413,Spencer Construction,105,Layoff Permanent,105,100%
+414,Splash Cafe,29,Closure Permanent,29,100%
+415,Splunk Inc.,176,Layoff Permanent,176,100%
+416,Spotify,112,Layoff Permanent,112,100%
+417,St James Infirmary,71,Closure Permanent,71,100%
+418,St. John of God Health Care Services,27,Layoff Permanent,27,100%
+419,St. Vincent de Paul High School,68,Closure Permanent,68,100%
+420,Stanislaus Surgical Hospital,191,Closure Temporary,191,100%
+421,Steelcase Inc.,40,Closure Permanent,40,100%
+422,Stir Foods,87,Closure Permanent,87,100%
+423,Sugar Foods,72,Closure Permanent,72,100%
+424,Sumo Logic,79,Layoff Permanent,79,100%
+425,Sunrise Growers Inc.,34,Closure Permanent,34,100%
+426,Sunrun Inc.,22,Layoff Permanent,22,100%
+427,Surefox North America Inc,386,Layoff Permanent,386,100%
+428,Surgalign Spine Technologies,99,Closure Permanent,99,100%
+429,Syngenta Seeds,56,Closure Permanent,56,100%
+430,T. Hasegawa U.S.A.,13,Closure Permanent,13,100%
+431,TAO Group Hospitality,10,Layoff Permanent,10,100%
+432,TCWGlobal,88,Closure Permanent,88,100%
+433,TE Connectivity,119,Closure Permanent,119,100%
+434,TIDAL,1,Layoff Permanent,1,100%
+435,TMG Hotel,144,Closure Permanent,144,100%
+436,TTM Technologies,342,Closure Permanent,342,100%
+437,"TVT Trucking, Inc",142,Closure Permanent,142,100%
+438,Talis Biomedical Corporation,103,Closure Permanent,103,100%
+439,Target,238,Closure Permanent,238,100%
+440,Tattooed Chef,20,Closure Permanent,20,100%
+441,Technical Consumer Products,11,Closure Permanent,11,100%
+442,Telecare Corporation,100,Closure Permanent,100,100%
+443,Temple Nightclub,86,Closure Permanent,86,100%
+444,Tempo Automation Holdings,58,Closure Permanent,58,100%
+445,Terre du Soleil,217,Layoff Temporary,217,100%
+446,The Apothecarium,7,Closure Permanent,7,100%
+447,The Boeing Company,91,Layoff Permanent,91,100%
+448,The Dog,5,Closure Permanent,5,100%
+449,The Health Trust,87,Layoff Permanent,87,100%
+450,The Hills Hotel,73,Layoff Permanent,73,100%
+451,The Hotel del Coronado,197,Layoff Temporary,197,100%
+452,The Real Good Food Company,28,Closure Permanent,21,75%
+453,The Real Good Food Company,28,Layoff Permanent,7,25%
+454,The Rinks Foundation,35,Closure Permanent,35,100%
+455,The Ronin Project,131,Closure Permanent,131,100%
+456,The Vons Companies,53,Closure Permanent,53,100%
+457,Thermo Fisher Scientific,356,Closure Permanent,74,21%
+458,Thermo Fisher Scientific,356,Layoff Permanent,282,79%
+459,Tower Semiconductor,699,Layoff Temporary,699,100%
+460,Transdev Services,179,Closure Permanent,179,100%
+461,Tri-City Medical Center,96,Layoff Permanent,96,100%
+462,TriLink Biotechnologies,88,Layoff Permanent,88,100%
+463,Tropitone Furniture Company,8,Closure Permanent,8,100%
+464,Trove Recommerce,124,Closure Permanent,124,100%
+465,"TuSimple, Inc.",107,Layoff Permanent,107,100%
+466,"Twitch Interactive, Inc.",218,Layoff Permanent,218,100%
+467,UPS,401,Layoff Permanent,401,100%
+468,US Display Group,50,Closure Permanent,50,100%
+469,US Motor Works,8,Layoff Permanent,8,100%
+470,USS-UPI,474,Closure Permanent,474,100%
+471,United Road Services,4,Closure Permanent,4,100%
+472,Unity Technologies,169,Layoff Permanent,169,100%
+473,"Universal Intermodal Services, Inc.",42,Layoff Permanent,42,100%
+474,Universal Music Group,83,Layoff Permanent,83,100%
+475,Universal Protection Service,37,Layoff Permanent,37,100%
+476,VF Santa Fe Springs Distribution Center,255,Closure Permanent,255,100%
+477,Valiant Integrated Services,137,Layoff Permanent,137,100%
+478,Valley Processing,60,Closure Permanent,60,100%
+479,Vans HQ,42,Layoff Permanent,42,100%
+480,Vertical Supply Group,7,Closure Permanent,7,100%
+481,"Viasat, Inc",239,Layoff Permanent,239,100%
+482,Vionic Consumer Care Operations,6,Closure Permanent,6,100%
+483,Virgin Galactic,78,Layoff Permanent,78,100%
+484,Visalia Citrus Packing Group,65,Closure Permanent,65,100%
+485,Visalia Times Delta,24,Layoff Permanent,24,100%
+486,Volta Inc.,68,Closure Permanent,68,100%
+487,WIS International,12,Closure Permanent,12,100%
+488,WaFD Bank,49,Layoff Permanent,49,100%
+489,Walmart,669,Closure Permanent,590,88%
+490,Walmart,669,Layoff Permanent,79,12%
+491,Walters & Wolf Precast,86,Closure Permanent,86,100%
+492,Watermark Services,41,Layoff Permanent,41,100%
+493,Wayfair,74,Layoff Permanent,74,100%
+494,Wells Fargo,51,Layoff Permanent,51,100%
+495,West Coast Industries,57,Closure Permanent,57,100%
+496,Western Digital,117,Layoff Permanent,117,100%
+497,Western Power Sports,11,Closure Permanent,11,100%
+498,William Kreysler & Associates,171,Layoff Permanent,171,100%
+499,Williams-Sonoma Direct,36,Closure Permanent,36,100%
+500,"Wolfspeed, Inc.",50,Layoff Permanent,50,100%
+501,Woodbury University,10,Closure Permanent,10,100%
+502,Woodland Rite Aid Distribution Center,241,Closure Permanent,241,100%
+503,Workforce Enterprises,186,Closure Permanent,186,100%
+504,Xcite Steps,195,Closure Permanent,195,100%
+505,Xerxes Corporation,106,Closure Permanent,106,100%
+506,Yelloh,18,Closure Permanent,18,100%
+507,Yellow Corporation,94,Closure Permanent,94,100%
+508,Z Gallerie,15,Layoff Permanent,15,100%
+509,"Zwift, Inc.",76,Layoff Permanent,76,100%
+510,Zymergen Inc.,108,Layoff Permanent,108,100%
+511,dnata US Inflight Catering,1,Layoff Permanent,1,100%
+512,eBay Inc.,281,Layoff Permanent,281,100%
